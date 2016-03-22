@@ -511,7 +511,101 @@
                         Promedio por áreas
                     </div>
 
-                    <img src="resources/img/demo/notas.png" />
+                   <!-- <img src="resources/img/demo/notas.png" /> -->
+
+<!-- materias -->
+
+<div class="materia_con">
+
+<!-- materia 1 -->
+<div class="materia" data-progress="50">
+    <div class="circle">
+        <div class="mask">
+            <div class="fill"></div>
+        </div>
+        <div class="mask">
+            <div class="fill"></div>
+            <div class="fill"></div>
+        </div>
+        <div class="shadow"></div>
+    </div>
+    <div class="inset">
+        <div class="percentage">
+            <div class="numbers"><span>1.5</span></div>
+        </div>
+    </div>
+    <br>
+    <div class="materia_x">Matemáticas</div>
+</div>
+
+<!-- materia 2 -->
+<div class="materia" data-progress="50">
+    <div class="circle">
+        <div class="mask">
+            <div class="fill"></div>
+        </div>
+        <div class="mask">
+            <div class="fill"></div>
+            <div class="fill"></div>
+        </div>
+        <div class="shadow"></div>
+    </div>
+    <div class="inset">
+        <div class="percentage">
+            <div class="numbers"><span>3.9</span></div>
+        </div>
+    </div>
+    <br>
+    <div class="materia_x">Lengua Extranjera</div>
+</div>
+
+<!-- materia 3 -->
+
+<div class="materia" data-progress="50">
+    <div class="circle">
+        <div class="mask">
+            <div class="fill"></div>
+        </div>
+        <div class="mask">
+            <div class="fill"></div>
+            <div class="fill"></div>
+        </div>
+        <div class="shadow"></div>
+    </div>
+    <div class="inset">
+        <div class="percentage">
+            <div class="numbers"><span>3.3</span></div>
+        </div>
+    </div>
+    <br>
+    <div class="materia_x">Lengua Castellana</div>
+</div>
+
+<!-- materia 4 -->
+
+<div class="materia" data-progress="50">
+    <div class="circle">
+        <div class="mask">
+            <div class="fill"></div>
+        </div>
+        <div class="mask">
+            <div class="fill"></div>
+            <div class="fill"></div>
+        </div>
+        <div class="shadow"></div>
+    </div>
+    <div class="inset">
+        <div class="percentage">
+            <div class="numbers"><span>4.4</span></div>
+        </div>
+    </div>
+    <br>
+    <div class="materia_x">Ciencias Naturales</div>
+</div>
+
+</div>
+
+<!-- materias -->
 
                 </div>
 
@@ -578,7 +672,8 @@
 
                         </div>
                         <div id="asis2" class="tab-pane fade taC">
-                            <br><img src="resources/img/icons/block.png" /><br /><br />
+                           <!--- <br><img src="resources/img/icons/block.png" /><br /><br /> -->
+                           
                         </div>
                     </div>
 

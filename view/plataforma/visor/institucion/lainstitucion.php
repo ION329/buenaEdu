@@ -99,6 +99,7 @@
 
 <div class="materia_con">
 
+<!-- materia 1 -->
 <div class="materia" data-progress="50">
     <div class="circle">
         <div class="mask">
@@ -119,14 +120,32 @@
     <div class="materia_x">Matemáticas</div>
 </div>
 
-
+<!-- materia 2 -->
+<div class="materia" data-progress="50">
+    <div class="circle">
+        <div class="mask">
+            <div class="fill"></div>
+        </div>
+        <div class="mask">
+            <div class="fill"></div>
+            <div class="fill"></div>
+        </div>
+        <div class="shadow"></div>
+    </div>
+    <div class="inset">
+        <div class="percentage">
+            <div class="numbers"><span>3.9</span></div>
+        </div>
+    </div>
+    <br>
+    <div class="materia_x">Lengua Extranjera</div>
+</div>
 
 </div>
 
 <!-- FINAL CODIGO FERNANDO -->
 
-                
-            </div>
+</div>
         </div>
         <div class="col-sm-4 col-xs-4">
             <div class="contEstandar tab rr5 p20 bWhite" style="min-height:220px;">
