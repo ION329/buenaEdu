@@ -1,60 +1,54 @@
+
+/* estilos para lainstitucion.php / materias */
+
 .materia_x {
   text-align: center;
   margin-top: 130px;
 }
-
 .materia_con {
   height: 200px;
 }
-
 .materia {
-  margin: 20px !important;
-  width: 120px !important;
-  height: 120px !important;
-  background-color: #d6dadc !important;
-  border-radius: 50% !important;
+  margin: 20px;
+  width: 120px;
+  height: 120px;
+  background-color: #d6dadc;
+  border-radius: 50%;
   display: inline-block;
   vertical-align: text-top;
 }
-
-.materia[data-progress="50"] .circle .mask.full, .materia[data-progress="50"] .circle .fill {
-  -webkit-transform: rotate(45deg) !important;
-  -ms-transform: rotate(45deg) !important;
-  transform: rotate(45deg) !important;
+.materia[data-progress="50"] .circle .mask .full, .materia[data-progress="50"] .circle .fill {
+  -webkit-transform: rotate(45deg);
+  -ms-transform: rotate(45deg);
+  transform: rotate(45deg);
 }
-
-.materia .circle .mask {
-  clip: rect(0px, 120px, 120px, 60px) !important;
+.mask {
+  clip: rect(0px, 120px, 120px, 60px);
 }
-
-.materia .circle .mask, .materia .circle .fill, .materia .circle .shadow {
-  width: 120px !important;
-  height: 120px !important;
-  position: absolute !important;
-  border-radius: 50% !important;
+.mask, .materia, .fill,  .shadow {
+  width: 120px;
+  height: 120px;
+  position: absolute;
+  border-radius: 50%;
 }
-
-.materia .circle .shadow {
-  box-shadow: 6px 6px 10px rgba(0, 0, 0, 0.2) inset !important;
+.shadow {
+  box-shadow: 6px 6px 10px rgba(0, 0, 0, 0.2) inset;
 }
-
-.circle .mask .fill {
-  clip: rect(0px, 60px, 120px, 0px) !important;
-  background-color: #d10f12  !important;
+.fill {
+  clip: rect(0px, 60px, 120px, 0px);
+  background-color: #d10f12;
 }
-
-.materia .inset .percentage .numbers span {
-  width: 57px !important;
-  display: inline-block !important;
-  vertical-align: top !important;
-  text-align: center !important;
-  font-weight: 800 !important;
-  font-size: 22px !important;
-  font-family: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif !important;
-  color: #30393e !important;
+.numbers span {
+  width: 57px ;
+  display: inline-block ;
+  vertical-align: top ;
+  text-align: center ;
+  font-weight: 800 ;
+  font-size: 22px ;
+  font-family: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif ;
+  color: #30393e ;
 }
-
-.materia .inset {
+.inset {
     width: 90px;
     height: 90px;
     position: absolute;
@@ -64,7 +58,7 @@
     border-radius: 50%;
     box-shadow: 6px 6px 10px rgba(0, 0, 0, 0.2);
 }
-.materia .inset .percentage {
+.percentage {
   height: 22px;
   width: 57px;
   overflow: hidden;
@@ -73,4 +67,3 @@
   left: 16.5px;
   line-height: 1;
 }
-
