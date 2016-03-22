@@ -2,8 +2,8 @@
 
         <div ng-view></div>
         Hoalamdlasmd, este es un nuevo cambio
+        Este es un nuevo cambio de Beycker
 
 <?php include "default/end.php"; ?>
-
 
 hola
