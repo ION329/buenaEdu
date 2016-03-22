@@ -93,7 +93,38 @@
                     Promedio por áreas
                 </div>
                 
-                <center><img src="resources/img/demo/notas.png" /></center>
+<!-- <center><img src="resources/img/demo/notas.png" /></center> -->
+
+<!-- INICIO CODIGO FERNANDO -->
+
+<div class="materia_con">
+
+<div class="materia" data-progress="50">
+    <div class="circle">
+        <div class="mask">
+            <div class="fill"></div>
+        </div>
+        <div class="mask">
+            <div class="fill"></div>
+            <div class="fill"></div>
+        </div>
+        <div class="shadow"></div>
+    </div>
+    <div class="inset">
+        <div class="percentage">
+            <div class="numbers"><span>1.5</span></div>
+        </div>
+    </div>
+    <br>
+    <div class="materia_x">Matemáticas</div>
+</div>
+
+
+
+</div>
+
+<!-- FINAL CODIGO FERNANDO -->
+
                 
             </div>
         </div>

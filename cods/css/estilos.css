@@ -1,0 +1,76 @@
+.materia_x {
+  text-align: center;
+  margin-top: 130px;
+}
+
+.materia_con {
+  height: 200px;
+}
+
+.materia {
+  margin: 20px !important;
+  width: 120px !important;
+  height: 120px !important;
+  background-color: #d6dadc !important;
+  border-radius: 50% !important;
+  display: inline-block;
+  vertical-align: text-top;
+}
+
+.materia[data-progress="50"] .circle .mask.full, .materia[data-progress="50"] .circle .fill {
+  -webkit-transform: rotate(45deg) !important;
+  -ms-transform: rotate(45deg) !important;
+  transform: rotate(45deg) !important;
+}
+
+.materia .circle .mask {
+  clip: rect(0px, 120px, 120px, 60px) !important;
+}
+
+.materia .circle .mask, .materia .circle .fill, .materia .circle .shadow {
+  width: 120px !important;
+  height: 120px !important;
+  position: absolute !important;
+  border-radius: 50% !important;
+}
+
+.materia .circle .shadow {
+  box-shadow: 6px 6px 10px rgba(0, 0, 0, 0.2) inset !important;
+}
+
+.circle .mask .fill {
+  clip: rect(0px, 60px, 120px, 0px) !important;
+  background-color: #d10f12  !important;
+}
+
+.materia .inset .percentage .numbers span {
+  width: 57px !important;
+  display: inline-block !important;
+  vertical-align: top !important;
+  text-align: center !important;
+  font-weight: 800 !important;
+  font-size: 22px !important;
+  font-family: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif !important;
+  color: #30393e !important;
+}
+
+.materia .inset {
+    width: 90px;
+    height: 90px;
+    position: absolute;
+    margin-left: 15px;
+    margin-top: 15px;
+    background-color: #fbfbfb;
+    border-radius: 50%;
+    box-shadow: 6px 6px 10px rgba(0, 0, 0, 0.2);
+}
+.materia .inset .percentage {
+  height: 22px;
+  width: 57px;
+  overflow: hidden;
+  position: absolute;
+  top: 34px;
+  left: 16.5px;
+  line-height: 1;
+}
+
