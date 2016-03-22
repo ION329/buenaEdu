@@ -20,8 +20,8 @@
 <link rel="stylesheet" type="text/css" href="resources/slick/slick-theme.css">
 <script type="text/javascript" src="resources/slick/slick.js"></script>
 
-
-
+<!-- css agregado por fernando -->
+<link rel="stylesheet" type="text/css" href="cods/css/estilos.css">
 
 <!--[if gte IE 9]>
   <style type="text/css">
