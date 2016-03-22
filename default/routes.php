@@ -4,6 +4,7 @@
 <link rel="stylesheet" type="text/css" href="cods/css/bootstrap.css">
 <link rel="stylesheet" type="text/css" href="cods/css/cssion.css">
 <link rel="stylesheet" type="text/css" href="cods/css/beycker.css">
+<link rel="stylesheet" type="text/css" href="cods/css/fernando.css">
 <link rel="stylesheet" type="text/css" href="cods/css/responsion.css">
 
 <script src="cods/js/jquery-1.11.3.min.js"></script>
