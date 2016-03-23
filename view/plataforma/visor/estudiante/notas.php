@@ -3,7 +3,7 @@
 <div class="col-sm-8 col-xs-4 fv_materias rr5 colorVirde p10">
 
 <div class="table-responsive p0">
-            <table class="table table-hover mb0">
+            <table class="table mb0">
                 <thead>
                   <tr>
                     <th class="fv_fn"><span>Materia</span></th>
