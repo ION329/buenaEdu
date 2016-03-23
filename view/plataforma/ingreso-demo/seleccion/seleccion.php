@@ -41,14 +41,14 @@
                         </a>
                     </div>
                     <div class="col-sm-4 col-xs-4">
-                    	<a href="#/plataforma/estudiante">
+                    	<a href="#/plataforma/profesor">
                             <div class="bGray3 rr20 p20">
                                 <span class="t18 colorAzulBE ff2">Profesor</span>
                             </div>
                         </a>
                     </div>
                     <div class="col-sm-4 col-xs-4">
-                    	<a href="#/plataforma/estudiante">
+                    	<a href="#/plataforma/acudiente">
                             <div class="bGray3 rr20 p20">
                                 <span class="t18 colorAzulBE ff2">Acudiente</span>
                             </div>
