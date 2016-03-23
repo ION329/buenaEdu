@@ -83,7 +83,7 @@
   margin-bottom: 10px;
 }
 .fv_ultc {
-  margin: 25px 0 10px 10px;
+  margin: 0 0 10px 10px;
 }
 
 .fv_flod {
@@ -94,6 +94,38 @@
 
 .fv_ultc0 p {
   color: #ccc;
+}
+
+.fv_uc {
+  margin-bottom: 20px;
+}
+
+.fv_ucp {
+  margin-bottom: 10px;
+  margin-top: 20px;
+}
+
+.fv_materias {
+  padding-top: 20px;
+}
+
+.fv_materHover {
+  background-color: #dff6fe;
+  border: solid 1px #FFFFFF;
+  height: 50px; 
+}
+.fv_materNormal {
+  border: solid 1px #FFFFFF !important;
+  height: 50px;
+  text-align: center;
+}
+
+.mb0 {
+  margin-bottom: 12px !important;
+}
+
+.bleu {
+  background-color: #cff0db !important;
 }
 
 /* materias */
@@ -115,3 +147,12 @@
 .fv_span span {
   line-height: 2em;
 }
+
+
+/* tablas de materias */
+
+.materiaFondo {
+
+}
+
+.rr3                { -webkit-border-radius: 2px; border-radius: 2px; }
