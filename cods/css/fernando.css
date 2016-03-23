@@ -94,3 +94,7 @@
 .bFil b {
   text-align: center;
 }
+
+.fv_span span {
+  line-height: 2em;
+}
