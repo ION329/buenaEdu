@@ -1,13 +1,10 @@
 <div class="ccc_estudiante">
-	<div class="col-sm-2 col-xs-2 vcenter">
-    	<a href="#/plataforma/profesor/perfil" class="bBasic3 rr20"><img src="resources/img/icons/arR.png" width="8"> &nbsp; Volver</a>
-    </div><!--
-    --><div class="col-sm-5 col-xs-5 vcenter t24">
-    	Matemáticas
+	<div class="col-sm-7 col-xs-7 vcenter">
+    	<div class="ff2 t24">Carlos Mauricio Urrego Bejarano</div>
     </div><!--
     --><div class="col-sm-5 col-xs-5 vcenter taR">
         <span class="t24">Grado 8º - 2</span> &nbsp;&nbsp;
-        <span class="bAzul2 p5 rr20 dIB colorfff">Mañana</span>
+        <span class="bAzul2 p510 rr20 dIB colorfff">Mañana</span>
     </div>
     
     <br style="clear:both;" /><br />
@@ -20,7 +17,7 @@
             <li role="presentation" class="jQ1 taC t16 tU active">
                 <a href="#resumen" target="_self" aria-controls="home" role="tab" data-toggle="tab" style="border-left-width:1px !important;">
                     <img src="resources/img/icons/mE11.png" class="icjQ1 mb5" />
-                    <br />Resumen
+                    <br />Perfil
                 </a>
             </li>
             <li role="presentation" class="jQ2 taC t16 tU">
@@ -48,15 +45,15 @@
                 </a>
             </li>
             <li role="presentation" class="jQ6 taC t16 tU">
-                <a href="#foros" target="_self" aria-controls="settings" role="tab" data-toggle="tab">
+                <a href="#observaciones" target="_self" aria-controls="settings" role="tab" data-toggle="tab">
                     <img src="resources/img/icons/mE6.png" class="icjQ6 mb5" />
-                    <br />Foros
+                    <br />Observaciones
                 </a>
             </li>
             <li role="presentation" class="jQ7 taC t16 tU">
-                <a href="#estudiantes" target="_self" aria-controls="settings1" role="tab" data-toggle="tab">
+                <a href="#grupo" target="_self" aria-controls="settings1" role="tab" data-toggle="tab">
                     <img src="resources/img/icons/mE6.png" class="icjQ6 mb5" />
-                    <br />Estudiantes
+                    <br />El Grupo
                 </a>
             </li>
         </ul>
@@ -64,25 +61,25 @@
         	
     <div class="tab-content">
         <div id="resumen" class="tab-pane fade in active">
-        	<div ng-include src=" 'view/plataforma/profesor/materia/la-materia.php' "></div>
+        	<div ng-include src=" 'view/plataforma/acudiente/perfil-estudiante/perfil.php' "></div>
         </div>
         <div id="notas" class="tab-pane fade">
-            <div ng-include src=" 'view/plataforma/profesor/materia/notas.php' "></div>
+            <div ng-include src=" 'view/plataforma/acudiente/perfil-estudiante/notas.php' "></div>
         </div>
         <div id="asistencia" class="tab-pane fade">
-            <div ng-include src=" 'view/plataforma/profesor/materia/asistencia.php' "></div>
+            <div ng-include src=" 'view/plataforma/acudiente/perfil-estudiante/asistencia.php' "></div>
         </div>
         <div id="actividades" class="tab-pane fade">
-            <div ng-include src=" 'view/plataforma/profesor/materia/actividades.php' "></div>
+            <div ng-include src=" 'view/plataforma/acudiente/perfil-estudiante/actividades.php' "></div>
         </div>
         <div id="mensajes" class="tab-pane fade">
-            <div ng-include src=" 'view/plataforma/profesor/materia/mensajes.php' "></div>
+            <div ng-include src=" 'view/plataforma/acudiente/perfil-estudiante/mensajes.php' "></div>
         </div>
-        <div id="foros" class="tab-pane fade">
-            <div ng-include src=" 'view/plataforma/profesor/materia/foros.php' "></div>
+        <div id="observaciones" class="tab-pane fade">
+            <div ng-include src=" 'view/plataforma/acudiente/perfil-estudiante/observaciones.php' "></div>
         </div>
-        <div id="estudiantes" class="tab-pane fade">
-            <div ng-include src=" 'view/plataforma/profesor/materia/estudiantes.php' "></div>
+        <div id="grupo" class="tab-pane fade">
+            <div ng-include src=" 'view/plataforma/acudiente/perfil-estudiante/grupo.php' "></div>
         </div>
     </div>
             

@@ -1,45 +1,44 @@
 <div class="bTipo1 p30">
     <div class="taC mb20"><img src="resources/img/demo/user2.png" /></div>
     <div class="colorfff t16 ff2 mb5 taC">Andrés Ospina</div>
-    <div class="color999 taC">Profesor</div>
-    <div class="color999 taC">Matemáticas</div>
+    <div class="color999 taC">Acudiente</div>
 </div>
 
-<a href="#/plataforma/profesor/perfil">
+<a href="#/plataforma/acudiente/perfil-estudiante">
 	<div class="optMenLat selli icM1">
         <div class="tabAll">
             <div class="tabIn ff2 t16">
-                Perfil
+                Perfil del estudiante
             </div>
         </div>
     </div>
 </a>
 
-<a href="#/plataforma/profesor/gestion-grados">
+<a href="#/plataforma/acudiente/mensajes">
 	<div class="optMenLat icM2">
         <div class="tabAll">
             <div class="tabIn ff2 t16">
-                Gestión de grados
+                Mis mensajes
             </div>
         </div>
     </div>
 </a>
 
-<a href="#/plataforma/profesor/asignaturas">
+<a href="#/plataforma/acudiente/asignaturas">
 	<div class="optMenLat icM6">
         <div class="tabAll ff2 t16">
             <div class="tabIn">
-                Materias asignadas
+                Plan de estudio
             </div>
         </div>
     </div>
 </a>
 
-<a href="#/plataforma/profesor/recursos">
+<a href="#/plataforma/acudiente/eventos">
 	<div class="optMenLat icM7">
         <div class="tabAll">
             <div class="tabIn ff2 t16">
-                Control de recursos
+                Agenda y eventos
             </div>
         </div>
     </div>
