@@ -70,3 +70,27 @@
 
 /* notas */
 
+.fv_pir1 span {
+  font-size: 0.5em;
+  vertical-align: 20%;
+}
+
+.fv_fn span {
+  font-weight: normal !important;
+}
+
+/* materias */
+
+.bMat { background-color:#F90; }
+.bLyl { background-color:#be9989; }
+.bBio { background-color:#2393db; }
+.bSoc { background-color:#e33b25; }
+.bLex { background-color:#18a7af; }
+.bFcv { background-color:#f4d762; }
+.bEdf { background-color:#ab8fc9; }
+.bQui { background-color:#73c996; }
+.bFil { background-color:#8a2273; }
+
+.bFil b {
+  text-align: center;
+}
