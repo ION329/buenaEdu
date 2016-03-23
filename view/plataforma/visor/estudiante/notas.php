@@ -1,6 +1,6 @@
-<div class="contEstandar bWhite p0">
+<div class="contEstandar bWhite p0 rr5">
 
-<div class="col-sm-8 col-xs-4 fv_materias rr5 colorVirde p10">
+<div class="col-sm-8 col-xs-4 fv_materias colorVirde p10">
 
 <div class="table-responsive p0">
             <table class="table mb0">
@@ -97,7 +97,7 @@
 
 <div class="row bOrangeL m0 t12 p010 fv_span">
 
-<div class="col-sm-3 col-xs-3 vcenter">
+<div class="col-sm-3 col-xs-3 vcenter fv_lm">
   <span class="colorVirde ff2">PE</span> &nbsp;
   <span class="color666">Periodo</span>
   <br>
@@ -108,7 +108,7 @@
   <span class="color666">Nota Final</span>
 </div>
 
-<div class="col-sm-3 col-xs-3 vcenter">
+<div class="col-sm-3 col-xs-3 vcenter fv_lm">
   <span class="colorVirde ff2">TC</span> &nbsp;
   <span class="color666">Talleres en Casa</span>
   <br>
@@ -119,7 +119,7 @@
   <span class="color666">Evaluaciones</span>
 </div>
 
-<div class="col-sm-3 col-xs-3 vcenter">
+<div class="col-sm-3 col-xs-3 vcenter fv_lm">
   <span class="colorVirde ff2">CP</span> &nbsp;
   <span class="color666">Comportamiento y Participación</span>
   <br>
@@ -130,13 +130,13 @@
 
 </div>
 
-<div class="col-sm-4 col-xs-4 bBlueL colorVirde">
+<div class="col-sm-4 col-xs-4 bBlueL colorVirde fv_completo">
 
-<div class="p10 fv_ucp"><b>ÚLTIMAS CALIFICACIONES</b></div>
+<div class="p10 fv_ucp"><b>ULTIMAS CALIFICACIONES</b></div>
 
 <div class="fv_uc">
 <div class="fv_ultc">Nov 12 - 15</div>
-  <div class="contEstandar rr3 bWhite p30 fv_ultc0">
+  <div class="contEstandar rr5 bWhite p30 fv_ultc0">
     <div class="taR vcenter colorOrange ff2 t24 fv_flod">3.2</div>
     <div class="colorfff bVirde dIB rr10 p10 mb5" style="padding:2px 2px;">&nbsp; TC &nbsp;</div>
     <div class="fv_ultc1"><div class="dIB bFil p5 rr50"></div>  <b>Filosofía</b></div>

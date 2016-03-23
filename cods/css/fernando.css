@@ -83,7 +83,7 @@
   margin-bottom: 10px;
 }
 .fv_ultc {
-  margin: 0 0 10px 10px;
+  margin: 0 0 5px 10px;
 }
 
 .fv_flod {
@@ -103,6 +103,7 @@
 .fv_ucp {
   margin-bottom: 10px;
   margin-top: 20px;
+  font-weight: 600;
 }
 
 .fv_materias {
@@ -120,8 +121,12 @@
   text-align: center;
 }
 
+.fv_completo {
+  padding-bottom: 3%; 
+}
+
 .mb0 {
-  margin-bottom: 12px !important;
+  margin-bottom: 10px !important;
 }
 
 .bleu {
@@ -148,6 +153,11 @@
   line-height: 2em;
 }
 
+.fv_lm {
+  width: 33%;
+  padding: 10px 5px 10px 20px;
+  vertical-align: top;
+}
 
 /* tablas de materias */
 
@@ -155,4 +165,4 @@
 
 }
 
-.rr3                { -webkit-border-radius: 2px; border-radius: 2px; }
+.rr3                { -webkit-border-radius: 5px; border-radius: 5px; }
