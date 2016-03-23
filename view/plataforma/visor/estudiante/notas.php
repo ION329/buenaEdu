@@ -15,12 +15,12 @@
                 <tbody>
                                        
                       <tr>
-                      	<td class="bWhite"><div class="dIB bMat p5 rr50"></div> &nbsp; <b>Matemáticas</b></td>
-                        <td class="bWhite"><div class="taR vcenter colorVerde ff2 t20 fv_pir1"><span>▲</span> 3.8</div></td>
-                        <td class="bWhite">&nbsp;</td>
-                        <td class="bWhite">&nbsp;</td>
-                        <td class="bWhite">&nbsp;</td>
-                        <td class="bWhite"><div class="taR vcenter colorVerde ff2 t20">3.8</div></td>
+                      	<td class="bVerdeL"><div class="dIB bMat p5 rr50"></div> &nbsp; <b>Matemáticas</b></td>
+                        <td class="bVerdeL"><div class="taR vcenter colorVerde ff2 t20 fv_pir1"><span>▲</span> 3.8</div></td>
+                        <td class="bVerdeL">&nbsp;</td>
+                        <td class="bVerdeL">&nbsp;</td>
+                        <td class="bVerdeL">&nbsp;</td>
+                        <td class="bVerdeL"><div class="taR vcenter colorVerde ff2 t20">3.8</div></td>
                       </tr>
                       <tr>
                         <td class="bWhite"><div class="dIB bLyl p5 rr50"></div> &nbsp; <b>Lengua y Literatura</b></td>
@@ -93,17 +93,35 @@
 </div>
 
 <div class="col-sm-4 col-xs-4 bBlueL rr5 colorVirde p20">
-  <b>ÚLTIMAS CALIFICACIONES</b>
-  <br>
+<div class="p50 taC"><b>ÚLTIMAS CALIFICACIONES</b></div>
 
-<div class="col-sm-4 col-xs-4 ">
-<span>Nov 12 - 15</span>
-  <div class="contEstandar rr5  bWhite">
-      <div class="colorfff bVirde dIB rr10" style="padding:2px 2px;">&nbsp; 1 &nbsp;</div>
-  <br>
-  <div class="dIB bFil p5 rr50"></div> &nbsp; <b>Filosofía</b>
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-  <div class="taR vcenter colorOrange ff2 t20">2.6</div>
+<div>
+<div class="fv_ultc">Nov 12 - 15</div>
+  <div class="contEstandar rr5 bWhite p10 fv_ultc0">
+    <div class="taR vcenter colorOrange ff2 t20 fv_flod">3.2</div>
+    <div class="colorfff bVirde dIB rr10 p10" style="padding:2px 2px;">&nbsp; TC &nbsp;</div>
+    <div class="fv_ultc1"><div class="dIB bFil p5 rr50"></div>  <b>Filosofía</b></div>
+    <p><i>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut dolore magna aliqua.</i></p>
+  </div>
+</div>
+
+<div>
+<div class="fv_ultc">Nov 12 - 15</div>
+  <div class="contEstandar rr5 bWhite p10 fv_ultc0">
+    <div class="taR vcenter colorVerde ff2 t20 fv_flod">4.0</div>
+    <div class="colorfff bVirde dIB rr10 p10" style="padding:2px 2px;">&nbsp; E &nbsp;</div>
+    <div class="fv_ultc1"><div class="dIB bMat p5 rr50"></div>  <b>Matemáticas</b></div>
+    <p><i>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut dolore magna aliqua.</i></p>
+  </div>
+</div>
+
+<div>
+<div class="fv_ultc">Nov 12 - 15</div>
+  <div class="contEstandar rr5 bWhite p10 fv_ultc0">
+    <div class="taR vcenter colorRed ff2 t20 fv_flod">1.2</div>
+    <div class="colorfff bVirde dIB rr10 p10" style="padding:2px 2px;">&nbsp; AS &nbsp;</div>
+    <div class="fv_ultc1"><div class="dIB bQui p5 rr50"></div>  <b>Química</b></div>
+    <p><i>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut dolore magna aliqua.</i></p>
   </div>
 </div>
 

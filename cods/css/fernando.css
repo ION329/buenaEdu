@@ -79,6 +79,23 @@
   font-weight: normal !important;
 }
 
+.fv_ultc1, .fv_ultc {
+  margin-bottom: 10px;
+}
+.fv_ultc {
+  margin: 25px 0 10px 10px;
+}
+
+.fv_flod {
+  top:-10px;
+  float: right;
+  position: inherit;
+}
+
+.fv_ultc0 p {
+  color: #ccc;
+}
+
 /* materias */
 
 .bMat { background-color:#F90; }
