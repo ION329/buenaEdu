@@ -6,9 +6,9 @@
         
         <div class="col-sm-3 col-xs-3 vcenter">
             <span class="t16 colorVirde ff2">RESUMEN OBSERVACIONES</span>
-        </div>
+        </div><!--
         
-		<div class="col-sm-3 col-xs-3 vcenter">
+	--><div class="col-sm-3 col-xs-3 vcenter">
             <span class="t16 colorVirde ff11">Ordenar por:</span>
             <select class="selecStd3 ff1 t16 color999">
 				<option value="grado-6">Nombre</option>
@@ -18,9 +18,9 @@
 				<option value="grado-10">Grado 10°</option>
 				<option value="grado-11">Grado 11°</option>
 			</select>
-        </div>
+        </div><!--
 
-        <div class="col-sm-3 col-xs-3 col-sm-offset-3 col-xs-offset-3 vcenter taR">
+    --><div class="col-sm-3 col-xs-3 col-sm-offset-3 col-xs-offset-3 vcenter taR">
             <a class="bBasic2 rr40 colorfff bVerde taC" href="">Crear Observación</a>
         </div>
 

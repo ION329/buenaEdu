@@ -138,15 +138,362 @@
                     </div>                
                 
                 </div>
-                <div id="mater2" class="tab-pane fade taC">
-                    <br><br /><br /><br /><br /><br />
-                    <img src="resources/img/icons/block.png" />
-                    <br /><br /><br /><br /><br /><br />
+
+                <div id="mater2" class="tab-pane fade">
+                    <div class="mFuq2">
+                        <div id="accordion1" class="panel-group">
+                            <div class="panel panel-default">
+                                <div class="panel-heading p5">
+                                    <div class="panel-title">
+                                        <a class="accordion-toggle collapsed acordion-bykr" data-toggle="collapse" data-parent="#accordion1" href="#onbs1" target="_self">
+                                            <div class="row m0">
+                                                <div class="col-xs-10 col-sm-10 vcenter p0">
+                                                    <img src="resources/img/icons/actividad.png" width="30px" class="dIB">
+                                                    <div class="bGray5 rr20 dIB color666 p510 t12 ff2">Unidad 1</div>
+                                                    <strong class="t16 dIB">Lenguaje Algebraico</strong>
+                                                </div><!--
+                                            --><div class="col-xs-2 col-sm-2 vcenter">
+                                                    <strong class="t12 dIB taR">6 Temas</strong>       
+                                                </div>
+                                            </div>
+                                        </a>
+                                    </div>
+                                </div>
+
+                                <div id="onbs1" class="panel-collapse collapse">
+                                    <!--<div class="panel-body">-->
+                                        <div class="p10 mb10 row bS1 m0" style="margin-bottom:-1px;">
+                                            <div class="row m0">
+                                                <div class="col-sm-1 col-xs-1">
+                                                    
+                                                </div>
+                                                <div class="col-sm-9 col-xs-9">
+                                                    Suma y resta de monomios
+                                                </div>
+                                                <div class="col-sm-2 col-xs-2">
+                                                    2 Horas
+                                                </div>
+                                            </div>
+                                        </div>
+
+                                        <div class="p10 mb10 row bS1 m0" style="margin-bottom:-1px;">
+                                            <div class="row m0">
+                                                <div class="col-sm-1 col-xs-1">
+                                                    
+                                                </div>
+                                                <div class="col-sm-9 col-xs-9">
+                                                    Multiplicacion y division de monomios
+                                                </div>
+                                                <div class="col-sm-2 col-xs-2">
+                                                    2 Horas
+                                                </div>
+                                            </div>
+                                        </div>
+
+                                        <div class="p10 mb10 row bS1 m0" style="margin-bottom:-1px;">
+                                            <div class="row m0">
+                                                <div class="col-sm-1 col-xs-1">
+                                                    
+                                                </div>
+                                                <div class="col-sm-9 col-xs-9">
+                                                    Suma y resta de polinomios
+                                                </div>
+                                                <div class="col-sm-2 col-xs-2">
+                                                    4 Horas
+                                                </div>
+                                            </div>
+                                        </div>
+                                    <!--</div>-->
+                                </div>
+                            </div>
+
+                            <?php for($yy=0; $yy<3; $yy++){ ?>
+                            <div class="panel panel-default">
+                                <div class="panel-heading p5">
+                                    <div class="panel-title">
+                                        <a class="accordion-toggle collapsed acordion-bykr" data-toggle="collapse" data-parent="#accordion1" href="#onbs<?= $yy+2; ?>" target="_self">
+                                            <div class="row m0">
+                                                <div class="col-xs-10 col-sm-10 vcenter p0">
+                                                    <img src="resources/img/icons/actividad.png" width="30px" class="dIB">
+                                                    <div class="bGray5 rr20 dIB color666 p510 t12 ff2">Unidad 2<?php $yy; ?></div>
+                                                    <strong class="t16 dIB">Factorizacion</strong>
+                                                </div><!--
+                                            --><div class="col-xs-2 col-sm-2 vcenter">
+                                                    <strong class="t12 dIB taR">6 Temas</strong>       
+                                                </div>
+                                            </div>
+                                        </a>
+                                    </div>
+                                </div>
+
+                                <div id="onbs<?= $yy+2; ?>" class="panel-collapse collapse">
+                                    <!--<div class="panel-body">-->
+                                        <div class="p10 mb10 row bS1 m0" style="margin-bottom:-1px;">
+                                            <div class="row m0">
+                                                <div class="col-sm-1 col-xs-1">
+                                                    
+                                                </div>
+                                                <div class="col-sm-9 col-xs-9">
+                                                    Suma y resta de monomios
+                                                </div>
+                                                <div class="col-sm-2 col-xs-2">
+                                                    2 Horas
+                                                </div>
+                                            </div>
+                                        </div>
+
+                                        <div class="p10 mb10 row bS1 m0" style="margin-bottom:-1px;">
+                                            <div class="row m0">
+                                                <div class="col-sm-1 col-xs-1">
+                                                    
+                                                </div>
+                                                <div class="col-sm-9 col-xs-9">
+                                                    Multiplicacion y division de monomios
+                                                </div>
+                                                <div class="col-sm-2 col-xs-2">
+                                                    2 Horas
+                                                </div>
+                                            </div>
+                                        </div>
+
+                                        <div class="p10 mb10 row bS1 m0" style="margin-bottom:-1px;">
+                                            <div class="row m0">
+                                                <div class="col-sm-1 col-xs-1">
+                                                    
+                                                </div>
+                                                <div class="col-sm-9 col-xs-9">
+                                                    Suma y resta de polinomios
+                                                </div>
+                                                <div class="col-sm-2 col-xs-2">
+                                                    4 Horas
+                                                </div>
+                                            </div>
+                                        </div>
+                                    <!--</div>-->
+                                </div>
+                            </div>
+                            <?php } ?>
+                        </div>
+                    </div>
                 </div>
-                <div id="mater3" class="tab-pane fade taC">
-                    <br><br /><br /><br /><br /><br />
-                    <img src="resources/img/icons/block.png" />
-                    <br /><br /><br /><br /><br /><br />
+                
+                <div id="mater3" class="tab-pane fade">
+                    <div class="mFuq2">
+                        <div id="accordion2" class="panel-group">
+                            <div class="panel panel-default">
+                                <div class="panel-heading p5">
+                                    <div class="panel-title">
+                                        <a class="accordion-toggle collapsed blue-active acordion-bykr2" data-toggle="collapse" data-parent="#accordion2" href="#onbs-1" target="_self">
+                                            <div class="row m0">
+                                                <div class="col-xs-9 col-sm-9 vcenter p0">
+                                                    <strong class="t16 dIB">Primer Periodo</strong>
+                                                </div><!--
+                                            --><div class="col-xs-3 col-sm-3 vcenter taR">
+                                                    <strong class="t12 dIB">2 Unidades</strong>       
+                                                </div>
+                                            </div>
+                                        </a>
+                                    </div>
+                                </div>
+
+                                <div id="onbs-1" class="panel-collapse collapse">
+                                    <div class="p10 mb10 row bS1 m0" style="margin-bottom:-1px; background-color: #e5fafd;">
+                                        <div class="row m0">
+
+                                            <div class="col-sm-1 col-xs-1 vcenter p0 taC">
+                                                <img src="resources/img/icons/actividad.png" width="30px" class="dIB">
+                                            </div><!--
+                                        --><div class="col-xs-11 col-sm-11 vcenter p0">   
+                                                <div class="bGray5 rr20 dIB color666 p510 t12">Unidad 1</div>
+                                                <strong class="t16 dIB">Lenguaje Algebraico</strong>     
+                                            </div>
+                                            
+                                        </div>
+                                    </div>
+
+                                    <div class="p10 mb10 row bS1 m0" style="margin-bottom:-1px;">
+                                        <div class="row m0">
+                                        
+                                            <div class="col-sm-1 col-xs-1 vcenter p0 taC">
+                                            </div><!--
+                                        --><div class="col-xs-11 col-sm-11 vcenter p0">   
+                                                <strong class="t16 dIB">1.1 </strong><div class="color666 dIB">Realiza operaciones básicas entre Monomios</div>
+                                            </div>
+
+                                        </div>
+                                    </div>
+
+                                    <div class="p10 mb10 row bS1 m0" style="margin-bottom:-1px;">
+                                        <div class="row m0">
+                                        
+                                            <div class="col-sm-1 col-xs-1 vcenter p0 taC">
+                                            </div><!--
+                                        --><div class="col-xs-11 col-sm-11 vcenter p0">   
+                                                <strong class="t16 dIB">1.2 </strong><div class="color666 dIB">Usa las propiedades de los numeros reales para resolver operaciones entre polinomios</div>
+                                            </div>
+
+                                        </div>
+                                    </div>
+
+                                    <div class="p10 mb10 row bS1 m0" style="margin-bottom:-1px;">
+                                        <div class="row m0">
+                                        
+                                            <div class="col-sm-1 col-xs-1 vcenter p0 taC">
+                                            </div><!--
+                                        --><div class="col-xs-11 col-sm-11 vcenter p0">   
+                                                <strong class="t16 dIB">1.3 </strong><div class="color666 dIB">Identifica los productos notables y desarrolla peraciones entre ellos</div>
+                                            </div>
+
+                                        </div>
+                                    </div>
+
+                                    <div class="p10 mb10 row bS1 m0" style="margin-bottom:-1px; background-color: #e5fafd;">
+                                        <div class="row m0">
+
+                                            <div class="col-sm-1 col-xs-1 vcenter p0 taC">
+                                                <img src="resources/img/icons/actividad.png" width="30px" class="dIB">
+                                            </div><!--
+                                        --><div class="col-xs-11 col-sm-11 vcenter p0">   
+                                                <div class="bGray5 rr20 dIB color666 p510 t12">Unidad 2</div>
+                                                <strong class="t16 dIB">Factorizacion</strong>     
+                                            </div>
+                                            
+                                        </div>
+                                    </div>
+
+                                    <?php for($yy=0; $yy<3; $yy++){ ?>
+                                    
+                                    <div class="p10 mb10 row bS1 m0" style="margin-bottom:-1px;">
+                                        <div class="row m0">
+                                        
+                                            <div class="col-sm-1 col-xs-1 vcenter p0 taC">
+                                            </div><!--
+                                        --><div class="col-xs-11 col-sm-11 vcenter p0">   
+                                                <strong class="t16 dIB">2.1 </strong><div class="color666 dIB">Halla el Factor comun de los terminos de un polinomio</div>
+                                            </div>
+
+                                        </div>
+                                    </div>
+
+                                    <?php } ?>
+
+
+
+                                </div>
+
+                            </div>
+                            
+                            <?php for($yy=0; $yy<3; $yy++){ ?>
+                            
+                            <div class="panel panel-default">
+                                <div class="panel-heading p5">
+                                    <div class="panel-title">
+                                        <a class="accordion-toggle collapsed blue-active acordion-bykr2" data-toggle="collapse" data-parent="#accordion2" href="#onbs-<?= $yy+2; ?>" target="_self">
+                                            <div class="row m0">
+                                                <div class="col-xs-9 col-sm-9 vcenter p0">
+                                                    <strong class="t16 dIB">Segundo Periodo</strong>
+                                                </div><!--
+                                            --><div class="col-xs-3 col-sm-3 vcenter taR">
+                                                    <strong class="t12 dIB">3 Unidades</strong>       
+                                                </div>
+                                            </div>
+                                        </a>
+                                    </div>
+                                </div>
+
+                                <div id="onbs-<?= $yy+2; ?>" class="panel-collapse collapse">
+                                    <div class="p10 mb10 row bS1 m0" style="margin-bottom:-1px; background-color: #e5fafd;">
+                                        <div class="row m0">
+
+                                            <div class="col-sm-1 col-xs-1 vcenter p0 taC">
+                                                <img src="resources/img/icons/actividad.png" width="30px" class="dIB">
+                                            </div><!--
+                                        --><div class="col-xs-11 col-sm-11 vcenter p0">   
+                                                <div class="bGray5 rr20 dIB color666 p510 t12">Unidad 1</div>
+                                                <strong class="t16 dIB">Lenguaje Algebraico</strong>     
+                                            </div>
+                                            
+                                        </div>
+                                    </div>
+
+                                    <div class="p10 mb10 row bS1 m0" style="margin-bottom:-1px;">
+                                        <div class="row m0">
+                                        
+                                            <div class="col-sm-1 col-xs-1 vcenter p0 taC">
+                                            </div><!--
+                                        --><div class="col-xs-11 col-sm-11 vcenter p0">   
+                                                <strong class="t16 dIB">1.1</strong><div class="color666 dIB">Realiza operaciones básicas entre Monomios</div>
+                                            </div>
+
+                                        </div>
+                                    </div>
+
+                                    <div class="p10 mb10 row bS1 m0" style="margin-bottom:-1px;">
+                                        <div class="row m0">
+                                        
+                                            <div class="col-sm-1 col-xs-1 vcenter p0 taC">
+                                            </div><!--
+                                        --><div class="col-xs-11 col-sm-11 vcenter p0">   
+                                                <strong class="t16 dIB">1.2 </strong><div class="color666 dIB">Usa las propiedades de los numeros reales para resolver operaciones entre polinomios</div>
+                                            </div>
+
+                                        </div>
+                                    </div>
+
+                                    <div class="p10 mb10 row bS1 m0" style="margin-bottom:-1px;">
+                                        <div class="row m0">
+                                        
+                                            <div class="col-sm-1 col-xs-1 vcenter p0 taC">
+                                            </div><!--
+                                        --><div class="col-xs-11 col-sm-11 vcenter p0">   
+                                                <strong class="t16 dIB">1.3 </strong><div class="color666 dIB">Identifica los productos notables y desarrolla peraciones entre ellos</div>
+                                            </div>
+
+                                        </div>
+                                    </div>
+
+                                    <div class="p10 mb10 row bS1 m0" style="margin-bottom:-1px; background-color: #e5fafd;">
+                                        <div class="row m0">
+
+                                            <div class="col-sm-1 col-xs-1 vcenter p0 taC">
+                                                <img src="resources/img/icons/actividad.png" width="30px" class="dIB">
+                                            </div><!--
+                                        --><div class="col-xs-11 col-sm-11 vcenter p0">   
+                                                <div class="bGray5 rr20 dIB color666 p510 t12">Unidad 2</div>
+                                                <strong class="t16 dIB">Factorizacion</strong>     
+                                            </div>
+                                            
+                                        </div>
+                                    </div>
+
+                                    <?php for($xx=0; $xx<3; $xx++){ ?>
+                                    
+                                    <div class="p10 mb10 row bS1 m0" style="margin-bottom:-1px;">
+                                        <div class="row m0">
+                                        
+                                            <div class="col-sm-1 col-xs-1 vcenter p0 taC">
+                                            </div><!--
+                                        --><div class="col-xs-11 col-sm-11 vcenter p0">   
+                                                <strong class="t16 dIB">2.1 </strong><div class="color666 dIB">Halla el Factor comun de los terminos de un polinomio</div>
+                                            </div>
+
+                                        </div>
+                                    </div>
+
+                                    <?php } ?>
+
+
+
+                                </div>
+
+                            </div>
+
+                            <?php } ?>
+
+
+                        </div>
+                    </div>
+
                 </div>
             </div>
         

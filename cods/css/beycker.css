@@ -8,3 +8,20 @@
     padding: 6px;
     width: 57%;
 }
+
+.bGray5 {
+    background-color: #BDBDBD;
+}
+
+a.blue-active[aria-expanded="true"] {
+    background-color:#50a0d2 !important;
+    color:white;
+}
+
+a.acordion-bykr {
+    padding: 10px 30px 10px 10px !important;
+}
+
+a.acordion-bykr2 {
+    padding: 17px 40px 17px 20px !important;
+}
