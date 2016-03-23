@@ -24,7 +24,7 @@
 		
 		<div class="col-xs-8 col-sm-8 p0"> <!-- izquierda -->
 
-			<div class="row bS1 m0">
+			<div class="row bS1 m0" style="border-right: 0">
 				<div class="col-xs-5 col-sm-5 col-xs-offset-1 col-sm-offset-1"> <!-- Descripcion -->
 					<div class="color666 p10">Descripcion</div>
 				</div>

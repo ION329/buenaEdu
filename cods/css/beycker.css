@@ -25,3 +25,17 @@ a.acordion-bykr {
 a.acordion-bykr2 {
     padding: 17px 40px 17px 20px !important;
 }
+
+.btn-bykr{
+	padding: 2px 16px;	
+}
+
+.titSep-bykr {
+    border-bottom: 1px solid #999999;
+    margin: 8px 0;
+    padding: 8px 3px;
+}
+
+.btn-radius-bykr {
+	border-radius: 14px !important;
+}
