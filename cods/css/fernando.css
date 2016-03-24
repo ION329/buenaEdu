@@ -1,5 +1,16 @@
-
 /* estilos para lainstitucion.php / materias */
+
+/* materias */
+.bMat { background-color:#F90; }
+.bLyl { background-color:#be9989; }
+.bBio { background-color:#2393db; }
+.bSoc { background-color:#e33b25; }
+.bLex { background-color:#18a7af; }
+.bFcv { background-color:#f4d762; }
+.bEdf { background-color:#ab8fc9; }
+.bQui { background-color:#73c996; }
+.bFil { background-color:#8a2273; }
+.bFil b { text-align: center; }
 
 .materia_x {
   text-align: center;
@@ -67,49 +78,38 @@
   left: 16.5px;
   line-height: 1;
 }
-
-/* notas */
-
 .fv_pir1 span {
   font-size: 0.5em;
   vertical-align: 20%;
 }
-
 .fv_fn span {
   font-weight: normal !important;
 }
-
 .fv_ultc1, .fv_ultc {
   margin-bottom: 10px;
 }
 .fv_ultc {
   margin: 0 0 5px 10px;
 }
-
 .fv_flod {
   top:-10px;
   float: right;
   position: inherit;
 }
-
 .fv_ultc0 p {
   color: #ccc;
 }
-
 .fv_uc {
   margin-bottom: 20px;
 }
-
 .fv_ucp {
   margin-bottom: 10px;
   margin-top: 20px;
   font-weight: 600;
 }
-
 .fv_materias {
   padding-top: 20px;
 }
-
 .fv_materHover {
   background-color: #dff6fe;
   border: solid 1px #FFFFFF;
@@ -120,49 +120,56 @@
   height: 50px;
   text-align: center;
 }
-
 .fv_completo {
   padding-bottom: 3%; 
 }
-
 .mb0 {
   margin-bottom: 10px !important;
 }
-
 .bleu {
   background-color: #cff0db !important;
 }
-
-/* materias */
-
-.bMat { background-color:#F90; }
-.bLyl { background-color:#be9989; }
-.bBio { background-color:#2393db; }
-.bSoc { background-color:#e33b25; }
-.bLex { background-color:#18a7af; }
-.bFcv { background-color:#f4d762; }
-.bEdf { background-color:#ab8fc9; }
-.bQui { background-color:#73c996; }
-.bFil { background-color:#8a2273; }
-
-.bFil b {
-  text-align: center;
-}
-
 .fv_span span {
   line-height: 2em;
 }
-
 .fv_lm {
   width: 33%;
   padding: 10px 5px 10px 20px;
   vertical-align: top;
 }
+.rr3 { -webkit-border-radius: 5px; border-radius: 5px; }
 
-/* tablas de materias */
 
-.materiaFondo {
+/* plataforma/profesor/gestion-grados */
 
+.fv_verde1 { background-color: #31c96a; color: #fff; }
+.fv_mt50 { margin-top:80px;}
+.fv_bleu { color: #48a8b8; font-size: 30px; font-weight: 600;}
+.fv_fe { 
+  color: #000 !important;
+  background: #e1e1e1 !important;
+  padding: 10px !important;
+  font-size: 20px !important;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
 }
-
-.rr3                { -webkit-border-radius: 5px; border-radius: 5px; }
+.fv_fe1 {
+  background: #fff url(../../resources/img/icons/fv_abj.png) right center no-repeat !important;
+  color: #8a8a8a !important;
+  background-color: #fff !important;
+  font-size: 20px !important;
+  padding: 10px !important;
+  line-height: 25px;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+}
+.fv_nobg {
+  background: none !important;
+}
+.fv_full a {
+  width: 85% !important;
+  padding: 15px;
+  border:solid 1px #d1d1d1;
+}
