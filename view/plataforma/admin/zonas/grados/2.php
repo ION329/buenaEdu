@@ -38,47 +38,48 @@
 	</div>
 	
 
-	<div class="row m0 mb15">
-		<div class="col-xs-8 col-sm-8 bGray3 p20" style="border-right: 35px solid white">
+	<div class="row m0 mb15 bGray3">
+
+
+		<!-- Comienzo -->
+		<div class="col-xs-4 col-sm-4 p0 p20">
+
+			<div class="row m0 mb20">
+				<div class="col-xs-6 vcenter">
+					<span class="t16 ff2 dB taL mb15">Promedio</span>
+				</div><!--
+			--><div class="col-xs-6 vcenter">
+					<div class="colorOrange t40 ff2">3.8</div>
+				</div><!--
+		--></div>
+			
 			<div class="row m0">
 				<div class="col-xs-6">
+					<div class="mb5 color666">Temas Vistos</div>
+				</div><!--
+			--><div class="col-xs-6">
+					<span class="t16 ff2 dB taL mb5">4/5</span>
+				</div><!--
+		--></div>
 
-					<div class="row m0 mb20">
-						<div class="col-xs-6 vcenter">
-							<span class="t16 ff2 dB taL mb15">Promedio</span>
-						</div><!--
-					--><div class="col-xs-6 vcenter">
-							<div class="colorOrange t40 ff2">3.8</div>
-						</div><!--
-				--></div>
-					
-					<div class="row m0">
-						<div class="col-xs-6">
-							<div class="mb5 color666">Temas Vistos</div>
-						</div><!--
-					--><div class="col-xs-6">
-							<span class="t16 ff2 dB taL mb5">4/5</span>
-						</div><!--
-				--></div>
-
-					<div class="row m0">
-						<div class="col-xs-6">
-							<div class="mb5 color666">Logro evaluados</div>
-						</div><!--
-					--><div class="col-xs-6">
-							<span class="t16 ff2 dB taL">7/8</span>
-						</div>
-					</div>
-
-				</div>
-
+			<div class="row m0">
 				<div class="col-xs-6">
-					<img src="resources/img/temporal/bolitas.png">
+					<div class="mb5 color666">Logro evaluados</div>
+				</div><!--
+			--><div class="col-xs-6">
+					<span class="t16 ff2 dB taL">7/8</span>
 				</div>
 			</div>
+			
+		</div>
+
+		<div class="col-xs-4 col-sm-4 p0 p20" style="border-right: 35px solid white">
+			
+			<img src="resources/img/temporal/bolitas.png">
+			
 		</div>
 		
-		<div class="col-xs-4 col-sm-4 bGray3 p20" style="padding-bottom: 32px">
+		<div class="col-xs-4 col-sm-4 p0 p20">
 			<div class="row m0 mb10">
 				<div class="col-xs-2 col-sm-2">
 					<img src="resources/img/icons/mE4.png" width="30">
@@ -112,6 +113,8 @@
 				</div>
 			</div>
 		</div>
+
+		<!-- Fin -->
 	</div>
 
 	<div class="titSep2 colorVirde ff2 t14" style="margin-top:0;">

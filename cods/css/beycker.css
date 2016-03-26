@@ -9,6 +9,13 @@
     width: 57%;
 }
 
+.selecStd4 {
+    border: 1px solid #b6b6b6;
+    padding: 3px;
+    width: 57%;
+    color: #666;
+}
+
 .bGray5 {
     background-color: #BDBDBD;
 }

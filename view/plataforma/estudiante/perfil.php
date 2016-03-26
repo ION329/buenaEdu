@@ -6,7 +6,9 @@
         <div ng-include src=" 'view/plataforma/general/zona/menuEstudiante.php' "></div>
     </div>
     <div class="contSingular bGray col-sm-10 col-xs-10 p20">
-        <div ng-include src=" 'view/plataforma/estudiante/perfil/perfil.php' "></div>
+        <!--<div ng-include src=" 'view/plataforma/estudiante/perfil/perfil.php' "></div>-->
+
+        <img src="resources/img/temporal/images/e-perfil_01.jpg">
     </div>
 
 </div>

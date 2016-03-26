@@ -40,73 +40,24 @@
 
 			</div>
 
+			<?php for($xx = 1; $xx<6; $xx++){ ?>
+
 			<div class="p10 bS1 minMensaje cP" style="margin-top:-1px;">
-				<div class="row">
-
-					<div class="col-xs-8 col-sm-8">
-						<span class="bAzul2 p510 rr20 dIB colorfff" style="">Unidad 2</span>
-						<div class="t18 ff2 p5" style="">Factorizacion</div>
-						<div class="color666 p5">8 Temas</div>
-					</div>
-						
-					<div class="col-xs-4 col-sm-4">
-						<div class="color666 p5" style="padding-top: 50%">90 Respuestas</div>
-					</div>
-
-				</div>
+				
+				<div class="bAzul2 p510 rr20 dIB colorfff mb10">Unidad 2</div>
+                <div class="t18 ff2 mb10" style="">Factorización</div>
+                <div class="color666 tab">
+                    <div class="tabIn">
+                        8 Temas
+                    </div>
+                    <div class="tabIn taR">
+                        90 Respuestas
+                    </div>
+                </div>
 				
 			</div>
 
-			<div class="p10 bS1 minMensaje cP" style="margin-top:-1px;">
-				<div class="row">
-
-					<div class="col-xs-8 col-sm-8">
-						<span class="bAzul2 p510 rr20 dIB colorfff" style="">Unidad 3</span>
-						<div class="t18 ff2 p5" style="">Geometría</div>
-						<div class="color666 p5">8 Temas</div>
-					</div>
-						
-					<div class="col-xs-4 col-sm-4">
-						<div class="color666 p5" style="padding-top: 50%">90 Respuestas</div>
-					</div>
-
-				</div>
-
-			</div>	
-
-			<div class="p10 bS1 minMensaje cP" style="margin-top:-1px;">
-				<div class="row">
-
-					<div class="col-xs-8 col-sm-8">
-						<span class="bAzul2 p510 rr20 dIB colorfff" style="">Unidad 4</span>
-						<div class="t18 ff2 p5" style="">Estadistica</div>
-						<div class="color666 p5">8 Temas</div>
-					</div>
-						
-					<div class="col-xs-4 col-sm-4">
-						<div class="color666 p5" style="padding-top: 50%">90 Respuestas</div>
-					</div>
-
-				</div>
-
-			</div>	
-
-			<div class="p10 bS1 minMensaje cP" style="margin-top:-1px;">
-				<div class="row">
-
-					<div class="col-xs-8 col-sm-8">
-						<span class="bAzul2 p510 rr20 dIB colorfff" style="">Unidad 5</span>
-						<div class="t18 ff2 p5" style="">Lorem ipsum dolor</div>
-						<div class="color666 p5">8 Temas</div>
-					</div>
-						
-					<div class="col-xs-4 col-sm-4">
-						<div class="color666 p5" style="padding-top: 50%">90 Respuestas</div>
-					</div>
-
-				</div>
-
-			</div>	
+			<?php } ?>
 
 		</div>
 
