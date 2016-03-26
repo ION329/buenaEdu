@@ -137,8 +137,6 @@
   padding: 10px 5px 10px 20px;
   vertical-align: top;
 }
-.rr3 { -webkit-border-radius: 5px; border-radius: 5px; }
-
 
 /* plataforma/profesor/gestion-grados */
 
@@ -173,3 +171,49 @@
   padding: 15px;
   border:solid 1px #d1d1d1;
 }
+
+/* //////////////////////////// */
+/* plataforma/profesor/materia */
+/* ////////////////////////// */
+
+/* boton */
+
+.fv_btn1 {
+  width: 60% !important;
+  background-color: transparent !important;
+}
+.fv_btn1:hover {
+  background-color: #25b76c !important;
+  color: #fff !important;
+  border: solid 1px #FFF !important;
+}
+
+.fv_btn1a { margin-top: 100px; background-color: #fff !important; }
+.fv_btn1b { margin-top: 60px; }
+.fv_btn1c { margin-top: 90px; }
+  
+/* próxima clase */
+
+.fv_pc1 { padding-top: 35px !important;}
+
+/* rendimiento por logros */
+
+.fv_rpl1 { background-color: #e9bc00; font-size: 1.2em; }
+.fv_rpl1b a { border-radius: 10px !important; border: solid 1px #9a9a9a !important; width: 75px; }
+
+
+/* promedio */
+
+.fv_verde1 { background-color: #84d206; }
+.fv_gris1 { background-color: #c5c5c5; }
+
+.fv_promedio { padding-top: 40px; width: 100%; }
+.fv_promedio_t { padding-bottom: 10px; }
+.fv_prom1 { clear: both; padding: 10px;}
+
+.fv_per {
+   margin:20px 0 8px; padding:8px 3px;
+   text-align: center;
+}
+
+.fv_prom_cont { width:100%; position:relative; overflow:hidden; }
