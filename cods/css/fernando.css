@@ -258,3 +258,26 @@
 .fv_amp > tr > td {
   border-top: 1px solid transparent !important;
 }
+
+
+/* //////////////////////////// */
+/* plataforma/profesor/perfil  */
+/* ////////////////////////// */
+
+.fv_pper { vertical-align: 15% !important; text-transform: none !important; padding-left: 10px;}
+
+.fv_cal {  }
+.fv_0202 {
+  border-radius: 40px;
+  width: 50px;
+  padding: 3px 0 3px 0;
+  border: solid 1px #9c9c9c;
+  background-color: #dcdcdc;
+}
+.fv_mL50 { margin-left: 40px;}
+
+.fv_promedionota {
+    padding-top: 0px;
+}
+.fv_pre { right: 0px !important; }
+.fv_pre1 { color: #84d206; }
