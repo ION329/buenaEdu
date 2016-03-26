@@ -181,16 +181,16 @@
 .fv_btn1 {
   width: 60% !important;
   background-color: transparent !important;
+  border: solid 1px #ccc !important;
 }
 .fv_btn1:hover {
   background-color: #25b76c !important;
   color: #fff !important;
-  border: solid 1px #FFF !important;
 }
 
 .fv_btn1a { margin-top: 100px; background-color: #fff !important; }
 .fv_btn1b { margin-top: 60px; }
-.fv_btn1c { margin-top: 90px; }
+.fv_btn1c { margin-top: 80px; }
   
 /* próxima clase */
 
@@ -217,3 +217,44 @@
 }
 
 .fv_prom_cont { width:100%; position:relative; overflow:hidden; }
+
+
+/* ausencias sin justificar */
+
+.fv_btn1x {
+  width: 150px !important;
+  background-color: #dddddd !important;
+  color: #5a5a5a !important;
+  text-transform: none !important;
+  font-weight: 400 !important;
+  border: none !important;
+}
+
+.fv_btn2x {
+  width: 115px !important;
+  background-color: #25b76c !important;
+  color: #fff !important;
+  text-transform: none !important;
+  font-weight: 400 !important;
+  border: none !important;
+}
+.fv_btn2x:hover {
+  background-color: #5a5a5a !important;
+}
+.fv_blanco {
+  background-color: #fff !important;
+}
+.fv_asj {
+  width: 100% !important;
+  clear: both;
+  padding-top: 25px;
+}
+
+.fv_hr hr {
+    margin: 5px -20px 20px -20px !important;
+    border: 0 !important;
+    border-top: 1px solid #ddd !important;
+}
+.fv_amp > tr > td {
+  border-top: 1px solid transparent !important;
+}

@@ -158,56 +158,62 @@
 </div>
 
 <a href="" class="bBasic3 rr20 taC dB fv_btn1 fv_btn1c">Ingresar Nota</a>
-<br style="clear:both">
 
 </div>
 </div>
-    
-<br style="clear:both"><br>
 
-<div class="titSep colorVirde ff2 tU t16"><img src="resources/img/icons/adm3.png"> Ausencias sin justificar</div>
-    
+<div class="fv_asj">
+<a href="#" class="bBasic3 rr20 taC fv_btn1 fv_btn1x p10 fR">Ver asistencia</a>
+<div class="fL ff44 tU"><img src="resources/img/icons/adm3.png"> Ausencias sin justificar</div>
+</div>
+
+<div class="fv_hr"><hr></div>
+
     <div class="table-responsive">
         <table class="table table-hover">
-            <tbody>
-                          <tr>
-                <td class="taC"><img src="resources/img/demo/not1.png" class="rr50" width="48"></td>
+            <tbody class="fv_amp">
+            <tr>
+                <td><img src="resources/img/demo/not1.png" class="rr50" width="34"></td>
                 <td><a href="#/plataforma/admin/estudiante" class="aSS">Felipe Cortés Bejarano</a></td>
                 <td>Lunes, Ene 13 / 2016</td>
                 <td>&nbsp;</td>
-                <td class="taC"><a href="" class="bBasic2 rr20 colorfff bVerde taC">Justificar</a></td>
-              </tr>
-                          <tr>
-                <td class="taC"><img src="resources/img/demo/not1.png" class="rr50" width="48"></td>
+                <td>&nbsp;</td>
+                <td class="taR"><a href="" class="bBasic3 rr20 taC p5 fv_btn2x">Justificar</a></td>
+            </tr>
+            <tr class="fv_blanco">
+                <td><img src="resources/img/demo/not1.png" class="rr50" width="34"></td>
                 <td><a href="#/plataforma/admin/estudiante" class="aSS">Felipe Cortés Bejarano</a></td>
                 <td>Lunes, Ene 13 / 2016</td>
                 <td>&nbsp;</td>
-                <td class="taC"><a href="" class="bBasic2 rr20 colorfff bVerde taC">Justificar</a></td>
-              </tr>
-                          <tr>
-                <td class="taC"><img src="resources/img/demo/not1.png" class="rr50" width="48"></td>
+                <td>&nbsp;</td>
+                <td class="taR"><a href="" class="bBasic3 rr20 taC p5 fv_btn2x">Justificar</a></td>
+            </tr>
+            <tr>
+                <td><img src="resources/img/demo/not1.png" class="rr50" width="34"></td>
                 <td><a href="#/plataforma/admin/estudiante" class="aSS">Felipe Cortés Bejarano</a></td>
                 <td>Lunes, Ene 13 / 2016</td>
                 <td>&nbsp;</td>
-                <td class="taC"><a href="" class="bBasic2 rr20 colorfff bVerde taC">Justificar</a></td>
+                <td>&nbsp;</td>
+                <td class="taR"><a href="" class="bBasic3 rr20 taC p5 fv_btn2x">Justificar</a></td>
               </tr>
-                          <tr>
-                <td class="taC"><img src="resources/img/demo/not1.png" class="rr50" width="48"></td>
+            <tr class="fv_blanco">
+                <td><img src="resources/img/demo/not1.png" class="rr50" width="34"></td>
                 <td><a href="#/plataforma/admin/estudiante" class="aSS">Felipe Cortés Bejarano</a></td>
                 <td>Lunes, Ene 13 / 2016</td>
                 <td>&nbsp;</td>
-                <td class="taC"><a href="" class="bBasic2 rr20 colorfff bVerde taC">Justificar</a></td>
-              </tr>
-                          <tr>
-                <td class="taC"><img src="resources/img/demo/not1.png" class="rr50" width="48"></td>
+                <td>&nbsp;</td>
+                <td class="taR"><a href="" class="bBasic3 rr20 taC p5 fv_btn2x">Justificar</a></td>
+            </tr>
+            <tr>
+                <td><img src="resources/img/demo/not1.png" class="rr50" width="34"></td>
                 <td><a href="#/plataforma/admin/estudiante" class="aSS">Felipe Cortés Bejarano</a></td>
                 <td>Lunes, Ene 13 / 2016</td>
                 <td>&nbsp;</td>
-                <td class="taC"><a href="" class="bBasic2 rr20 colorfff bVerde taC">Justificar</a></td>
-              </tr>
-                        </tbody>
+                <td>&nbsp;</td>
+                <td class="taR"><a href="" class="bBasic3 rr20 taC p5 fv_btn2x">Justificar</a></td>
+            </tr>
+            </tbody>
         </table>
     </div>
-
 
 </div>
