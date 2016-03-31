@@ -9,19 +9,18 @@
     </div>
     -->
     
-    <div class="col-sm-7 col-xs-7 hH">
+    <div class="col-sm-8 col-xs-8 hH">
     	<div class="tabAll">
         	<div class="tabIn taC" style="width:120px;">
             	<img src="resources/img/demo/logo-colegio.png" />
         	</div>
             <div class="tabIn">
-            	<span class="t16 mb10 ff2 dB">
+            	<span class="t16 ff2 dB">
                     COLEGIO SAN ANTONIO<br />
                     MARIA CLARET
                 </span>
-                <a class="cP bBasic1 rr10 ff2">Ver directorio</a>
         	</div>
-        </div>    	
+        </div>
     </div>
     
     
@@ -39,7 +38,7 @@
             	
                 <div class="row">
                     <div class="col-sm-4 col-xs-4 vcenter taR" style="padding:0 0 0 20px;">
-                        <img src="resources/img/demo/user2.png" />
+                        <img src="resources/img/demo/user.png" />
                     </div><!--
                     --><div class="col-sm-8 col-xs-8 vcenter" style="padding-left:10px;">
                         <div class="t14 color000 ff2">Andrés Ospina Zea</div>
@@ -59,7 +58,7 @@
     <!--  SESIÓN  -->
     <!--  SESIÓN  -->
     <!--  SESIÓN  -->    
-	<div class="col-sm-3 col-xs-3 hH">
+	<div class="col-sm-2 col-xs-2 hH">
     	<div class="tabAllMenHeader2 efeHov">
         	<div class="tabIn taC">
                 
@@ -300,62 +299,9 @@
                 </div>
             </div>
         </div>
-        
-        
-        
     </div>
     
     
     
     
 </div>
-
-<!--
-<div class="rol_admin menuMunu">
-
-	<div class="menuInter">
-        <a class="col-sm-3 col-xs-3 hH taC dB selli" href="#">
-            <div class="mOpt1 ff2 tU hH dIB ">
-                <div class="tabAll">
-                    <div class="tabIn taL">
-                        Control<br />Institución
-                    </div>
-                </div>
-            </div>                
-        </a>
-        
-        <a class="col-sm-3 col-xs-3 hH taC dB" href="#">
-            <div class="mOpt2 ff2 tU hH dIB ">
-                <div class="tabAll">
-                    <div class="tabIn taL">
-                        Control<br />Institución
-                    </div>
-                </div>
-            </div>                
-        </a>
-        
-        <a class="col-sm-3 col-xs-3 hH taC dB" href="#">
-            <div class="mOpt3 ff2 tU hH dIB ">
-                <div class="tabAll">
-                    <div class="tabIn taL">
-                        Control<br />Institución
-                    </div>
-                </div>
-            </div>                
-        </a>
-        
-        <a class="col-sm-3 col-xs-3 hH taC dB" href="#">
-            <div class="mOpt4 ff2 tU hH dIB ">
-                <div class="tabAll">
-                    <div class="tabIn taL">
-                        Control<br />Institución
-                    </div>
-                </div>
-            </div>                
-        </a> 
-	</div>
-
-</div>
-
--->
-

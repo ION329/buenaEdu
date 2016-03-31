@@ -9,7 +9,7 @@
     </div>
     -->
     
-    <div class="col-sm-7 col-xs-7 hH">
+    <div class="col-sm-8 col-xs-8 hH">
     	<div class="tabAll">
         	<div class="tabIn taC" style="width:120px;">
             	<img src="resources/img/demo/logo-colegio.png" />
@@ -58,7 +58,7 @@
     <!--  SESIÓN  -->
     <!--  SESIÓN  -->
     <!--  SESIÓN  -->    
-	<div class="col-sm-3 col-xs-3 hH">
+	<div class="col-sm-2 col-xs-2 hH">
     	<div class="tabAllMenHeader2 efeHov">
         	<div class="tabIn taC">
                 

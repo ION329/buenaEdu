@@ -1,4 +1,4 @@
-<div ng-include src=" 'view/plataforma/general/area/headerProfesor.php' "></div>
+<div ng-include src=" 'view/plataforma/general/area/headerAcudiente.php' "></div>
 
 <div class="rol_estudiante bodBuddy">
 
