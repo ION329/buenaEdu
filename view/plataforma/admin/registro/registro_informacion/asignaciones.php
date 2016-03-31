@@ -91,24 +91,61 @@
         <hr />
         <div class="t16 ff2 tU mb20 color666">Asignación de grupos</div>
         
-        <div class="bS1 p20 mb30 taC">
+        <div class="bS1 p20 mb30">
             
-            <div class="bWhite p510 rr10 t12 ff0 bS1 dIB">
-                11º A &nbsp;&nbsp;
-                <span class="bBasic6 bBlue2 p5 rr50 ff2 bS1 dIB cP colorfff">X</span>
+            <div class="bWhite p510 rr10 t12 ff0 bS1 mb20">
+                <div class="row p20">
+                    <div class="col-sm-8 col-xs-8 vcenter"><strong>Grupo 11º A</strong></div><!--
+                    --><div class="col-sm-4 col-xs-4 vcenter taR"><span class="bBasic6 bBlue2 p5 rr50 ff2 bS1 dIB cP colorfff">X</span></div>
+                </div>
+                <div class="pLR20">
+                    <div class="table-responsive">
+                        <table class="table table-hover">
+                            <tbody>
+                                <tr>
+                                    <td>Lunes</td>
+                                    <td>De: 8:00 am</td>
+                                    <td>Hasta: 10:30 am</td>
+                                    <td class="taC">
+                                        <a class="bBasic6 rr10 colorfff bBlue2 taC cP" title="Editar"><img src="resources/img/icons/editar.png"></a>
+                                        <a class="bBasic6 rr10 colorfff bGray4 taC cP" title="Eliminar"><img src="resources/img/icons/x.png"></a>
+                                    </td>
+                                </tr>
+                                
+                            </tbody>
+                        </table>
+                    </div>
+                    <div class="dCambiar3 dN">
+                        <div class="row">
+                            <div class="col-sm-4 col-xs-4 mb20">
+                                <label class="ff1 color999">Día</label>
+                                <select class="selSt rr5">
+                                    <option>Seleccione</option>
+                                    <option>Matemáticas</option>
+                                </select>
+                            </div>
+                            <div class="col-sm-4 col-xs-4 mb20">
+                                <label class="ff1 color999">Hora inicia</label>
+                                <input class="inpSt1 rr5" type="time" />
+                            </div>
+                            <div class="col-sm-4 col-xs-4 mb20">
+                                <label class="ff1 color999">Hora finaliza</label>
+                                <input class="inpSt1 rr5" type="time" />
+                            </div>
+                        </div>
+                        <div class="taC">
+                            <a class="bBasic6 rr10 colorfff bBlue2 taC cP p1020 bCambiar3">Guardar Horario</a>
+                        </div>
+                    </div>
+                    <div class="taC dCambiar3">
+                        <a class="bBasic6 rr10 colorfff bBlue2 taC cP p1020 bCambiar3">Agregar Horario</a>
+                    </div>
+                    <br />
+                </div>
+                
             </div>
-            <div class="bWhite p510 rr10 t12 ff0 bS1 dIB">
-                11º B &nbsp;&nbsp;
-                <span class="bBasic6 bBlue2 p5 rr50 ff2 bS1 dIB cP colorfff">X</span>
-            </div>
-            <div class="bWhite p510 rr10 t12 ff0 bS1 dIB">
-                11º C &nbsp;&nbsp;
-                <span class="bBasic6 bBlue2 p5 rr50 ff2 bS1 dIB cP colorfff">X</span>
-            </div>
-            <div class="bWhite p510 rr10 t12 ff0 bS1 dIB">
-                11º D &nbsp;&nbsp;
-                <span class="bBasic6 bBlue2 p5 rr50 ff2 bS1 dIB cP colorfff">X</span>
-            </div>
+            
+            
         
         </div>
         

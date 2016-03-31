@@ -92,10 +92,16 @@
                         <option>Celular</option>
                     </select>
                 </div>
-                <div class="col-sm-6 col-xs-6 mb10">
+                <div class="col-sm-5 col-xs-5 mb10">
                     <div class="input-group">
                         <div class="input-group-addon">+57</div>
                         <input type="text" class="form-control" id="">
+                    </div>
+                </div>
+                <div class="col-sm-1 col-xs-1 mb20">
+                    <div class="input-group">
+                    	
+                        <img src="resources/img/icons/x.png" class="bGray4 p5 rr50 cP" style="margin-top:4px;" title="Eliminar" /><br />
                     </div>
                 </div>
             </div>
@@ -115,15 +121,38 @@
                     <option>Privado</option>
                 </select>
             </div>
-            <div class="col-sm-12 col-xs-12 mb20">
-            	<label class="ff1 color999">Rector</label>
-                <input class="inpSt1 rr5" type="text" />
-            </div>
             
-            <div class="col-sm-12 col-xs-12">
+            <div class="col-sm-6 col-xs-6">
             	<label class="ff1 color999">Lema de la Institución</label>
                 <input class="inpSt1 rr5" type="text" />
             </div>
+            <div class="col-sm-6 col-xs-6">
+            	<label class="ff1 color999">Enfasis de la Institución</label>
+                <input class="inpSt1 rr5" type="text" />
+            </div>
+            
+        </div>
+
+    </div>
+    
+    
+    <div class="contEstandar p30 bWhite mb20" style="margin-top:-1px;">
+    	<div class="t16 ff2 tU mb20 color666">Información del Rector</div>
+    	<div class="row">
+            <div class="col-sm-4 col-xs-4 mb20">
+            	<label class="ff1 color999">Nombres</label>
+                <input class="inpSt1 rr5" type="text" />
+            </div>
+            <div class="col-sm-4 col-xs-4 mb20">
+            	<label class="ff1 color999">Apellidos</label>
+                <input class="inpSt1 rr5" type="text" />
+            </div>
+            <div class="col-sm-4 col-xs-4 mb20">
+            	<label class="ff1 color999">Cédula</label>
+                <input class="inpSt1 rr5" type="text" />
+            </div>
+            
+
             
         </div>
 

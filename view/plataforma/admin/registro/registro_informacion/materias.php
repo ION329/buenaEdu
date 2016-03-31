@@ -57,14 +57,21 @@
                     <option>Matemáticas</option>
                 </select>
             </div>
-            <div class="col-sm-6 col-xs-6 mb20">
+            <div class="col-sm-4 col-xs-4 mb20">
                 <label class="ff1 color999">Nombre materia</label>
                 <input class="inpSt1 rr5" type="text" />
             </div>
 
-            <div class="col-sm-6 col-xs-6 mb20">
-                <label class="ff1 color999">Intensidad horaria recomendada por semana</label>
+            <div class="col-sm-4 col-xs-4 mb20">
+                <label class="ff1 color999">Intensidad horaria</label>
                 <input class="inpSt1 rr5" type="text" />
+            </div>
+            <div class="col-sm-4 col-xs-4 mb20">
+                <label class="ff1 color999">Prerequisito</label>
+                <select class="selSt rr5">
+                    <option>Seleccione</option>
+                    <option>Matemáticas</option>
+                </select>
             </div>
 
         </div>

@@ -12,7 +12,7 @@
     
     	
         <a class="bBasic7 rr40 color666 taC cP fR p1025" style="margin-top:-15px;"><img src="resources/img/icons/excel.png" /> &nbsp; Excel</a>
-        <a class="bBasic6 rr40 bBlue colorfff taC cP bCreate3 fR p1025" style="margin-top:-15px; margin-right:10px;"><img src="resources/img/icons/grado.png" />&nbsp; Agregar grado</a>
+        <a class="bBasic6 rr40 bBlue colorfff taC cP bCreate3 fR p1025" style="margin-top:-15px; margin-right:10px;"><img src="resources/img/icons/grado.png" />&nbsp; Agregar grupo</a>
         <div class="t16 ff2 tU mb20 color666">Personas registradas (3)</div>
         
         <div class="table-responsive">
@@ -20,7 +20,7 @@
                 <thead>
                     <tr class="bBlue3 colorfff">
                         <th class="bBlue3">Grado</th>
-                        <th class="bBlue3">Unidad</th>
+                        <th class="bBlue3">Grupo</th>
                         <th class="bBlue3">Director Grupo</th>
                         <th class="bBlue3">Jornada</th>
                         <th class="bBlue3">Opciones</th>
@@ -110,7 +110,7 @@
 	</div>
     
     <br><br>
-    <div class="taR lCreate3">
+     <div class="taR lCreate3">
         <a class="bBasic2 rr40 t16 ff2 colorfff bVerde taC bMsiguiente4 cP">Siguiente</a>
     </div>
 

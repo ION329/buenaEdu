@@ -215,20 +215,16 @@
                 </div>
                 <div class="row">
                     <div class="col-sm-2 col-xs-2 taR" style="padding-top:9px;">
-                        <label class="ff1 color999">Mes egreso:</label>
+                        <label class="ff1 color999">Fecha inicio:</label>
                     </div>
                     <div class="col-sm-4 col-xs-4">
-                        <select class="selSt rr5">
-                            <option>Seleccione</option>
-                        </select>
+                        <input class="inpSt1 rr5" type="text" />
                     </div>
                     <div class="col-sm-2 col-xs-2 taR" style="padding-top:9px;">
-                        <label class="ff1 color999">Año egreso:</label>
+                        <label class="ff1 color999">Fecha fin:</label>
                     </div>
                     <div class="col-sm-4 col-xs-4">
-                        <select class="selSt rr5">
-                            <option>Seleccione</option>
-                        </select>
+                        <input class="inpSt1 rr5" type="text" />
                     </div>
                 </div>
                 <hr>
