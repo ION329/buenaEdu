@@ -14,7 +14,7 @@
             <br><br>
 
             <a href="" class="bBasic4 p1020 dIB rr40 t20 ff2" style="width:45%;">
-                Enviar mensaje
+                Crear mensaje
                 <img src="resources/img/icons/mailer.png" class="iconBrrn2" />
             </a>
             <a href="" class="bBasic5 p1020 dIB rr40 t20 ff2" style="width:45%;">

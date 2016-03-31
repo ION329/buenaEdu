@@ -2,7 +2,7 @@
 
 	<div class="row mb10">
         <div class="col-sm-6 col-xs-6">
-            <select class="selecStd rr5 ff2 t18 colorVirde">
+            <select class="selecStd rr5 ff2 t18 colorVirde bGray">
                 <option>Matemáticas</option>
                 <option>Ciencias Naturales</option>
                 <option>Lengua Castellana</option>
@@ -190,29 +190,56 @@
     <br style="clear:both" /><br />
 
 
-	<div class="titSep colorVirde ff2 tU t16">Ausencias justificadas</div>
-    
+	<div class="fv_asj">
+<a href="#" class="bBasic3 rr20 taC fv_btn1 fv_btn1x p10 fR">Ver asistencia</a>
+<div class="fL ff44 tU"><img src="resources/img/icons/adm3.png"> Ausencias sin justificar</div>
+</div>
+
+<div class="fv_hr"><hr></div>
+
     <div class="table-responsive">
         <table class="table table-hover">
-            <thead>
-              <tr>
-                <th>Foto</th>
-                <th>Nombre</th>
-                <th>Código</th>
-                <th>Jornada</th>
-                <th>Opciones</th>
-              </tr>
-            </thead>
-            <tbody>
-            <?php for($ii=0; $ii<5; $ii++){ ?>
-              <tr>
-                <td class="taC"><img src="resources/img/demo/not1.png" class="rr50" width="48"></td>
+            <tbody class="fv_amp">
+            <tr>
+                <td><img src="resources/img/demo/not1.png" class="rr50" width="34"></td>
                 <td><a href="#/plataforma/admin/estudiante" class="aSS">Felipe Cortés Bejarano</a></td>
-                <td>646 486 6844</td>
-                <td>Tarde</td>
-                <td class="taC"><a href="" class="bBasic2 rr20 colorfff bVerde taC">Revisar justificación</a></td>
+                <td>Lunes, Ene 13 / 2016</td>
+                <td>&nbsp;</td>
+                <td>&nbsp;</td>
+                <td class="taR"><a href="" class="bBasic3 rr20 taC p5 fv_btn2x">Justificar</a></td>
+            </tr>
+            <tr class="fv_blanco">
+                <td><img src="resources/img/demo/not1.png" class="rr50" width="34"></td>
+                <td><a href="#/plataforma/admin/estudiante" class="aSS">Felipe Cortés Bejarano</a></td>
+                <td>Lunes, Ene 13 / 2016</td>
+                <td>&nbsp;</td>
+                <td>&nbsp;</td>
+                <td class="taR"><a href="" class="bBasic3 rr20 taC p5 fv_btn2x">Justificar</a></td>
+            </tr>
+            <tr>
+                <td><img src="resources/img/demo/not1.png" class="rr50" width="34"></td>
+                <td><a href="#/plataforma/admin/estudiante" class="aSS">Felipe Cortés Bejarano</a></td>
+                <td>Lunes, Ene 13 / 2016</td>
+                <td>&nbsp;</td>
+                <td>&nbsp;</td>
+                <td class="taR"><a href="" class="bBasic3 rr20 taC p5 fv_btn2x">Justificar</a></td>
               </tr>
-            <?php } ?>
+            <tr class="fv_blanco">
+                <td><img src="resources/img/demo/not1.png" class="rr50" width="34"></td>
+                <td><a href="#/plataforma/admin/estudiante" class="aSS">Felipe Cortés Bejarano</a></td>
+                <td>Lunes, Ene 13 / 2016</td>
+                <td>&nbsp;</td>
+                <td>&nbsp;</td>
+                <td class="taR"><a href="" class="bBasic3 rr20 taC p5 fv_btn2x">Justificar</a></td>
+            </tr>
+            <tr>
+                <td><img src="resources/img/demo/not1.png" class="rr50" width="34"></td>
+                <td><a href="#/plataforma/admin/estudiante" class="aSS">Felipe Cortés Bejarano</a></td>
+                <td>Lunes, Ene 13 / 2016</td>
+                <td>&nbsp;</td>
+                <td>&nbsp;</td>
+                <td class="taR"><a href="" class="bBasic3 rr20 taC p5 fv_btn2x">Justificar</a></td>
+            </tr>
             </tbody>
         </table>
     </div>

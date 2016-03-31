@@ -94,30 +94,31 @@
     </div>
 	
     <div class="titSep2 colorVirde ff2 tU t14">
-        <div class="navBarLog ff5 taC col-sm6 col-xs-6 vcenter">
+        <div class="col-xs-1 col-sm-1 vcenter">
+            <div class="colorVirde ff2 tU t16 dIB">Detalle</div>
+        </div><!--
+    --><div class="navBarLog ff5 taC col-sm-6 col-xs-6 vcenter">
             <!-- Nav tabs -->
             <ul class="nav nav-tabs" role="tablist">
                 <li role="presentation" class="taC active">
-                    <a href="#periodo1" target="_self" aria-controls="p1" role="tab" data-toggle="tab">
+                    <a href="#periodo1" target="_self" aria-controls="p1" role="tab" data-toggle="tab" class="btn-radius-bykr">
                         PERIODO 1
                     </a>
                 </li>
                 <li role="presentation" class="taC">
-                    <a href="#periodo2" target="_self" aria-controls="p2" role="tab" data-toggle="tab">
+                    <a href="#periodo2" target="_self" aria-controls="p2" role="tab" data-toggle="tab" class="btn-radius-bykr">
                         PERIODO 2
                     </a>
                 </li>
                 <li role="presentation" class="taC">
-                    <a href="#periodo3" target="_self" aria-controls="p3" role="tab" data-toggle="tab">
+                    <a href="#periodo3" target="_self" aria-controls="p3" role="tab" data-toggle="tab" class="btn-radius-bykr">
 						PERIODO 3
                     </a>
                 </li>
             </ul>
         </div><!--
-        --><div class="navBarLog taC col-sm6 col-xs-6 vcenter taR">
-        	<a href="" class="bBasic2 rr40 taC">Editar</a>
-            <a href="" class="bBasic2 rr40 taC">Descargar Notas</a>
-            <a href="" class="bBasic2 rr40 colorfff bVerde2 taC">Ingresar Nota</a>
+        --><div class="navBarLog taC col-sm-5 col-xs-5 vcenter taR">
+            <a class="bBasic3 rr20 taC fv_btn1 fv_btn1x p10 fR" href="#">Ver plan de estudio</a>
         </div>
     </div>
         

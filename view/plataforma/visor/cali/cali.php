@@ -504,9 +504,9 @@
                 <div class="contEstandar rr5 p20 bWhite">
 
                     <div class="titSep2 ff2 tU t18" style="margin-top:0;">
-                        <div class="btn-group" style="width:80px;">
-                            <button type="button" class="btn btn-primary bGray" style="border-color:#ccc;"><img src="resources/img/icons/arR.png" width="10" /></button>
-                            <button type="button" class="btn btn-primary bGray" style="border-color:#ccc;"><img src="resources/img/icons/arL.png" width="10" /></button>
+                        <div class="btn-group" style="width:100px;">
+                            <button type="button" class="btn btn-primary bGray btn-bykr rr20" style="border-color:#ccc;"><img src="resources/img/icons/arR.png" width="10" /></button>
+                            <button type="button" class="btn btn-primary bGray btn-bykr rr20" style="border-color:#ccc;"><img src="resources/img/icons/arL.png" width="10" /></button>
                         </div>
                         Promedio por áreas
                     </div>
@@ -626,12 +626,12 @@
                                     </a>
                                 </li>
                                 <li role="presentation" class="taC active">
-                                    <a href="#asis1" target="_self" aria-controls="p1" role="tab" data-toggle="tab">
+                                    <a href="#asis1" target="_self" aria-controls="p1" role="tab" data-toggle="tab" class="btn-radius-bykr">
                                         Más bajos
                                     </a>
                                 </li>
                                 <li role="presentation" class="taC">
-                                    <a href="#asis2" target="_self" aria-controls="p2" role="tab" data-toggle="tab">
+                                    <a href="#asis2" target="_self" aria-controls="p2" role="tab" data-toggle="tab" class="btn-radius-bykr">
                                         Más altos
                                     </a>
                                 </li>

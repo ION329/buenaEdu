@@ -179,7 +179,7 @@
 				<div class="p10 bS1">
 					<center>
 					<img src="resources/img/temporal/folder-grande.gif" style="display: block">
-					<a class="bBasic2 rr40 colorfff bVerde taC" href="">Descargar Archivo</a>
+					<a class="bBasic2 rr40 colorfff bVerde5 taC ff2" href="">Descargar Archivo</a>
 					</center>
 				</div>	
 			</div>

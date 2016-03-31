@@ -12,7 +12,11 @@
                 
                 <br><br>
                 <a href="" class="bBasic4 dB rr40 t16 ff2 colorVirde mb10">
-                    Enviar mensaje
+                    Llamar al profesor
+                    <img src="resources/img/icons/phone.png" class="iconBrrn" />
+                </a>
+                <a href="" class="bBasic5 dB rr40 t16 ff2 colorVirde mb10">
+                    Crear mensaje
                     <img src="resources/img/icons/mailer.png" class="iconBrrn" />
                 </a>
                 <a href="" class="bBasic5 dB rr40 t16 ff2 colorVirde">
@@ -68,7 +72,7 @@
         
     </div>
     <div class="col-sm-4 col-xs-4 bBlueL rr5 pInt colorVirde">
-    	<select class="selecStd rr5 ff2 t18 colorVirde">
+    	<select class="selecStd rr5 ff2 t18 colorVirde bGray">
         	<option>Cálculo 11º A</option>
             <option>Cálculo 11º B</option>
             <option>Cálculo 11º C</option>
@@ -106,17 +110,17 @@
             <!-- Nav tabs -->
             <ul class="nav nav-tabs" role="tablist">
                 <li role="presentation" class="taC active">
-                    <a href="#p1" target="_self" aria-controls="p1" role="tab" data-toggle="tab">
+                    <a href="#p1" target="_self" aria-controls="p1" role="tab" data-toggle="tab" class="btn-radius-bykr">
                         (1)P
                     </a>
                 </li>
                 <li role="presentation" class="taC">
-                    <a href="#p2" target="_self" aria-controls="p2" role="tab" data-toggle="tab">
+                    <a href="#p2" target="_self" aria-controls="p2" role="tab" data-toggle="tab" class="btn-radius-bykr">
                         (2)P
                     </a>
                 </li>
                 <li role="presentation" class="taC">
-                    <a href="#p3" target="_self" aria-controls="p3" role="tab" data-toggle="tab">
+                    <a href="#p3" target="_self" aria-controls="p3" role="tab" data-toggle="tab" class="btn-radius-bykr">
                         (3)P
                     </a>
                 </li>

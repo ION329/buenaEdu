@@ -2,7 +2,7 @@
 	<div class="p20" style="padding-bottom:0;">
         <div class="row">
             <div class="col-sm-6 col-xs-6">
-                <select class="selecStd rr5 ff2 t18 colorVirde">
+                <select class="selecStd rr5 ff2 t18 colorVirde bGray">
                     <option>Matemáticas</option>
                     <option>Ciencias Naturales</option>
                     <option>Lengua Castellana</option>
@@ -94,26 +94,26 @@
             <!-- Nav tabs -->
             <ul class="nav nav-tabs" role="tablist">
                 <li role="presentation" class="taC active">
-                    <a href="#periodo1" target="_self" aria-controls="p1" role="tab" data-toggle="tab">
+                    <a href="#periodo1" target="_self" aria-controls="p1" role="tab" data-toggle="tab" class="btn-radius-bykr">
                         PERIODO 1
                     </a>
                 </li>
                 <li role="presentation" class="taC">
-                    <a href="#periodo2" target="_self" aria-controls="p2" role="tab" data-toggle="tab">
+                    <a href="#periodo2" target="_self" aria-controls="p2" role="tab" data-toggle="tab" class="btn-radius-bykr">
                         PERIODO 2
                     </a>
                 </li>
                 <li role="presentation" class="taC">
-                    <a href="#periodo3" target="_self" aria-controls="p3" role="tab" data-toggle="tab">
+                    <a href="#periodo3" target="_self" aria-controls="p3" role="tab" data-toggle="tab" class="btn-radius-bykr">
 						PERIODO 3
                     </a>
                 </li>
             </ul>
         </div><!--
         --><div class="navBarLog taC col-sm6 col-xs-6 vcenter taR">
-        	<a href="" class="bBasic2 rr40 taC">Editar</a>
-            <a href="" class="bBasic2 rr40 taC">Descargar Notas</a>
-            <a href="" class="bBasic2 rr40 colorfff bVerde2 taC">Ingresar Nota</a>
+        	<a href="" class="bBasic2 rr40 taC bGray3">Editar</a>
+            <a href="" class="bBasic2 rr40 taC bGray3">Descargar</a>
+            <a href="" class="bBasic2 rr40 colorfff bVerde5 taC">Ingresar Nota</a>
         </div>
     </div>
         

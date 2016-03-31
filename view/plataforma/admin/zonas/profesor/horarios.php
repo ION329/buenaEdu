@@ -9,14 +9,14 @@
               <button type="button" class="btn btn-primary btn-bykr bGray rr20" style="border-color:#ccc;"><img src="resources/img/icons/arR.png" width="10" /></button>
               <button type="button" class="btn btn-primary btn-bykr bGray rr20" style="border-color:#ccc;"><img src="resources/img/icons/arL.png" width="10" /></button>
             </div>
-            <span class="t20 colorVirde ff2">Enero</span>
-			<span class="t24 color666 ff1">2016</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-			<span class="t16 colorVirde ff2">24 Clases</span>
+            <span class="t20 colorVirde ff2 vcenter">Enero</span>
+			<span class="t24 color666 ff1 vcenter">2016</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+			<span class="t16 colorVirde ff2 vcenter">24 Clases</span>
         </div><!--
      --><div class="navBarLog taC col-sm-5 col-xs-5 vcenter taR">
 
-        </div>
-        </div>
+        </div><!--
+    --></div>
     </div>
 
     <div class="titSep2 colorVirde ff2 tU t14" style="margin-top:0;">
@@ -31,9 +31,9 @@
 
     <div class="row m0">
     	<div class="col-xs-9 p0">
-    		
+    		<img src="resources/img/temporal/00profesor-resumen1.png">
     	</div><!--
-    --><div class="col-xs-3 p0 vcenter">
+    --><div class="col-xs-3 col-sm-3 p0 vcenter">
     		<div class="p50 bS1 taC bGray3">
 				<span class="t16 colorVirde ff2 dB mb10">Matématicas</span>
 				<span class="t40 colorVirde ff2 dB mb10">8° - 2B</span>

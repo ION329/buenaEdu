@@ -86,9 +86,9 @@
             <div class="contEstandar rr5 p20 bWhite" style="min-height:220px;">
                 
                 <div class="titSep2 ff2 tU t18" style="margin-top:0;">
-                    <div class="btn-group" style="width:80px;">
-                        <button type="button" class="btn btn-primary bGray" style="border-color:#ccc;"><img src="resources/img/icons/arR.png" width="10" /></button>
-                        <button type="button" class="btn btn-primary bGray" style="border-color:#ccc;"><img src="resources/img/icons/arL.png" width="10" /></button>
+                    <div class="btn-group" style="width:100px;">
+                        <button type="button" class="btn btn-primary bGray btn-bykr rr20" style="border-color:#ccc;"><img src="resources/img/icons/arR.png" width="10" /></button>
+                        <button type="button" class="btn btn-primary bGray btn-bykr rr20" style="border-color:#ccc;"><img src="resources/img/icons/arL.png" width="10" /></button>
                     </div>
                     Promedio por áreas
                 </div>
@@ -160,7 +160,8 @@
                         <div class="tU ff2 mb5">Rector</div>     
                         <div class="ff2 t16 colorAzulBE mb10">Lidia Margoth Muñoz Muñoz</div>                    
                     	<a href="" class="bBasic5 p10 dB rr40 ff2 colorVirde taC">
-                            Ver directorio
+                            <span>Ver directorio</span>&nbsp;
+                            <img class="iconBrrn2" src="resources/img/icons/mailerid.png" width="35">
                         </a>
                     
                     </div>

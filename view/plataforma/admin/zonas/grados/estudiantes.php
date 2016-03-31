@@ -1,7 +1,13 @@
 <div class="contEstandar bWhite rr5 p10">
 	
     <div class="pAA20">
-    	<div class="titSep2 colorVirde ff2 tU t18" style="margin:0;">Estudiantes</div>
+    	<div class="titSep2 colorVirde ff2" style="margin:0;">
+            <div class="tab">
+                <div class="tabIn tU">Lista Estudiantes (28)</div>
+                <div class="tabIn taR"><a class="bBasic3 rr40 colorfff bVerde5 taC ff2" href="">Crear estudiante</a></div>
+            </div>
+            
+        </div>
     </div>
     
     <br /><br />

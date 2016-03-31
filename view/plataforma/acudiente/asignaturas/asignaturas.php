@@ -2,7 +2,7 @@
 
     <div class="colorVirde ff2 t14 mb30">
         <div class="col-sm-9 col-xs-9 vcenter">
-            <span class="t16 colorVerde2 ff2 tU t20">Materias asignadas</span>
+            <span class="t16 colorVerde2 ff2 tU t20">Plan de Estudio</span>
         </div><!--
         --><div class="taC col-sm-3 col-xs-3 vcenter taR">
         </div>
@@ -52,15 +52,24 @@
 
 <div class="row dCambiar2 p20 dN">
 
-
+    <div class="row m0 mb15">
+        <div class="col-sm-8 col-xs-8 p0">
+            <span class="colorVerde2 ff2 t24 dIB">Plan de Estudio</span>&nbsp;&nbsp;&nbsp;&nbsp;
+            <select class="selecStd4 rr5 ff1 t16 bGray">
+                <option>Matemáticas</option>
+                <option>Ciencias Naturales</option>
+                <option>Lengua Castellana</option>
+            </select>
+        </div>
+    </div>
 
     <div class="col-sm-8 col-xs-8 p0">
     
-        <div class="bOrangeL p20 rr10D	">
+        <div class="bOrange p30">
             <div class="col-sm-9 col-xs-9 vcenter">
-                <span class="t16 colorVirdeL ff2 tU t24">Matemáticas</span>
+                <span class="colorfff ff2 tU t30">Matemáticas</span>
             </div><!--
-            --><div class="taC col-sm-3 col-xs-3 vcenter taR">
+         --><div class="taC col-sm-3 col-xs-3 vcenter taR">
                 <a class="bBasic3 rr40 t16 color999 bGray taC cP bCambiar">Volver</a>
             </div>
         </div>
@@ -73,32 +82,40 @@
         
         <div class="bWhite p20">
         
-        
+        <div class="row m0">
             <div class="titSep2 colorVirde ff2 tU t14" style="margin-top:0;">
-                <div class="navBarLog ff5 taC col-sm-12 col-xs-12 vcenter">
-                    <!-- Nav tabs -->
-                    <ul class="nav nav-tabs" role="tablist">
-                        
-                        <li role="presentation" class="taC active">
-                            <a href="#mater1" target="_self" aria-controls="p3" role="tab" data-toggle="tab">
-                                OBJETIVOS
-                            </a>
-                        </li>
-        
-                        <li role="presentation" class="taC">
-                            <a href="#mater2" target="_self" aria-controls="p3" role="tab" data-toggle="tab">
-                                CONTENIDOS
-                            </a>
-                        </li>
-                        <li role="presentation" class="taC">
-                            <a href="#mater3" target="_self" aria-controls="p3" role="tab" data-toggle="tab">
-                                LOGROS
-                            </a>
-                        </li>
-                    </ul>
+                <div class="col-xs-8 col-sm-8 p0 vcenter">
+                    <div class="navBarLog ff5 taC col-sm-12 col-xs-12 vcenter">
+                        <!-- Nav tabs -->
+                        <ul class="nav nav-tabs" role="tablist">
+                            
+                            <li role="presentation" class="taC active">
+                                <a href="#mater1" target="_self" aria-controls="p3" role="tab" data-toggle="tab" class="btn-radius-bykr">
+                                    OBJETIVOS
+                                </a>
+                            </li>
+            
+                            <li role="presentation" class="taC">
+                                <a href="#mater2" target="_self" aria-controls="p3" role="tab" data-toggle="tab" class="btn-radius-bykr">
+                                    CONTENIDOS
+                                </a>
+                            </li>
+                            <li role="presentation" class="taC">
+                                <a href="#mater3" target="_self" aria-controls="p3" role="tab" data-toggle="tab" class="btn-radius-bykr">
+                                    LOGROS
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                </div><!--
+            --><div class="col-xs-4 col-sm-4 p0 vcenter taR">
+                    <a class="bBasic3 rr40 color666 bGray3 taC" style="text-transform: capitalize;" href="">
+                        Descargar
+                        <img width="23" src="resources/img/icons/notif2.png">
+                    </a>
                 </div>
             </div>
-            
+        </div>    
                 
             <div class="tab-content">
                 <div id="mater1" class="tab-pane fade in active">
@@ -312,7 +329,7 @@
                                             <div class="col-sm-1 col-xs-1 vcenter p0 taC">
                                             </div><!--
                                         --><div class="col-xs-11 col-sm-11 vcenter p0">   
-                                                <strong class="t16 dIB">1.1 </strong><div class="color666 dIB">Realiza operaciones básicas entre Monomios</div>
+                                                <strong class="t16 dIB">1.1</strong> &nbsp; <span class="color666 dIB">Realiza operaciones básicas entre Monomios</span>
                                             </div>
 
                                         </div>
@@ -324,7 +341,7 @@
                                             <div class="col-sm-1 col-xs-1 vcenter p0 taC">
                                             </div><!--
                                         --><div class="col-xs-11 col-sm-11 vcenter p0">   
-                                                <strong class="t16 dIB">1.2 </strong><div class="color666 dIB">Usa las propiedades de los numeros reales para resolver operaciones entre polinomios</div>
+                                                <strong class="t16 dIB">1.2</strong> &nbsp; <span class="color666 dIB">Usa las propiedades de los numeros reales para resolver operaciones entre polinomios</span>
                                             </div>
 
                                         </div>
@@ -336,7 +353,7 @@
                                             <div class="col-sm-1 col-xs-1 vcenter p0 taC">
                                             </div><!--
                                         --><div class="col-xs-11 col-sm-11 vcenter p0">   
-                                                <strong class="t16 dIB">1.3 </strong><div class="color666 dIB">Identifica los productos notables y desarrolla peraciones entre ellos</div>
+                                                <strong class="t16 dIB">1.3</strong> &nbsp; <span class="color666 dIB">Identifica los productos notables y desarrolla peraciones entre ellos</span>
                                             </div>
 
                                         </div>
@@ -364,7 +381,7 @@
                                             <div class="col-sm-1 col-xs-1 vcenter p0 taC">
                                             </div><!--
                                         --><div class="col-xs-11 col-sm-11 vcenter p0">   
-                                                <strong class="t16 dIB">2.1 </strong><div class="color666 dIB">Halla el Factor comun de los terminos de un polinomio</div>
+                                                <strong class="t16 dIB">2.1</strong> &nbsp; <span class="color666 dIB">Halla el Factor comun de los terminos de un polinomio</span>
                                             </div>
 
                                         </div>
@@ -417,7 +434,7 @@
                                             <div class="col-sm-1 col-xs-1 vcenter p0 taC">
                                             </div><!--
                                         --><div class="col-xs-11 col-sm-11 vcenter p0">   
-                                                <strong class="t16 dIB">1.1</strong><div class="color666 dIB">Realiza operaciones básicas entre Monomios</div>
+                                                <strong class="t16 dIB">1.1</strong> &nbsp; <span class="color666 dIB">Realiza operaciones básicas entre Monomios</span>
                                             </div>
 
                                         </div>
@@ -429,7 +446,7 @@
                                             <div class="col-sm-1 col-xs-1 vcenter p0 taC">
                                             </div><!--
                                         --><div class="col-xs-11 col-sm-11 vcenter p0">   
-                                                <strong class="t16 dIB">1.2 </strong><div class="color666 dIB">Usa las propiedades de los numeros reales para resolver operaciones entre polinomios</div>
+                                                <strong class="t16 dIB">1.2</strong> &nbsp; <span class="color666 dIB">Usa las propiedades de los numeros reales para resolver operaciones entre polinomios</span>
                                             </div>
 
                                         </div>
@@ -441,7 +458,7 @@
                                             <div class="col-sm-1 col-xs-1 vcenter p0 taC">
                                             </div><!--
                                         --><div class="col-xs-11 col-sm-11 vcenter p0">   
-                                                <strong class="t16 dIB">1.3 </strong><div class="color666 dIB">Identifica los productos notables y desarrolla peraciones entre ellos</div>
+                                                <strong class="t16 dIB">1.3</strong> &nbsp; <span class="color666 dIB">Identifica los productos notables y desarrolla peraciones entre ellos</span>
                                             </div>
 
                                         </div>
@@ -469,7 +486,7 @@
                                             <div class="col-sm-1 col-xs-1 vcenter p0 taC">
                                             </div><!--
                                         --><div class="col-xs-11 col-sm-11 vcenter p0">   
-                                                <strong class="t16 dIB">2.1 </strong><div class="color666 dIB">Halla el Factor comun de los terminos de un polinomio</div>
+                                                <strong class="t16 dIB">2.1</strong> &nbsp; <span class="color666 dIB">Halla el Factor comun de los terminos de un polinomio</span>
                                             </div>
 
                                         </div>
@@ -502,56 +519,99 @@
     </div>
     <div class="col-sm-4 col-xs-4 p0">
     	<div class="bGray3 p40 taC">
-        
-        	<div class="bWhite rr50" style="width:150px; height:150px; margin:0 auto;">
-            	<div class="tabAll">
-                	<div class="tabIn taC">
-                    	<strong class="t24">Grado</strong>
+                    
+                        <div class="bWhite rr50" style="width:150px; height:150px; margin:0 auto;">
+                            <div class="tabAll">
+                                <div class="tabIn taC">
+
+                                    <div class="row m0 mb5">
+                                        <div class="col-xs-12 col-sm-12 taC">
+                                            <div class="colorVerde t60 ff2">3.8</div>
+                                        </div>
+                                    </div>
+                                    <div class="row m0 mb5">
+                                        <div class="col-xs-8 col-sm-8 col-xs-offset-2 col-sm-offset-2">
+                                            <div class="contBar dB" style="height: 16px">
+                                                <div class="bVerde p5 colorfff ff2" style="width:58%; height: inherit"></div>
+                                                <span class="colorfff ff2 porceFul"></span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="row m0 mb5">
+                                        <div class="col-xs-12 col-sm-12 taC">
+                                            <div class="color999">35%</div>
+                                        </div>
+                                    </div>
+
+                                    
+                                    
+                                </div>
+                            </div>
+                        </div>
+                        
+                        <br /><br />
+                        
+                        INTENSIDAD HORARIA
                         <br />
-                        <strong class="t50">8º</strong>
-                	</div>
-                </div>
-            </div>
-            
-            <br /><br />
-            
-            INTENSIDAD HORARIA
-            <br />
-            <strong class="t18">4 horas / semana</strong>
-            
-            <br /><br />
-            <br /><br />
-            
-            <div class="colorVerde2 ff2 tU t20 taL mb10">Grupos</div>
-            
-            <div class="bGray bGray cP dB p10 mb5">
-            	<div class="col-sm-9 col-xs-9 vcenter taL">
-                    <span class="t16 color666 ff2">Álgebra 8ºA</span>
-                </div><!--
-                --><div class="taC col-sm-3 col-xs-3 vcenter taR">
-                    <img src="resources/img/icons/arL.png" />
-                </div>
-            </div>
-            <div class="bGray bGray cP dB p10 mb5">
-            	<div class="col-sm-9 col-xs-9 vcenter taL">
-                    <span class="t16 color666 ff2">Álgebra 8ºB</span>
-                </div><!--
-                --><div class="taC col-sm-3 col-xs-3 vcenter taR">
-                    <img src="resources/img/icons/arL.png" />
-                </div>
-            </div>
-            <div class="bGray bGray cP dB p10 mb5">
-            	<div class="col-sm-9 col-xs-9 vcenter taL">
-                    <span class="t16 color666 ff2">Álgebra 8ºC</span>
-                </div><!--
-                --><div class="taC col-sm-3 col-xs-3 vcenter taR">
-                    <img src="resources/img/icons/arL.png" />
-                </div>
-            </div>
-        
-        
-        
-        </div>
+                        <strong class="t18">4 horas / semana</strong>
+                        
+                        <br /><br />
+                        <br /><br />
+                        
+                        <div class="colorVerde2 ff2 t20 taL mb10">Contenido visto</div>
+                        
+                        <div class="row bGray bGray cP dB p10 mb5 m0">
+                            <div class="col-sm-8 col-xs-8 vcenter taL">
+                                <span class="t16 color666 ff2">Unidad 1</span>
+                            </div><!--
+                         --><div class="col-xs-2 col-sm-2 vcenter taR p0">
+                                <div class="color999 dIB t16">6/6</div>
+                            </div><!--
+                         --><div class="taC col-sm-2 col-xs-2 vcenter taC">
+                                <img src="resources/img/icons/ok.png" />
+                            </div>
+                        </div>
+
+                        <div class="row bGray bGray cP dB p10 mb5 m0">
+                            <div class="col-sm-8 col-xs-8 vcenter taL">
+                                <span class="t16 color666 ff2">Unidad 2</span>
+                            </div><!--
+                         --><div class="col-xs-2 col-sm-2 vcenter taR p0">
+                                <div class="color999 dIB t16">4/7</div>
+                            </div><!--
+                         --><div class="taC col-sm-2 col-xs-2 vcenter taC">
+                                <img src="resources/img/icons/tarde.png" />
+                            </div>
+                        </div>
+
+                        <div class="row bGray bGray cP dB p10 mb5 m0">
+                            <div class="col-sm-8 col-xs-8 vcenter taL">
+                                <span class="t16 color666 ff2">Unidad 3</span>
+                            </div><!--
+                         --><div class="col-xs-2 col-sm-2 vcenter taR p0">
+                                <div class="color999 dIB t16">0/5</div>
+                            </div><!--
+                         --><div class="taC col-sm-2 col-xs-2 vcenter taC">
+                                <img src="resources/img/icons/block.png" />
+                            </div>
+                        </div>
+
+                        <div class="row bGray bGray cP dB p10 mb5 m0">
+                            <div class="col-sm-8 col-xs-8 vcenter taL">
+                                <span class="t16 color666 ff2">Unidad 4</span>
+                            </div><!--
+                         --><div class="col-xs-2 col-sm-2 vcenter taR p0">
+                                <div class="color999 dIB t16">0/5</div>
+                            </div><!--
+                         --><div class="taC col-sm-2 col-xs-2 vcenter taC">
+                                <img src="resources/img/icons/block.png" />
+                            </div>
+                        </div>
+                    
+                    </div>
+
+
+
     </div>
 
 </div>

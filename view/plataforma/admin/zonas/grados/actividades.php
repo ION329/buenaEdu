@@ -37,7 +37,7 @@
 		</div>
 
 		<div class="col-xs-6 col-sm-6 taR">
-			<a class="bBasic2 rr40 colorfff bVerde" href="">Crear Actividad</a>
+			<a class="bBasic3 rr40 colorfff bVerde5 ff2" href="">Crear Actividad</a>
 		</div>
 	</div>
 
@@ -149,7 +149,7 @@
 										<tr>
 											<td class="taC"><img class="rr50" width="40" src="resources/img/demo/user2.png"></td>
 											<td><a class="aSS" href="#/plataforma/admin/profesor">Daniel Zea Ramírez</a></td>
-											<td class="taR"><a class="bBasic1 rr40 colorfff bVerde" href="">Ver trabajo</a></td>
+											<td class="taR"><a class="bBasic6 rr40 colorfff bVerde5" href="">Ver trabajo</a></td>
 										</tr>
 										<?php } ?>
 									</tbody>

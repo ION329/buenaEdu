@@ -77,7 +77,7 @@
                     </div>
                     <br />
                     <div class="taC">
-                    	<a href="#/plataforma/visor/resultados" class="bBasic2 colorfff bVerde4 rr40 t20 p20 cP ff2">Realizar búsqueda</a>
+                    	<a href="#/plataforma/visor/resultados" class="bBasic2 colorfff bVerde5 rr40 t20 p20 cP ff2">Realizar búsqueda</a>
                     </div>
                     
                 </div>

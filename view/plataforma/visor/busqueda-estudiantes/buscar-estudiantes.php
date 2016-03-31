@@ -32,7 +32,7 @@
             <br style="clear:both;" />
             <hr />
             <div class="taC">
-                <a href="#/plataforma/visor/resultados" class="bBasic5 rr40 t20 ff2 colorfff bVerde4 taC cP">
+                <a href="#/plataforma/visor/resultados" class="bBasic5 rr40 t20 ff2 colorfff bVerde5 taC cP">
                     <span class="p20">Buscar</span>
                 </a>
             </div>

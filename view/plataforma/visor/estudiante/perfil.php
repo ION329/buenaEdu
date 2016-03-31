@@ -14,7 +14,7 @@
                 <br><br>
 
                 <a href="" class="bBasic5 dB rr40 t16 ff2 colorVirde">
-                    Enviar mensaje
+                    Crear mensaje
                     <img src="resources/img/icons/mailer.png" class="iconBrrn" />
                 </a>
             </div>

@@ -25,25 +25,25 @@
             </li>
             <li role="presentation" class="jQ2 taC t16 tU">
                 <a href="#horarios" target="_self" aria-controls="profile" role="tab" data-toggle="tab">
-                    <img src="resources/img/icons/mE2.png" class="icjQ2 mb5" />
+                    <img src="resources/img/icons/mE3.png" class="icjQ2 mb5" />
                     <br />Horarios
                 </a>
             </li>
             <li role="presentation" class="jQ3 taC t16 tU">
                 <a href="#asignaturas" target="_self" aria-controls="messages" role="tab" data-toggle="tab">
-                    <img src="resources/img/icons/mE3.png" class="icjQ3 mb5" />
+                    <img src="resources/img/icons/mE4.png" class="icjQ3 mb5" />
                     <br />Asignaturas
                 </a>
             </li>
             <li role="presentation" class="jQ4 taC t16 tU">
                 <a href="#mensajes" target="_self" aria-controls="settings" role="tab" data-toggle="tab">
-                    <img src="resources/img/icons/mE4.png" class="icjQ4 mb5" />
+                    <img src="resources/img/icons/mE5.png" class="icjQ4 mb5" />
                     <br />Mensajes
                 </a>
             </li>
             <li role="presentation" class="jQ5 taC t16 tU">
                 <a href="#foros" target="_self" aria-controls="messages" role="tab" data-toggle="tab">
-                    <img src="resources/img/icons/mE5.png" class="icjQ5 mb5" />
+                    <img src="resources/img/icons/mE6.png" class="icjQ5 mb5" />
                     <br />Foros
                 </a>
             </li>

@@ -1,23 +1,15 @@
 <div class="contEstandar bWhite rr5 p10">
 
 	<!--<img src="resources/img/temporal/4.jpg">-->
-	<div class="row mb10">
+	<div class="row m0 mb10">
 		<div class="col-sm-2 col-xs-2 vcenter">
 			<div class="t14 ff2">RESUMEN FOROS</div>
 		</div><!--
 		--><div class="col-sm-2 col-xs-2 vcenter">
-			<select class="selecStd2 rr5 ff2 t16 colorVirde bGray">
-				<option value="grado-6">Grado 6°</option>
-				<option value="grado-7">Grado 7°</option>
-				<option value="grado-8">Grado 8°</option>
-				<option value="grado-9">Grado 9°</option>
-				<option value="grado-10">Grado 10°</option>
-				<option value="grado-11">Grado 11°</option>
-			</select>
-
+			
 		</div><!--
-        --><div class="col-sm-3 col-xs-3 vcenter col-sm-offset-5 col-xs-offset-5 taC">
-			<a class="bBasic2 rr40 colorfff bVerde taC" href="">Crear Nuevo Foro</a>
+        --><div class="col-sm-3 col-xs-3 vcenter col-sm-offset-5 col-xs-offset-5 taR">
+			<a class="bBasic3 ff2 rr40 colorfff bVerde5 taC" href="">Crear Nuevo Foro</a>
 		</div>
 	</div>
 

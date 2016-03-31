@@ -141,17 +141,17 @@
             <!-- Nav tabs -->
             <ul class="nav nav-tabs" role="tablist">
                 <li role="presentation" class="taC active">
-                    <a href="#p1" target="_self" aria-controls="p1" role="tab" data-toggle="tab">
+                    <a href="#p1" target="_self" aria-controls="p1" role="tab" data-toggle="tab" class="btn-radius-bykr">
                         (1)P
                     </a>
                 </li>
                 <li role="presentation" class="taC">
-                    <a href="#p2" target="_self" aria-controls="p2" role="tab" data-toggle="tab">
+                    <a href="#p2" target="_self" aria-controls="p2" role="tab" data-toggle="tab" class="btn-radius-bykr">
                         (2)P
                     </a>
                 </li>
                 <li role="presentation" class="taC">
-                    <a href="#p3" target="_self" aria-controls="p3" role="tab" data-toggle="tab">
+                    <a href="#p3" target="_self" aria-controls="p3" role="tab" data-toggle="tab" class="btn-radius-bykr">
                         (3)P
                     </a>
                 </li>

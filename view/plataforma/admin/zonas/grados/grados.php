@@ -31,7 +31,7 @@
             </li>
             <li role="presentation" class="jQ3 taC t16 tU">
                 <a href="#3" target="_self" aria-controls="messages" role="tab" data-toggle="tab">
-                    <img src="resources/img/icons/mE3.png" class="icjQ3 mb5" />
+                    <img src="resources/img/icons/mE4.png" class="icjQ3 mb5" />
                     <br />Actividades
                 </a>
             </li>
@@ -61,16 +61,16 @@
         	<div ng-include src=" 'view/plataforma/admin/zonas/grados/resumen.php' "></div>
         </div>
         <div id="2" class="tab-pane fade">
-            <div ng-include src=" 'view/plataforma/admin/zonas/grados/2.php' "></div>
+            <div ng-include src=" 'view/plataforma/admin/zonas/grados/notas.php' "></div>
         </div>
         <div id="3" class="tab-pane fade">
-            <div ng-include src=" 'view/plataforma/admin/zonas/grados/3.php' "></div>
+            <div ng-include src=" 'view/plataforma/admin/zonas/grados/actividades.php' "></div>
         </div>
         <div id="4" class="tab-pane fade">
-            <div ng-include src=" 'view/plataforma/admin/zonas/grados/4.php' "></div>
+            <div ng-include src=" 'view/plataforma/admin/zonas/grados/foros.php' "></div>
         </div>
         <div id="5" class="tab-pane fade">
-            <div ng-include src=" 'view/plataforma/admin/zonas/grados/5.php' "></div>
+            <div ng-include src=" 'view/plataforma/admin/zonas/grados/estudiantes.php' "></div>
         </div>
         <div id="6" class="tab-pane fade">
             <div ng-include src=" 'view/plataforma/admin/zonas/grados/agenda.php' "></div>

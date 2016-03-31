@@ -19,18 +19,18 @@
                                         
                       <tr>
                       	<td class="bWhite"><img src="resources/img/demo/user2.png" width="32" /></td>
-                        <td class="bWhite"><a href="#/plataforma/visor/estudiante" class="aSS">Wilfonso D'Lacorte</a></td>
-                        <td class="bWhite">1.323'127.361</td>
-                        <td class="bWhite">11º</td>
-                        <td class="bWhite">B</td>
+                        <td class="bWhite"><a href="#/plataforma/visor/estudiante" class="aSS">Carlos Mauricio Urrego Bejarano</a></td>
+                        <td class="bWhite">1'1234.543.123</td>
+                        <td class="bWhite">8º</td>
+                        <td class="bWhite">2B</td>
                       </tr>
                     
                       <tr>
                       	<td><img src="resources/img/demo/user2.png" width="32" /></td>
-                        <td><a href="#/plataforma/visor/estudiante" class="aSS">Wilfonso D'Lacorte</a></td>
-                        <td>1.323'127.361</td>
-                        <td>11º</td>
-                        <td>B</td>
+                        <td><a href="#/plataforma/visor/estudiante" class="aSS">Carlos Mauricio Urrego Bejarano</a></td>
+                        <td>1'1234.543.123</td>
+                        <td>8º</td>
+                        <td>2B</td>
                       </tr>
                     
                 <?php } ?>

@@ -1,12 +1,13 @@
-<div class="row dCambiar1 m0 p30">
-
-    <div class="colorVirde ff2 t14 mb30">
+<div class="colorVirde ff2 t14" style="padding: 0px 30px">
         <div class="col-sm-9 col-xs-9 vcenter">
             <span class="t16 colorVerde2 ff2 tU t20">Materias asignadas</span>
         </div><!--
         --><div class="taC col-sm-3 col-xs-3 vcenter taR">
         </div>
     </div>
+<div class="row dCambiar1 m0 p30">
+
+    
 
     <?php for($ww=0; $ww<4; $ww++){ ?>
         <div class="col-sm-6 col-xs-6 mb30 cP bMateria bCambiar">
@@ -56,49 +57,55 @@
 
     <div class="col-sm-8 col-xs-8 p0">
     
-        <div class="bOrangeL p20 rr10D	">
+        <div class="bOrange p30">
             <div class="col-sm-9 col-xs-9 vcenter">
-                <span class="t16 colorVirdeL ff2 tU t24">Matemáticas</span>
+                <span class="colorfff ff2 tU t30">Matemáticas</span>
             </div><!--
             --><div class="taC col-sm-3 col-xs-3 vcenter taR">
                 <a class="bBasic3 rr40 t16 color999 bGray taC cP bCambiar">Volver</a>
             </div>
         </div>
         
-        
-        
-        
-        
-        
-        
+
         <div class="bWhite p20">
         
-        
+        <div class="row m0">
             <div class="titSep2 colorVirde ff2 tU t14" style="margin-top:0;">
-                <div class="navBarLog ff5 taC col-sm-12 col-xs-12 vcenter">
-                    <!-- Nav tabs -->
-                    <ul class="nav nav-tabs" role="tablist">
-                        
-                        <li role="presentation" class="taC active">
-                            <a href="#mater1" target="_self" aria-controls="p3" role="tab" data-toggle="tab">
-                                OBJETIVOS
-                            </a>
-                        </li>
-        
-                        <li role="presentation" class="taC">
-                            <a href="#mater2" target="_self" aria-controls="p3" role="tab" data-toggle="tab">
-                                CONTENIDOS
-                            </a>
-                        </li>
-                        <li role="presentation" class="taC">
-                            <a href="#mater3" target="_self" aria-controls="p3" role="tab" data-toggle="tab">
-                                LOGROS
-                            </a>
-                        </li>
-                    </ul>
-                </div>
-            </div>
+
+                <div class="col-xs-7 col-sm-7 p0 vcenter">
+                    <div class="navBarLog ff5 taC col-sm-12 col-xs-12 vcenter">
+                        <!-- Nav tabs -->
+                        <ul class="nav nav-tabs" role="tablist">
+                            
+                            <li role="presentation" class="taC active">
+                                <a href="#mater1" target="_self" aria-controls="p3" role="tab" data-toggle="tab" class="btn-radius-bykr">
+                                    OBJETIVOS
+                                </a>
+                            </li>
             
+                            <li role="presentation" class="taC">
+                                <a href="#mater2" target="_self" aria-controls="p3" role="tab" data-toggle="tab" class="btn-radius-bykr">
+                                    CONTENIDOS
+                                </a>
+                            </li>
+                            <li role="presentation" class="taC">
+                                <a href="#mater3" target="_self" aria-controls="p3" role="tab" data-toggle="tab" class="btn-radius-bykr">
+                                    LOGROS
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                </div><!--
+            --><div class="col-xs-5 col-sm-5 p0 vcenter taR">
+                    <a class="bBasic2 rr40 color666 bGray3 taC" href="" style="text-transform: capitalize;"> Editar </a>
+                    <a class="bBasic2 rr40 color666 bGray3 taC" style="text-transform: capitalize;" href="">
+                        <img width="16" src="resources/img/icons/notif2.png">
+                        Descargar
+                    </a>
+                </div>
+                
+            </div>
+        </div>    
                 
             <div class="tab-content">
                 <div id="mater1" class="tab-pane fade in active">
@@ -312,7 +319,7 @@
                                             <div class="col-sm-1 col-xs-1 vcenter p0 taC">
                                             </div><!--
                                         --><div class="col-xs-11 col-sm-11 vcenter p0">   
-                                                <strong class="t16 dIB">1.1 </strong><div class="color666 dIB">Realiza operaciones básicas entre Monomios</div>
+                                                <strong class="t16 dIB">1.1</strong> &nbsp; <span class="color666 dIB">Realiza operaciones básicas entre Monomios</span>
                                             </div>
 
                                         </div>
@@ -324,7 +331,7 @@
                                             <div class="col-sm-1 col-xs-1 vcenter p0 taC">
                                             </div><!--
                                         --><div class="col-xs-11 col-sm-11 vcenter p0">   
-                                                <strong class="t16 dIB">1.2 </strong><div class="color666 dIB">Usa las propiedades de los numeros reales para resolver operaciones entre polinomios</div>
+                                                <strong class="t16 dIB">1.2</strong> &nbsp; <span class="color666 dIB">Usa las propiedades de los numeros reales para resolver operaciones entre polinomios</span>
                                             </div>
 
                                         </div>
@@ -336,7 +343,7 @@
                                             <div class="col-sm-1 col-xs-1 vcenter p0 taC">
                                             </div><!--
                                         --><div class="col-xs-11 col-sm-11 vcenter p0">   
-                                                <strong class="t16 dIB">1.3 </strong><div class="color666 dIB">Identifica los productos notables y desarrolla peraciones entre ellos</div>
+                                                <strong class="t16 dIB">1.3</strong> &nbsp; <span class="color666 dIB">Identifica los productos notables y desarrolla peraciones entre ellos</span>
                                             </div>
 
                                         </div>
@@ -364,7 +371,7 @@
                                             <div class="col-sm-1 col-xs-1 vcenter p0 taC">
                                             </div><!--
                                         --><div class="col-xs-11 col-sm-11 vcenter p0">   
-                                                <strong class="t16 dIB">2.1 </strong><div class="color666 dIB">Halla el Factor comun de los terminos de un polinomio</div>
+                                                <strong class="t16 dIB">2.1</strong> &nbsp; <span class="color666 dIB">Halla el Factor comun de los terminos de un polinomio</span>
                                             </div>
 
                                         </div>
@@ -417,7 +424,7 @@
                                             <div class="col-sm-1 col-xs-1 vcenter p0 taC">
                                             </div><!--
                                         --><div class="col-xs-11 col-sm-11 vcenter p0">   
-                                                <strong class="t16 dIB">1.1</strong><div class="color666 dIB">Realiza operaciones básicas entre Monomios</div>
+                                                <strong class="t16 dIB">1.1</strong> &nbsp; <span class="color666 dIB">Realiza operaciones básicas entre Monomios</span>
                                             </div>
 
                                         </div>
@@ -429,7 +436,7 @@
                                             <div class="col-sm-1 col-xs-1 vcenter p0 taC">
                                             </div><!--
                                         --><div class="col-xs-11 col-sm-11 vcenter p0">   
-                                                <strong class="t16 dIB">1.2 </strong><div class="color666 dIB">Usa las propiedades de los numeros reales para resolver operaciones entre polinomios</div>
+                                                <strong class="t16 dIB">1.2</strong> &nbsp; <span class="color666 dIB">Usa las propiedades de los numeros reales para resolver operaciones entre polinomios</span>
                                             </div>
 
                                         </div>
@@ -441,7 +448,7 @@
                                             <div class="col-sm-1 col-xs-1 vcenter p0 taC">
                                             </div><!--
                                         --><div class="col-xs-11 col-sm-11 vcenter p0">   
-                                                <strong class="t16 dIB">1.3 </strong><div class="color666 dIB">Identifica los productos notables y desarrolla peraciones entre ellos</div>
+                                                <strong class="t16 dIB">1.3</strong> &nbsp; <span class="color666 dIB">Identifica los productos notables y desarrolla peraciones entre ellos</span>
                                             </div>
 
                                         </div>
@@ -469,7 +476,7 @@
                                             <div class="col-sm-1 col-xs-1 vcenter p0 taC">
                                             </div><!--
                                         --><div class="col-xs-11 col-sm-11 vcenter p0">   
-                                                <strong class="t16 dIB">2.1 </strong><div class="color666 dIB">Halla el Factor comun de los terminos de un polinomio</div>
+                                                <strong class="t16 dIB">2.1</strong> &nbsp; <span class="color666 dIB">Halla el Factor comun de los terminos de un polinomio</span>
                                             </div>
 
                                         </div>

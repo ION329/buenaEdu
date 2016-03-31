@@ -1,9 +1,9 @@
 <div class="contEstandar bWhite rr5 p30 mb20 dAbre1">
     <div class="titSep3 colorVirde ff2 tU t14">
-        <div class="col-sm-1 col-xs-1 vcenter">
-            <div class="btn-group" style="width:80px;">
-              <button type="button" class="btn btn-primary bGray" style="border-color:#ccc;"><img src="resources/img/icons/arR.png" width="10"></button>
-              <button type="button" class="btn btn-primary bGray" style="border-color:#ccc;"><img src="resources/img/icons/arL.png" width="10"></button>
+        <div class="col-sm-1 col-xs-1 p0 vcenter">
+            <div class="btn-group" style="width:100px;">
+              <button type="button" class="btn btn-primary bGray btn-bykr rr20" style="border-color:#ccc;"><img src="resources/img/icons/arR.png" width="10"></button>
+              <button type="button" class="btn btn-primary bGray btn-bykr rr20" style="border-color:#ccc;"><img src="resources/img/icons/arL.png" width="10"></button>
             </div>
         </div><!--
         --><div class="col-sm-5 col-xs-5 vcenter">

@@ -17,7 +17,7 @@
 
 		</div><!--
         --><div class="col-sm-3 col-xs-3 vcenter col-sm-offset-5 col-xs-offset-5 taC">
-			<a class="bBasic2 rr40 colorfff bVerde taC" href="">Crear Nuevo Foro</a>
+			<a class="bBasic3 rr40 colorfff bVerde5 taC ff2" href="">Crear Nuevo Foro</a>
 		</div>
 	</div>
 

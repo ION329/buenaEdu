@@ -16,8 +16,8 @@
 			</select>
 
 		</div><!--
-        --><div class="col-sm-3 col-xs-3 vcenter col-sm-offset-5 col-xs-offset-5 taC">
-			<a class="bBasic2 rr40 colorfff bVerde taC" href="">Crear Nuevo Foro</a>
+        --><div class="col-sm-3 col-xs-3 vcenter col-sm-offset-5 col-xs-offset-5 taR">
+			<a class="bBasic3 ff2 rr40 colorfff bVerde5 taC" href="">Crear Nuevo Foro</a>
 		</div>
 	</div>
 

@@ -15,7 +15,7 @@
 </a>
 
 <a href="#/plataforma/acudiente/mensajes">
-	<div class="optMenLat icM2">
+	<div class="optMenLat icM8">
         <div class="tabAll">
             <div class="tabIn ff2 t16">
                 Mis mensajes
@@ -25,7 +25,7 @@
 </a>
 
 <a href="#/plataforma/acudiente/asignaturas">
-	<div class="optMenLat icM6">
+	<div class="optMenLat icM2">
         <div class="tabAll ff2 t16">
             <div class="tabIn">
                 Plan de estudio
@@ -35,7 +35,7 @@
 </a>
 
 <a href="#/plataforma/acudiente/eventos">
-	<div class="optMenLat icM7">
+	<div class="optMenLat icM3">
         <div class="tabAll">
             <div class="tabIn ff2 t16">
                 Agenda y eventos

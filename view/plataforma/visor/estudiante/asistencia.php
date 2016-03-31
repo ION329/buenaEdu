@@ -1,20 +1,22 @@
 <div class="contEstandar bWhite rr5 p10">
 
-    <div class="titSep2 colorVirde ff2 tU t14" style="margin-top:0;">
-        <div class="col-sm-1 col-xs-1 vcenter">
-            <div class="btn-group" style="width:80px;">
-              <button type="button" class="btn btn-primary bGray" style="border-color:#ccc;"><img src="resources/img/icons/arR.png" width="10" /></button>
-              <button type="button" class="btn btn-primary bGray" style="border-color:#ccc;"><img src="resources/img/icons/arL.png" width="10" /></button>
+    <div class="titSep2 colorVirde ff2 t14" style="margin-top:0;">
+        <div class="col-sm-1 col-xs-1 p0 vcenter">
+            <div class="btn-group" style="width:100px;">
+              <button type="button" class="btn btn-primary bGray btn-bykr rr20" style="border-color:#ccc;"><img src="resources/img/icons/arR.png" width="10" /></button>
+              <button type="button" class="btn btn-primary bGray btn-bykr rr20" style="border-color:#ccc;"><img src="resources/img/icons/arL.png" width="10" /></button>
             </div>
         </div><!--
         --><div class="col-sm-5 col-xs-5 vcenter">
             <span class="t24 colorVirde ff2">Enero</span>
-            <span class="t24 color666 ff0">2016</span>
+            <span class="t24 color666 ff0">2016</span>&nbsp;&nbsp;&nbsp;&nbsp;
+            <span class="t16 ff2 dIB">Total de Clases: 24</span>
         </div><!--
         --><div class="navBarLog taC col-sm6 col-xs-6 vcenter taR">
-        	<a href="" class="bBasic2 rr40 taC">Editar</a>
+        	<!--<a href="" class="bBasic2 rr40 taC">Editar</a>
             <a href="" class="bBasic2 rr40 taC">Descargar</a>
             <a href="" class="bBasic2 rr40 colorfff bVerde2 taC">Nueva asistencia</a>
+            -->
         </div>
     </div>
     
@@ -132,23 +134,26 @@
                     </a>
                 </li>
                 <li role="presentation" class="taC active">
-                    <a href="#asis1" target="_self" aria-controls="p1" role="tab" data-toggle="tab">
+                    <a href="#asis1" target="_self" aria-controls="p1" role="tab" data-toggle="tab" class="btn-radius-bykr">
                         Ver todas
                     </a>
                 </li>
                 <li role="presentation" class="taC">
-                    <a href="#asis2" target="_self" aria-controls="p2" role="tab" data-toggle="tab">
+                    <a href="#asis2" target="_self" aria-controls="p2" role="tab" data-toggle="tab" class="btn-radius-bykr">
                         Justificadas
+                        <span> (2) </span>
                     </a>
                 </li>
                 <li role="presentation" class="taC">
-                    <a href="#asis3" target="_self" aria-controls="p3" role="tab" data-toggle="tab">
+                    <a href="#asis3" target="_self" aria-controls="p3" role="tab" data-toggle="tab" class="btn-radius-bykr">
 						Sin justificar
+                        <span> (0) </span>
                     </a>
                 </li>
                 <li role="presentation" class="taC">
-                    <a href="#asis4" target="_self" aria-controls="p3" role="tab" data-toggle="tab">
+                    <a href="#asis4" target="_self" aria-controls="p3" role="tab" data-toggle="tab" class="btn-radius-bykr">
 						Llegadas tarde
+                        <span> (1) </span>
                     </a>
                 </li>
             </ul>
@@ -166,13 +171,13 @@
                 --><div class="col-sm-3 col-xs-3 vcenter">Recurso/aplicación</div>
             </div>
             
-            <div class="row p10 mb5 bGray" style="margin:0;">
+            <div class="row p10 bGray m0 mb3">
                 <div class="col-sm-2 col-xs-2 colorVirde vcenter">Enero 11 2016</div><!--
                 --><div class="col-sm-2 col-xs-2 colorVirde vcenter">Justificada</div><!--
                 --><div class="col-sm-5 col-xs-5 colorVirde vcenter ff2">Incapacidad Médica enviada por el acudiente</div><!--
                 --><div class="col-sm-3 col-xs-3 colorVirde taR vcenter"><a href="" class="bBasic2 rr40 taC dB">Archivo adjunto</a></div>
             </div>
-            <div class="row p10 mb5 bGray" style="margin:0;">
+            <div class="row p10 bGray m0 mb3">
                 <div class="col-sm-2 col-xs-2 colorVirde vcenter">Noviembre 29 2015</div><!--
                 --><div class="col-sm-2 col-xs-2 colorVirde vcenter">Justificada</div><!--
                 --><div class="col-sm-5 col-xs-5 colorVirde vcenter ff2">Carta enviada y firmada por el acudiente</div><!--

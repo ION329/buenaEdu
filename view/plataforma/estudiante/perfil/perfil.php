@@ -64,7 +64,7 @@
 							</div><!--
 
 						--><div class="col-xs-5 col-sm-5 bGray3 p0 taR vcenter">
-								<a class="bBasic2 rr40 colorfff bVerde" href="">Descargar Archivo</a>
+								<a class="bBasic3 rr40 colorfff bVerde5 ff2" href="">Descargar Archivo</a>
 							</div><!--
 					--></div>
 
@@ -109,12 +109,19 @@
 						</div><!--
 
 					--><div class="col-xs-4 col-sm-4 p0 vcenter taR">
-							<a class="bBasic2 rr40 colorfff bVerde" href="">Mensaje</a>
+							<a class="bBasic3 rr40 colorfff bVerde5 ff2" href="">Mensaje</a>
 						</div><!--
 
 				--></div>
 
 					<?php } ?>
+
+					<div class="row m0">
+						<div class="col-xs-12 col-sm-12 p20 cP">
+							<div class="color999 dIB">Ver todos los profesores</div>&nbsp;&nbsp;&nbsp;&nbsp;
+							<img src="resources/img/icons/arL.png">
+						</div>
+					</div>
 				</div>
 			</div>
 		</div>

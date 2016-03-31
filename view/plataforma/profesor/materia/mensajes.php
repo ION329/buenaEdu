@@ -1,36 +1,47 @@
 <div class="contEstandar bWhite rr5 p10">
 
-	<div class="titSep2 colorVirde ff2 tU t14" style="margin-top:0;">
-        <div class="navBarLog ff5 taC col-sm-12 col-xs-12 vcenter">
-            <!-- Nav tabs -->
-            <ul class="nav nav-tabs" role="tablist">
-                <li role="presentation">                    
-                    <a target="_self" aria-controls="p1" role="tab" data-toggle="tab" class="t18" style="background-color:transparent; border:0;">
-                        Mensajes
-                    </a>
-                </li>
+	<div class="titSep2 colorVirde ff2 tU t14" style="margin-top:0; margin-bottom: 0;">
+        
+        <div class="row m0">
+            <div class="col-xs-6 col-sm-6 p0 vcenter">
+                <div class="navBarLog ff5 taC col-sm-12 col-xs-12 vcenter">
+                    <!-- Nav tabs -->
+                    <ul class="nav nav-tabs" role="tablist">
 
-                <li role="presentation" class="taC active">
-                    <a href="#mens1" target="_self" aria-controls="p3" role="tab" data-toggle="tab">
-						Recibidos
-                    </a>
-                </li>
-                <li role="presentation" class="taC">
-                    <a href="#mens2" target="_self" aria-controls="p3" role="tab" data-toggle="tab">
-						Enviados
-                    </a>
-                </li>
-            </ul>
+                        <li role="presentation" class="taC active">
+                            <a href="#mens1" target="_self" aria-controls="p3" role="tab" data-toggle="tab" class="btn-radius-bykr"> 
+                                Recibidos
+                            </a>
+                        </li>
+                        <li role="presentation" class="taC">
+                            <a href="#mens2" target="_self" aria-controls="p3" role="tab" data-toggle="tab" class="btn-radius-bykr">
+                                Enviados
+                            </a>
+                        </li>
+                        <li role="presentation" class="taC">
+                            <a href="#mens2" target="_self" aria-controls="p3" role="tab" data-toggle="tab" class="btn-radius-bykr">
+                                3ER Periodo
+                            </a>
+                        </li>
+
+                    </ul>
+                </div>
+            </div><!--
+        --><div class="col-xs-6 col-sm-6 p0 vcenter taR">
+                <a class="bBasic3 rr40 colorfff bVerde5 ff2" href="">Crear Mensaje</a>
+            </div>
         </div>
+
+        
     </div>
     
         
     <div class="tab-content">
         <div id="mens1" class="tab-pane fade in active">
             
-            <div class="row">
+            <div class="row m0">
                 
-            	<div class="col-sm-5 col-xs-5">
+            	<div class="col-sm-5 col-xs-5 p0">
                 
                 	<div class="t18 ff2 p10">
                     	<div class="input-group">
@@ -76,7 +87,7 @@
                 
                 
                 </div>
-                <div class="col-sm-7 col-xs-7">
+                <div class="col-sm-7 col-xs-7 p0">
                 
                 	<div class="bGray3 t18 ff2 p20">
                     	Taller de matemáticas para traer resuelto la próxima clase

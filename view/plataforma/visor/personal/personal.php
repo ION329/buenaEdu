@@ -33,7 +33,7 @@
             </li>
             <li role="presentation" class="jQ4 taC t16 tU ionZ">
                 <a href="#horarios" target="_self" aria-controls="settings" role="tab" data-toggle="tab">
-                    <img src="resources/img/icons/mE4.png" class="icjQ4 mb5" />
+                    <img src="resources/img/icons/mE6.png" class="icjQ4 mb5" />
                     <br />Horario
                 </a>
             </li>

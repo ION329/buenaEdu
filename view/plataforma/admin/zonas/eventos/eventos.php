@@ -8,10 +8,10 @@
     <br /><br />
     
 	<div class="titSep2 colorVirde ff2 tU t14" style="margin-top:0;">
-        <div class="col-sm-1 col-xs-1 vcenter">
-            <div class="btn-group" style="width:80px;">
-              <button type="button" class="btn btn-primary bGray" style="border-color:#ccc;"><img src="resources/img/icons/arR.png" width="10" /></button>
-              <button type="button" class="btn btn-primary bGray" style="border-color:#ccc;"><img src="resources/img/icons/arL.png" width="10" /></button>
+        <div class="col-sm-1 col-xs-1 p0 vcenter">
+            <div class="btn-group" style="width:100px;">
+              <button type="button" class="btn btn-primary bGray btn-bykr rr20" style="border-color:#ccc;"><img src="resources/img/icons/arR.png" width="10" /></button>
+              <button type="button" class="btn btn-primary bGray btn-bykr rr20" style="border-color:#ccc;"><img src="resources/img/icons/arL.png" width="10" /></button>
             </div>
         </div><!--
         --><div class="col-sm-5 col-xs-5 vcenter">
@@ -19,6 +19,10 @@
             <span class="t24 color666 ff0">2016</span>
         </div><!--
         --><div class="navBarLog taC col-sm-6 col-xs-6 vcenter taR">
+            <a class="bBasic3 rr40 color666 bGray3 taC" style="text-transform: capitalize;" href="">
+                Descargar Archivo
+                <img width="23" src="resources/img/icons/notif2.png">
+            </a>
         </div>
     </div>
     
@@ -30,7 +34,9 @@
             <span class="t16 colorVirde ff2">Miércoles, Enero 13 de 2016</span>
         </div><!--
         --><div class="navBarLog col-sm-6 col-xs-6 vcenter taR">
-            <a href="" class="bBasic2 rr40 colorfff bVerde2 taC bAbrir1">Nuevo Evento</a>
+            <a class="bBasic2 rr40 color666 bGray3 taC ff1" href="">Editar</a>
+            <a class="bBasic2 rr40 color666 bGray3 taC ff1" href="">Descargar</a>
+            <a href="" class="bBasic2 rr40 colorfff bVerde5 taC bAbrir1">Crear Alarma</a>
         </div>
     </div>
     

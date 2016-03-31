@@ -39,83 +39,84 @@
 	
 
 	<div class="row m0 mb15 bGray3">
+		<div class="col-xs-8 col-sm-8 bWhite" style="padding-left: 0px; padding-right: 25px">
+			<div class="bGray3 p20">
+				<div class="row m0">
+					<div class="col-xs-6 vcenter">
+						<div class="row m0 mb20">
+							<div class="col-xs-6 vcenter">
+								<span class="t16 ff2 dB taL mb15">Promedio</span>
+							</div><!--
+						--><div class="col-xs-6 vcenter">
+								<div class="colorOrange t40 ff2">3.8</div>
+							</div><!--
+					--></div>
+						
+						<div class="row m0">
+							<div class="col-xs-6">
+								<div class="mb5 color666">Temas Vistos</div>
+							</div><!--
+						--><div class="col-xs-6">
+								<span class="t16 ff2 dB taL mb5">4/5</span>
+							</div><!--
+					--></div>
 
+						<div class="row m0">
+							<div class="col-xs-6">
+								<div class="mb5 color666">Logro evaluados</div>
+							</div><!--
+						--><div class="col-xs-6">
+								<span class="t16 ff2 dB taL">7/8</span>
+							</div>
+						</div>
 
-		<!-- Comienzo -->
-		<div class="col-xs-4 col-sm-4 p0 p20">
-
-			<div class="row m0 mb20">
-				<div class="col-xs-6 vcenter">
-					<span class="t16 ff2 dB taL mb15">Promedio</span>
-				</div><!--
-			--><div class="col-xs-6 vcenter">
-					<div class="colorOrange t40 ff2">3.8</div>
-				</div><!--
-		--></div>
-			
-			<div class="row m0">
-				<div class="col-xs-6">
-					<div class="mb5 color666">Temas Vistos</div>
-				</div><!--
-			--><div class="col-xs-6">
-					<span class="t16 ff2 dB taL mb5">4/5</span>
-				</div><!--
-		--></div>
-
-			<div class="row m0">
-				<div class="col-xs-6">
-					<div class="mb5 color666">Logro evaluados</div>
-				</div><!--
-			--><div class="col-xs-6">
-					<span class="t16 ff2 dB taL">7/8</span>
-				</div>
-			</div>
-			
-		</div>
-
-		<div class="col-xs-4 col-sm-4 p0 p20" style="border-right: 35px solid white">
-			
-			<img src="resources/img/temporal/bolitas.png">
-			
-		</div>
-		
-		<div class="col-xs-4 col-sm-4 p0 p20">
-			<div class="row m0 mb10">
-				<div class="col-xs-2 col-sm-2">
-					<img src="resources/img/icons/mE4.png" width="30">
-				</div>
-				<div class="col-xs-10 col-sm-10">
-					<span class="t16 ff2 dB taL">Actividades realizadas</span>
-				</div>
-			</div>
-			<div class="row m0">
-				<div class="col-xs-2 col-sm-2">
-					<span class="bAzul2 rr10 dIB colorfff" style="padding: 1px 11px;">TC</span>
-				</div>
-				<div class="col-xs-10 col-sm-10">
-					<div class="mb5 color666 dIB">Talleres en casa</div><span class="t16 ff2 taL">(2)</span>
-				</div>
-			</div>
-			<div class="row m0">
-				<div class="col-xs-2 col-sm-2">
-					<span class="bAzul2 p5 rr10 dIB colorfff" style="padding: 1px 11px;">AS</span>
-				</div>
-				<div class="col-xs-10 col-sm-10">
-					<div class="mb5 color666 dIB">Actividades en Clase</div><span class="t16 ff2 taL">(3)</span>
-				</div>
-			</div>
-			<div class="row m0">
-				<div class="col-xs-2 col-sm-2">
-					<span class="bAzul2 p5 rr10 dIB colorfff" style="padding: 1px 11px;">E</span>
-				</div>
-				<div class="col-xs-10 col-sm-10">
-					<div class="mb5 color666 dIB">Evaluaciones</div><span class="t16 ff2 taL">(2)</span>
+					</div><!--
+				--><div class="col-xs-6 vcenter">
+						<img src="resources/img/temporal/bolitas.png">
+					</div>
 				</div>
 			</div>
 		</div>
 
-		<!-- Fin -->
-	</div>
+		<div class="col-xs-4 col-sm-4" style="padding-right: 0px">
+			<div class="bGray3 p20">
+
+				<div class="row m0 mb10">
+					<div class="col-xs-2 col-sm-2">
+						<img src="resources/img/icons/mE4.png" width="30">
+					</div>
+					<div class="col-xs-10 col-sm-10">
+						<span class="t16 ff2 dB taL">Actividades realizadas</span>
+					</div>
+				</div>
+				<div class="row m0">
+					<div class="col-xs-2 col-sm-2">
+						<span class="bAzul2 rr10 dIB colorfff" style="padding: 1px 11px;">TC</span>
+					</div>
+					<div class="col-xs-10 col-sm-10">
+						<span class="mb5 color666 dIB">Talleres en casa</span>&nbsp;<span class="t16 ff2 taL">(2)</span>
+					</div>
+				</div>
+				<div class="row m0">
+					<div class="col-xs-2 col-sm-2">
+						<span class="bAzul2 p5 rr10 dIB colorfff" style="padding: 1px 11px;">AS</span>
+					</div>
+					<div class="col-xs-10 col-sm-10">
+						<span class="mb5 color666 dIB">Actividades en Clase</span>&nbsp;<span class="t16 ff2 taL">(3)</span>
+					</div>
+				</div>
+				<div class="row m0">
+					<div class="col-xs-2 col-sm-2">
+						<span class="bAzul2 p5 rr10 dIB colorfff" style="padding: 1px 11px;">E</span>
+					</div>
+					<div class="col-xs-10 col-sm-10">
+						<span class="mb5 color666 dIB">Evaluaciones</span>&nbsp;<span class="t16 ff2 taL">(2)</span>
+					</div>
+				</div>
+
+			</div>
+		</div>
+	</div>	
 
 	<div class="titSep2 colorVirde ff2 t14" style="margin-top:0;">
         
@@ -138,7 +139,7 @@
     --><div class="col-sm-5 col-xs-5 vcenter taR">
     		<a class="bBasic2 rr40 color666 bGray3 taC" href="">Editar</a>
     		<a class="bBasic2 rr40 color666 bGray3 taC" href="">Descargar</a>
-            <a class="bBasic2 rr40 color666 bGray3 taC" href="">Ingresar Nota</a>
+            <a class="bBasic2 rr40 colorfff bVerde5 taC" href="">Ingresar Nota</a>
         </div>
 
    	</div>
