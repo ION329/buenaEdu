@@ -34,7 +34,7 @@
     </div>
 </a>
 
-<!--
+
 <a href="#/plataforma/visor/planestudio">
 	<div class="optMenLat icM2">
         <div class="tabAll">
@@ -44,5 +44,15 @@
         </div>
     </div>
 </a>
--->
+
+<a href="#/plataforma/visor/planestudio">
+    <div class="optMenLat icM5">
+        <div class="tabAll">
+            <div class="tabIn ff2 t16">
+                Directorio
+            </div>
+        </div>
+    </div>
+</a>
+
 

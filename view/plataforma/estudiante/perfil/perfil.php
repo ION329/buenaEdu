@@ -1,6 +1,7 @@
 
         <!--<div ng-include src=" 'view/plataforma/estudiante/perfil/perfil.php' "></div>-->
         <!--<img src="resources/img/temporal/images/e-perfil_01.jpg">-->
+	<div class="p20">	
 		<div class="contEstandar bWhite rr5 p10 mb10">
 			<div class="row m0 mb15">
 				<div class="col-xs-4 col-sm-4">
@@ -35,7 +36,7 @@
 
 					
 					<div class="p10">
-						<div class="row m0 p20 bGray3 mb5">
+						<div class="row m0 p20 bGray3 mb5 cP">
 							<div class="col-xs-2 col-sm-2 p0 taC">
 								<img src="resources/img/temporal/icono.gif">
 							</div><!--
@@ -68,7 +69,7 @@
 							</div><!--
 					--></div>
 
-						<div class="row m0 p20 bGray3 mb5">
+						<div class="row m0 p20 bGray3 mb5 cP">
 							<div class="col-xs-2 col-sm-2 p0 taC">
 								<img src="resources/img/temporal/icono.gif">
 							</div><!--
@@ -125,6 +126,7 @@
 				</div>
 			</div>
 		</div>
+	</div>	
 
 
 <div ng-include src=" 'view/plataforma/general/area/footer.php' "></div>

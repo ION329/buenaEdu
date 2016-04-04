@@ -12,6 +12,7 @@
 	            </div>
 	        </div>
 			-->
+		<div class="p20">	
 	        <div class="row dCambiar1">
 
 	        	<div class="row m0 mb15">
@@ -26,15 +27,18 @@
 			                <div class="p20">
 			                                     
 			                    <div class="col-sm-8 col-xs-8 vcenter">
-			                        <div class="ff2 mb5">
+			                        <div class="ff2 mb10">
 			                            <div class="dIB bOrange p10 rr50"></div> &nbsp;
 			                            <strong class="t24">Matemáticas</strong>
 			                        </div>
-			                        
-			                        <img src="resources/img/icons/tarde.png" style="margin:-3px 10px 0 3px" />
-			                        <div class="dIB">
-			                            7:00 am - 8:30 am
+			                        <div class="dB">
+			                            <img src="resources/img/icons/tarde.png" style="margin:-3px 10px 0 3px" />
+			                            <div class="dIB">
+			                                <span class="ff2">Martes</span> 7:00 am - 8:30 am
+			                            </div>
 			                        </div>
+			                        
+			                         
 			                    </div><!--
 			                    --><div class="col-sm-4 col-xs-4 vcenter taR">
 			                        <strong class="t50">8º <?= $ww+1; ?></strong>
@@ -45,7 +49,7 @@
 			                        Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus.
 			                    </div>
 			                </div>
-			                <div class="bOrangeL p20 rr10D	">
+			                <div class="bOrange p20 rr10D	">
 			                    <div class="col-sm-8 col-xs-8 vcenter">
 			                        <strong class="t16">5 unidades</strong>
 			                    </div><!--
@@ -623,6 +627,7 @@
 				</div>
 
 			</div>
+		</div>	
 
 
 

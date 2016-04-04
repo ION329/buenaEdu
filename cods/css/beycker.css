@@ -27,12 +27,16 @@
 a.blue-active[aria-expanded="true"] {
     background-color:#50a0d2 !important;
     color:white;
+    background-image: url("../../resources/img/icons/arFaq11.png") !important;
 }
-/*
-a.blue-active2[aria-expanded="true"] {
-    background-color:#e5fafd !important;
+
+a.acordion-bykr[aria-expanded="true"] {
+    background-image: url("../../resources/img/icons/arFaq11.png") !important;
 }
-*/
+
+a.acordion-color[aria-expanded="true"] strong{
+    color: #48a8b8;
+}
 
 a.acordion-bykr {
     padding: 10px 30px 10px 10px !important;
@@ -43,7 +47,7 @@ a.acordion-bykr2 {
 }
 
 .btn-bykr{
-	padding: 5px 16px;	
+	padding: 5px 16px;
 }
 
 .titSep-bykr {
@@ -54,4 +58,23 @@ a.acordion-bykr2 {
 
 .btn-radius-bykr {
 	border-radius: 14px !important;
+}
+
+.input-bykr{
+    border: none !important;
+    border-radius: 0px !important;
+    box-shadow: none !important;
+}
+
+.input-bykr:focus {
+    border-color: transparent !important;
+    box-shadow: none !important;
+}
+
+.fwN {
+    font-weight: normal;
+}
+
+.pR0 {
+    padding-right: 0px;
 }

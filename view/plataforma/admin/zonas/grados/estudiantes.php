@@ -27,12 +27,12 @@
             <tbody>
             <?php for($ii=0; $ii<5; $ii++){ ?>
               <tr>
-                <td class="taC"><img src="resources/img/demo/not1.png" class="rr50" width="48"></td>
-                <td><a href="#/plataforma/admin/estudiante" class="aSS">Felipe Cortés Bejarano</a></td>
+                <td class="taC"><img src="resources/img/demo/user3.png" class="rr50" width="48"></td>
+                <td><a href="#/plataforma/admin/estudiante" class="aSS">Carlos Mauricio Urrego Bejarano</a></td>
                 <td>Estudiante</td>
-                <td>646 486 6844</td>
-                <td>6° | 6-3</td>
-                <td>Tarde</td>
+                <td>2012170053</td>
+                <td>8° | 8-2B</td>
+                <td>Diurna</td>
               </tr>
             <?php } ?>
             </tbody>

@@ -129,6 +129,10 @@ var Banco = {
 			}).when('/plataforma/visor/resultados', {
 			templateUrl: 'view/plataforma/visor/resultados/index.php',
 			controller: 'control_init'
+//////// BUSCAR
+			}).when('/plataforma/visor/resultado-planestudio', {
+			templateUrl: 'view/plataforma/visor/resultado-planestudio/index.php',
+			controller: 'control_init'			
 //////// LA INSTITUCIÓN
 			}).when('/plataforma/visor/institucion', {
 			templateUrl: 'view/plataforma/visor/institucion/index.php',
@@ -155,9 +159,16 @@ var Banco = {
 			controller: 'control_init'
 //////// PERFIL
 			}).when('/plataforma/visor/planestudio', {
+			templateUrl: 'view/plataforma/visor/busqueda-planestudio/index.php',
+			controller: 'control_init'
+			}).when('/plataforma/visor/plan-estudio', {
+			templateUrl: 'view/plataforma/visor/planestudio/index.php',
+			controller: 'control_init'
+			/*
+			}).when('/plataforma/visor/planestudio', {
 			templateUrl: 'view/plataforma/visor/planestudio.php',
 			controller: 'control_init'
-			
+			*/
 			
 //PLATAFORMA - BUENA EDUCACIÓN [ADMINISTRADOR] [REGISTRO INSTITUCIÓN]
 //////// INGRESO

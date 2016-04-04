@@ -38,7 +38,7 @@
 	</div>
 	
 
-	<div class="row m0 mb15 bGray3">
+	<div class="row m0 mb20 bGray3">
 		<div class="col-xs-8 col-sm-8 bWhite" style="padding-left: 0px; padding-right: 25px">
 			<div class="bGray3 p20">
 				<div class="row m0">
@@ -118,7 +118,7 @@
 		</div>
 	</div>	
 
-	<div class="titSep2 colorVirde ff2 t14" style="margin-top:0;">
+	<div class="colorVirde ff2 t14 mb20" style="margin-top:0;">
         
         <div class="col-sm-3 col-xs-3 vcenter">
             <span class="t16 colorVirde ff2">RESUMEN CALIFICACIONES</span>

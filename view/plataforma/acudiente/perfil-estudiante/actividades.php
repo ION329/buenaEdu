@@ -1,161 +1,208 @@
 <div class="contEstandar bWhite rr5 p10">
 
-	<!--<img src="resources/img/temporal/4.jpg">-->
-	<div class="row mb10">
-		<div class="col-sm-2 col-xs-2 vcenter">
-			<div class="t14 ff2">RESUMEN FOROS</div>
-		</div><!--
-		--><div class="col-sm-2 col-xs-2 vcenter">
-			<select class="selecStd2 rr5 ff2 t16 colorVirde bGray">
-				<option value="grado-6">Grado 6°</option>
-				<option value="grado-7">Grado 7°</option>
-				<option value="grado-8">Grado 8°</option>
-				<option value="grado-9">Grado 9°</option>
-				<option value="grado-10">Grado 10°</option>
-				<option value="grado-11">Grado 11°</option>
-			</select>
+	<div class="row m0 mb15 p10">
 
+		<div class="col-xs-3 col-sm-3 vcenter p0">
+			<span class="colorVerde2 ff2 t24 dIB">Activiades</span>&nbsp;&nbsp;&nbsp;&nbsp;
+			<a class="bAzul2 p5 rr20 dIB colorfff cP dIB">Ver todo</a>
 		</div><!--
-        --><div class="col-sm-3 col-xs-3 vcenter col-sm-offset-5 col-xs-offset-5 taC">
-			<a class="bBasic2 rr40 colorfff bVerde taC" href="">Crear Nuevo Foro</a>
+
+	--><div class="col-xs-6 col-sm-6 vcenter p0">
+
+			<div class="color666 dIB taR">Ordenar por: </div>&nbsp;&nbsp;&nbsp;
+			<select class="selecStd4 rr5 ff1 t16 bGray">
+				<option value="grado-6">Seleccione</option>
+				<option value="grado-7">Matematicas</option>
+				<option value="grado-8">Ciencias</option>
+				<option value="grado-9">Musica</option>
+				<option value="grado-10">Quimica</option>
+				<option value="grado-11">Fisica</option>
+			</select> &nbsp;&nbsp;&nbsp;&nbsp;
+			<span class="aSS dIB bAbrir-bykr">Filtrar por:</span>
+		</div>
+
+
+	</div>	
+
+	<div class="row m0 p20 bGray3 bS1 dAbre-bykr1 dN">
+		<div class="col-xs-4 col-sm-4 pR0">
+			<span class="dB color666 mb10">Materia</span>
+			<select class="selecStd4 rr5 ff1 t16 bGray" style="width:100%;">
+				<option value="grado-6">Seleccione</option>
+				<option value="grado-7">Matematicas</option>
+				<option value="grado-8">Ciencias</option>
+				<option value="grado-9">Musica</option>
+				<option value="grado-10">Quimica</option>
+				<option value="grado-11">Fisica</option>
+			</select>
+		</div>
+		<div class="col-xs-2 col-sm-2 pR0">
+			<span class="dB color666 mb10">Tipo de Actividad</span>
+			<select class="selecStd4 rr5 ff1 t16 bGray" style="width:100%;">
+				<option value="grado-6">Seleccione</option>
+				<option value="grado-7">Matematicas</option>
+				<option value="grado-8">Ciencias</option>
+				<option value="grado-9">Musica</option>
+				<option value="grado-10">Quimica</option>
+				<option value="grado-11">Fisica</option>
+			</select>
+		</div>
+		<div class="col-xs-2 col-sm-2 pR0">
+			<span class="dB color666 mb10">Periodo</span>
+			<select class="selecStd4 rr5 ff1 t16 bGray" style="width:100%;">
+				<option value="grado-6">Seleccione</option>
+				<option value="grado-7">Matematicas</option>
+				<option value="grado-8">Ciencias</option>
+				<option value="grado-9">Musica</option>
+				<option value="grado-10">Quimica</option>
+				<option value="grado-11">Fisica</option>
+			</select>
+		</div>
+		<div class="col-xs-2 col-sm-2">
+			<!-- NO VA NADA -->
+		</div>
+		<div class="col-xs-2 col-sm-2 pR0">
+			<span class="dB color666 mb10">Estado</span>
+			<select class="selecStd4 rr5 ff1 t16 bGray" style="width:100%;">
+				<option value="grado-6">Seleccione</option>
+				<option value="grado-7">Matematicas</option>
+				<option value="grado-8">Ciencias</option>
+				<option value="grado-9">Musica</option>
+				<option value="grado-10">Quimica</option>
+				<option value="grado-11">Fisica</option>
+			</select>
 		</div>
 	</div>
 
-	<div class="row m0">
-
-		<div class="col-xs-5 col-sm-5 bGray3 p0">
-        
-			<div class="p10 bS1 minMensaje leyendoMensaje cP">
-
-                <div class="bAzul2 p510 rr20 dIB colorfff mb10">Unidad 1</div>
-                <div class="t18 ff2 mb10" style="">Lenguaje Algebraico</div>
-                <div class="color666 tab">
-                    <div class="tabIn">
-                        8 Temas
-                    </div>
-                    <div class="tabIn taR">
-                        90 Respuestas
-                    </div>
-                </div>
-
-			</div>
-
-			<div class="p10 bS1 minMensaje cP" style="margin-top:-1px;">
-				<div class="row">
-
-					<div class="col-xs-8 col-sm-8">
-						<span class="bAzul2 p510 rr20 dIB colorfff" style="">Unidad 2</span>
-						<div class="t18 ff2 p5" style="">Factorizacion</div>
-						<div class="color666 p5">8 Temas</div>
-					</div>
-						
-					<div class="col-xs-4 col-sm-4">
-						<div class="color666 p5" style="padding-top: 50%">90 Respuestas</div>
+	<div class="row m0 p10">
+		<div class="mFuq">
+			<div id="accordion2" class="panel-group">
+				<div class="panel panel-default">
+					<div class="panel-heading">
+						<div class="panel-title">
+							<a class="accordion-toggle collapsed acordion-bykr acordion-color" data-toggle="collapse" data-parent="#accordion2" href="#onbs-1" target="_self">
+								<div class="row m0">
+									<div class="col-xs-3 col-sm-3 vcenter">
+										<!--<div class="bVerde p5 rr50">
+											<img src="resources/img/icons/me22.png">
+										</div>-->
+										<div class="bAzul2 p510 rr20 dIB colorfff ff2">AS 3</div> &nbsp;&nbsp;
+										<span>Matemáticas</span>
+									</div><!--
+								--><div class="col-xs-5 col-sm-5 vcenter">
+										<img src="resources/img/icons/clip.png"> &nbsp;&nbsp;
+										<span class="t16 vcenter">Taller de Factorización</span>
+									</div><!--
+								--><div class="col-xs-4 col-sm-4 vcenter color666 taR">
+										<span class="ff2">Finalizada en, 5 días</span>
+									</div>
+								</div>
+							</a>
+						</div>
 					</div>
 
+					<div id="onbs-1" class="panel-collapse collapse">
+						<div class="row m0 p10">
+							<div class="col-xs-8 col-sm-8 p0 p10">
+								<div class="t16 ff2 mb10 dB">Actividad en clase No. 3</div>
+								<div class="dB">
+									<div class="bAzul2 p510 rr20 dIB colorfff mb10">AS 3</div>
+									<div class="t18 ff2 mb10 dIB">Taller de Factorizacion</div>	
+								</div>
+								<div class="tab">
+									<div class="tabIn">
+										<img src="resources/img/icons/adm3.png">
+										<div class="color666 dIB">Creada: Enero 15, 2016</div>
+									</div>
+									<div class="tabIn taR">
+										<div class="color666 dIB"> Estado: </div> &nbsp; 
+										<span class="t14 colorVerde ff2 dIB">
+											<img src="resources/img/icons/ok.png">
+											Finalizada
+										</span>
+									</div>
+								</div>
+								<hr style="margin: 10px 0px;">
+								<div class="t16 ff2 mb10">Para tener en cuenta</div>
+								<span class="color666 dIB">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iusto culpa nihil nulla inventore, est consectetur.</span>
+							</div>
+							<div class="col-xs-4 col-sm-4 p20 bGray">
+								<center>
+									<img class="dB mb20" src="resources/img/icons/formatos/pdf_2.png">
+									<a class="bBasic2 rr40 colorfff bVerde5 ff2 taC" href="">Descargar Archivo</a>
+								</center>
+							</div>
+						</div>
+					</div>
 				</div>
 				
+				<?php for($ee=2; $ee<5; $ee++){ ?>
+
+				<div class="panel panel-default">
+					<div class="panel-heading">
+						<div class="panel-title">
+							<a class="accordion-toggle collapsed acordion-bykr acordion-color" data-toggle="collapse" data-parent="#accordion2" href="#onbs-<?= $ee ?>" target="_self">
+								<div class="row m0">
+									<div class="col-xs-3 col-sm-3 vcenter">
+										<!--<div class="bVerde p5 rr50">
+											<img src="resources/img/icons/me22.png">
+										</div>-->
+										<div class="bAzul2 p510 rr20 dIB colorfff ff2">AS 3</div> &nbsp;&nbsp;
+										<span>Nombre Materia</span>
+									</div><!--
+								--><div class="col-xs-5 col-sm-5 vcenter">
+										<img src="resources/img/icons/clip.png"> &nbsp;&nbsp;
+										<span class="t16 vcenter">Título Actividad</span>
+									</div><!--
+								--><div class="col-xs-4 col-sm-4 vcenter color666 taR">
+										<span class="ff2">Estado Tarea</span>
+									</div>
+								</div>
+							</a>
+						</div>
+					</div>
+
+					<div id="onbs-<?= $ee ?>" class="panel-collapse collapse">
+						<div class="row m0 p10">
+							<div class="col-xs-8 col-sm-8 p0 p10">
+								<div class="t16 ff2 mb10 dB">Actividad en clase No. 3</div>
+								<div class="dB">
+									<div class="bAzul2 p510 rr20 dIB colorfff mb10">AS 3</div>
+									<div class="t18 ff2 mb10 dIB">Taller de Factorizacion</div>	
+								</div>
+								<div class="tab">
+									<div class="tabIn">
+										<img src="resources/img/icons/adm3.png">
+										<div class="color666 dIB">Creada: Enero 15, 2016</div>
+									</div>
+									<div class="tabIn taR">
+										<div class="color666 dIB">Estado: </div>
+										<span class="t14 colorVerde ff2 dIB">
+											<img src="resources/img/icons/ok.png">
+											Finalizada
+										</span>
+									</div>
+								</div>
+								<hr style="margin: 10px 0px;">
+								<div class="t16 ff2 mb10">Para tener en cuenta</div>
+								<span class="color666 dIB">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iusto culpa nihil nulla inventore, est consectetur.</span>
+							</div>
+							<div class="col-xs-4 col-sm-4 p20 bGray">
+								<center>
+									<img class="dB mb20" src="resources/img/icons/formatos/pdf_2.png">
+									<a class="bBasic2 rr40 colorfff bVerde5 ff2 taC" href="">Descargar Archivo</a>
+								</center>
+							</div>
+						</div>
+					</div>
+				</div>
+
+				<?php } ?>
+
+
+
 			</div>
-
-			<div class="p10 bS1 minMensaje cP" style="margin-top:-1px;">
-				<div class="row">
-
-					<div class="col-xs-8 col-sm-8">
-						<span class="bAzul2 p510 rr20 dIB colorfff" style="">Unidad 3</span>
-						<div class="t18 ff2 p5" style="">Geometría</div>
-						<div class="color666 p5">8 Temas</div>
-					</div>
-						
-					<div class="col-xs-4 col-sm-4">
-						<div class="color666 p5" style="padding-top: 50%">90 Respuestas</div>
-					</div>
-
-				</div>
-
-			</div>	
-
-			<div class="p10 bS1 minMensaje cP" style="margin-top:-1px;">
-				<div class="row">
-
-					<div class="col-xs-8 col-sm-8">
-						<span class="bAzul2 p510 rr20 dIB colorfff" style="">Unidad 4</span>
-						<div class="t18 ff2 p5" style="">Estadistica</div>
-						<div class="color666 p5">8 Temas</div>
-					</div>
-						
-					<div class="col-xs-4 col-sm-4">
-						<div class="color666 p5" style="padding-top: 50%">90 Respuestas</div>
-					</div>
-
-				</div>
-
-			</div>	
-
-			<div class="p10 bS1 minMensaje cP" style="margin-top:-1px;">
-				<div class="row">
-
-					<div class="col-xs-8 col-sm-8">
-						<span class="bAzul2 p510 rr20 dIB colorfff" style="">Unidad 5</span>
-						<div class="t18 ff2 p5" style="">Lorem ipsum dolor</div>
-						<div class="color666 p5">8 Temas</div>
-					</div>
-						
-					<div class="col-xs-4 col-sm-4">
-						<div class="color666 p5" style="padding-top: 50%">90 Respuestas</div>
-					</div>
-
-				</div>
-
-			</div>	
-
 		</div>
-
-		<div class="col-xs-7 col-sm-7 p0">
-
-			<div class="p10 bS1 bAzulL cP">
-            
-				<div class="row">
-
-					<div class="col-xs-8 col-sm-8">
-						<span class="bAzul2 p510 rr20 dIB colorfff" style="">Unidad 3</span>
-						<div class="t18 ff2 p5" style="">Lenguaje Algebraico</div>
-					</div>
-
-					<div class="col-xs-4 col-sm-4">
-						<div class="color666 p5" style="display: inline-block">8 Temas</div>
-						<div class="color666 p5" style="display: inline-block;">90 Respuestas</div>
-					</div>
-
-				</div>
-			</div>
-
-			<?php for($jj=0; $jj<5; $jj++){ ?>
-                <div class="row <?php if($jj == 2) echo "bGray3"; ?> m0 bS1 p10" style="margin-top:-1px;">
-                    <div class="col-xs-2 col-sm-2 vcenter taC">
-                        <img src="resources/img/temporal/icono.gif" width="45">
-                    </div><!--
-    
-                    --><div class="col-xs-9 col-sm-9 vcenter">
-                        <div class="aSS cP mb10">Lorem ipsum dolor sit amet elit.</div>
-                        <div class="color666">
-                            Iniciado por: Juan Pepito Perez
-                            &nbsp;&nbsp;
-                            2 Respuestas
-                        </div>
-                    </div><!--
-    
-                    --><div class="col-xs-1 col-sm-1 vcenter">
-                        <img src="resources/img/icons/arL.png">
-                    </div>
-                </div>
-			<?php } ?>
-			
-
-
-
-			
-		</div>
-
 	</div>
 
 </div>

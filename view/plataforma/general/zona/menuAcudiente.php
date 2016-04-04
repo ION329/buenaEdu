@@ -43,3 +43,14 @@
         </div>
     </div>
 </a>
+
+<a href="#/plataforma/acudiente/eventos">
+    <div class="optMenLat icM5">
+        <div class="tabAll">
+            <div class="tabIn ff2 t16">
+                Directorio
+            </div>
+        </div>
+    </div>
+</a>
+

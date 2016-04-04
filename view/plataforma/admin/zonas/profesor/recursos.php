@@ -21,150 +21,92 @@
 	</div>
 
 	<div class="row m0">
-		
+			
 		<div class="col-xs-8 col-sm-8 p0"> <!-- izquierda -->
 
-			<div class="row bS1 m0" style="border-right: 0">
-				<div class="col-xs-5 col-sm-5 col-xs-offset-1 col-sm-offset-1"> <!-- Descripcion -->
+			<div class="row bS1 m0 p10" style="border-right: 0">
+				<div class="col-xs-1 col-sm-1 vcenter">
+				
+				</div><!--
+			--><div class="col-xs-5 col-sm-5 vcenter">
 					<div class="color666 p10">Descripcion</div>
-				</div>
+				</div><!--
 
-				<div class="col-xs-3 col-sn-3"> <!-- Asignatura -->
+			--><div class="col-xs-3 col-sm-3 vcenter" style="padding-left: 10px">
 					<div class="color666 p10">Asignatura</div>
-				</div>
+				</div><!--
 
-				<div class="col-xs-3 col-sm-3"> <!-- Fecha -->
+			--><div class="col-xs-3 col-sm-3 vcenter" style="padding-left: 10px">
 					<div class="color666 p10">Fecha</div>
 				</div>
 			</div>
 
 			<div class="bGray3">
 				
-				<div class="p10 bS1 minMensaje leyendoMensaje" style="margin-top:-1px;">
-					<div class="row">
-						<div class="col-xs-1 col-sm-1"> <!-- Icono -->
-							<img src="resources/img/temporal/folder.gif">
-						</div>
+				<div class="bS1 minMensaje leyendoMensaje" style="margin-top:-1px;">
+					<div class="row m0 p10">
+						<div class="col-xs-1 col-sm-1 vcenter">
+							<img src="resources/img/icons/formatos/pdf.png">
+						</div><!--
 
-						<div class="col-xs-5 col-sm-5"> <!-- Descripcion -->
+					--><div class="col-xs-5 col-sm-5 vcenter">
 							<div class="t14 ff2 p10">Taller de factorizacion</div>
-						</div>
+						</div><!--
 
-						<div class="col-xs-3 col-sm-3"> <!-- Asignatura -->
+					--><div class="col-xs-3 col-sm-3 vcenter">
 							<div class="color666 p10">Matematicas</div>
-						</div>
+						</div><!--
 						
-						<div class="col-xs-3 col-sm-3"> <!-- Fecha -->
+					--><div class="col-xs-3 col-sm-3 vcenter">
 							<div class="color666 p10">Enero 15, 2016</div>
 						</div>
 
 					</div>
 				</div>
 
-				<div class="p10 bS1 minMensaje" style="margin-top:-1px;">
-					<div class="row">
-						<div class="col-xs-1 col-sm-1"> <!-- Icono -->
-							<img src="resources/img/temporal/folder.gif">
-						</div>
+				<div class="bS1 minMensaje" style="margin-top:-1px;">
+					<div class="row m0 p10">
+						<div class="col-xs-1 col-sm-1 vcenter">
+							<img src="resources/img/icons/formatos/pdf.png">
+						</div><!--
 
-						<div class="col-xs-5 col-sm-5"> <!-- Descripcion -->
+					--><div class="col-xs-5 col-sm-5 vcenter">
 							<div class="t14 ff2 p10">Taller de factorizacion</div>
-						</div>
+						</div><!--
 
-						<div class="col-xs-3 col-sm-3"> <!-- Asignatura -->
+					--><div class="col-xs-3 col-sm-3 vcenter">
 							<div class="color666 p10">Matematicas</div>
-						</div>
+						</div><!--
 						
-						<div class="col-xs-3 col-sm-3"> <!-- Fecha -->
+					--><div class="col-xs-3 col-sm-3 vcenter">
 							<div class="color666 p10">Enero 15, 2016</div>
 						</div>
 
 					</div>
 				</div>
+				
+				<?php for($xx=0; $xx<4; $xx++){ ?>
+				<div class="bS1 minMensaje" style="margin-top:-1px;">
+					<div class="row m0 p10">
+						<div class="col-xs-1 col-sm-1 vcenter">
+							<img src="resources/img/icons/formatos/word.png">
+						</div><!--
 
-				<div class="p10 bS1 minMensaje" style="margin-top:-1px;">
-					<div class="row">
-						<div class="col-xs-1 col-sm-1"> <!-- Icono -->
-							<img src="resources/img/temporal/archivo.gif">
-						</div>
-
-						<div class="col-xs-5 col-sm-5"> <!-- Descripcion -->
+					--><div class="col-xs-5 col-sm-5 vcenter">
 							<div class="t14 ff2 p10">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</div>
-						</div>
+						</div><!--
 
-						<div class="col-xs-3 col-sm-3"> <!-- Asignatura -->
+					--><div class="col-xs-3 col-sm-3 vcenter">
 							<div class="color666 p10">Sociales</div>
-						</div>
+						</div><!--
 						
-						<div class="col-xs-3 col-sm-3"> <!-- Fecha -->
+					--><div class="col-xs-3 col-sm-3 vcenter">
 							<div class="color666 p10">Enero 15, 2016</div>
 						</div>
 
 					</div>
 				</div>
-
-				<div class="p10 bS1 minMensaje" style="margin-top:-1px;">
-					<div class="row">
-						<div class="col-xs-1 col-sm-1"> <!-- Icono -->
-							<img src="resources/img/temporal/archivo.gif">
-						</div>
-
-						<div class="col-xs-5 col-sm-5"> <!-- Descripcion -->
-							<div class="t14 ff2 p10">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</div>
-						</div>
-
-						<div class="col-xs-3 col-sm-3"> <!-- Asignatura -->
-							<div class="color666 p10">Sociales</div>
-						</div>
-						
-						<div class="col-xs-3 col-sm-3"> <!-- Fecha -->
-							<div class="color666 p10">Enero 15, 2016</div>
-						</div>
-
-					</div>
-				</div>
-
-				<div class="p10 bS1 minMensaje" style="margin-top:-1px;">
-					<div class="row">
-						<div class="col-xs-1 col-sm-1"> <!-- Icono -->
-							<img src="resources/img/temporal/archivo.gif">
-						</div>
-
-						<div class="col-xs-5 col-sm-5"> <!-- Descripcion -->
-							<div class="t14 ff2 p10">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</div>
-						</div>
-
-						<div class="col-xs-3 col-sm-3"> <!-- Asignatura -->
-							<div class="color666 p10">Sociales</div>
-						</div>
-						
-						<div class="col-xs-3 col-sm-3"> <!-- Fecha -->
-							<div class="color666 p10">Enero 15, 2016</div>
-						</div>
-
-					</div>
-				</div>
-
-				<div class="p10 bS1 minMensaje" style="margin-top:-1px;">
-					<div class="row">
-						<div class="col-xs-1 col-sm-1"> <!-- Icono -->
-							<img src="resources/img/temporal/archivo.gif">
-						</div>
-
-						<div class="col-xs-5 col-sm-5"> <!-- Descripcion -->
-							<div class="t14 ff2 p10">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</div>
-						</div>
-
-						<div class="col-xs-3 col-sm-3"> <!-- Asignatura -->
-							<div class="color666 p10">Sociales</div>
-						</div>
-						
-						<div class="col-xs-3 col-sm-3"> <!-- Fecha -->
-							<div class="color666 p10">Enero 15, 2016</div>
-						</div>
-
-					</div>
-				</div>
+				<?php } ?>
 
 			</div>
 
@@ -176,10 +118,10 @@
 		<div class="derecha col-xs-4 col-sm-4 p0"> <!-- Derecha -->
 			
 			<div class="row m0">
-				<div class="p10 bS1">
+				<div class="p20 bS1">
 					<center>
-					<img src="resources/img/temporal/folder-grande.gif" style="display: block">
-					<a class="bBasic2 rr40 colorfff bVerde5 taC ff2" href="">Descargar Archivo</a>
+					<img src="resources/img/icons/formatos/pdf_2.png" class="dB mb20">
+					<a class="bBasic2 rr40 colorfff bVerde5 ff2 taC" href="">Descargar Archivo</a>
 					</center>
 				</div>	
 			</div>
@@ -209,5 +151,7 @@
 		</div>
 
 	</div>
+
+	
 
 </div>
