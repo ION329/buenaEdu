@@ -44,7 +44,7 @@
     </div>
 </a>
 
-<a href="#/plataforma/acudiente/eventos">
+<a href="#/plataforma/acudiente/directorio">
     <div class="optMenLat icM5">
         <div class="tabAll">
             <div class="tabIn ff2 t16">
