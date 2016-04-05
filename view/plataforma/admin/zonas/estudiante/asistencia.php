@@ -1,5 +1,7 @@
 <div class="contEstandar bWhite rr5 p10">
 
+    <div class="dAsistencia1">
+
     <div class="titSep2 colorVirde ff2 tU t14" style="margin-top:0;">
         <div class="col-sm-1 col-xs-1 p0 vcenter">
             <div class="btn-group" style="width:100px;">
@@ -14,7 +16,7 @@
         --><div class="navBarLog taC col-sm6 col-xs-6 vcenter taR">
         	<a href="" class="bBasic2 rr40 taC bGray3">Editar</a>
             <a href="" class="bBasic2 rr40 taC bGray3">Descargar</a>
-            <a href="" class="bBasic2 rr40 colorfff bVerde5 taC">Nueva asistencia</a>
+            <a href="" class="bBasic2 rr40 colorfff bVerde5 taC bAsistencia">Nueva asistencia</a>
         </div>
     </div>
     
@@ -189,7 +191,61 @@
         </div>
     </div>
 
+    </div>
 
+     <div class="dAsistencia2 dN">
+    <div class="row m0 p10 bVerde5 ff1 colorfff t16">
+        <div class="col-xs-6 col-sm-6 p0 vcenter">
+            <img src="resources/img/icons/fv_clnd.png">
+            <span>Jueves, 25 de Febrero de 2016</span>
+        </div><!--
+    --><div class="col-xs-6 col-sm-6 p0 vcenter">
+            <img src="resources/img/icons/m44.png">
+            <span>8:30 a.m. - 10:00 a.m.</span>
+        </div>
+    </div>
+    <div class="row m0 ff1 p10">
+        <div class="bGray3 bS1 p20">
+            <div class="col-xs-6 col-sm-6 vcenter">
+                <span class="ff2 colorAzulBE t24 dB mb5">Grado 11-D Tarde</span>
+                <span class="color333 t16 dB">Materia: Matemáticas</span>
+            </div><!--
+        --><div class="col-xs-6 col-sm-6 vcenter">
+                <img class="rr50" width="48" src="resources/img/demo/user4.png"> &nbsp;
+                <span class="color333 t16">Docente: Maria Fernanda Perlaza</span>
+            </div>
+        </div>
+    </div>
+
+    <table class="table table-striped table-responsive">
+        <thead>
+            <tr>
+                <th>Codigo</th>
+                <th>Apellidos y Nombres</th>
+                <th>Asistencia</th>
+            </tr>
+        </thead>
+        <tbody>
+            <?php for($ii=0; $ii<10; $ii++){ ?>
+            <tr>
+                <td>123456781</td>
+                <td><img src="resources/img/demo/user2.png" width="38"> &nbsp;&nbsp; Juan Pepito Perez</td>
+                <td>Aqui va lo de asistencua que es muy largoooo</td>
+            </tr>
+            <?php } ?>
+        </tbody>
+    </table>
+
+    <hr>
+
+    <div class="row m0">
+        <div class="col-xs-12 col-sm-12 taR ff2">
+            <a class="bBasic2 rr40 colorfff taC bGray4 bAsistencia" href="">Limpiar Todo</a>
+            <a class="bBasic2 rr40 colorfff bVerde5 taC bAsistencia" href="">Guardar Asistencia</a>
+        </div>
+    </div>
+
+ </div>
  
     
 </div>

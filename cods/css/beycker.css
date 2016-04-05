@@ -78,3 +78,7 @@ a.acordion-bykr2 {
 .pR0 {
     padding-right: 0px;
 }
+
+tr.bBeycker:hover{
+    background-color: #cff0db !important;
+}

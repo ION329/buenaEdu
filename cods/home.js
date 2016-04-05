@@ -78,6 +78,9 @@ var Banco = {
 			}).when('/plataforma/acudiente/asignaturas', {
 			templateUrl: 'view/plataforma/acudiente/asignaturas/index.php',
 			controller: 'control_init'
+			}).when('/plataforma/acudiente/directorio', {
+			templateUrl: 'view/plataforma/acudiente/directorio/index.php',
+			controller: 'control_init'
 			}).when('/plataforma/acudiente/eventos', {
 			templateUrl: 'view/plataforma/acudiente/eventos/index.php',
 			controller: 'control_init'
@@ -134,11 +137,7 @@ var Banco = {
 //////// BUSCAR
 			}).when('/plataforma/visor/resultados', {
 			templateUrl: 'view/plataforma/visor/resultados/index.php',
-			controller: 'control_init'
-//////// BUSCAR
-			}).when('/plataforma/visor/resultado-planestudio', {
-			templateUrl: 'view/plataforma/visor/resultado-planestudio/index.php',
-			controller: 'control_init'			
+			controller: 'control_init'	
 //////// LA INSTITUCIÓN
 			}).when('/plataforma/visor/institucion', {
 			templateUrl: 'view/plataforma/visor/institucion/index.php',
@@ -170,7 +169,6 @@ var Banco = {
 			}).when('/plataforma/visor/plan-estudio', {
 			templateUrl: 'view/plataforma/visor/planestudio/index.php',
 			controller: 'control_init'
-			
 			}).when('/plataforma/visor/directorio', {
 			templateUrl: 'view/plataforma/visor/directorio/index.php',
 			controller: 'control_init'

@@ -1,6 +1,7 @@
 <div class="contEstandar bWhite rr5 p10">
-
-	<!--<img src="resources/img/temporal/g3.jpg">-->
+<!--<img src="resources/img/temporal/g3.jpg">-->
+<div class="dActividad1">
+	
 	<div class="titSep2 colorVirde ff2 t14 mb15" style="margin-top:0;">
 		<div class="row m0">
 			<div class="col-xs-6 col-sm-6">
@@ -37,7 +38,7 @@
 		</div>
 
 		<div class="col-xs-6 col-sm-6 taR">
-			<a class="bBasic3 rr40 colorfff bVerde5 ff2" href="">Crear Actividad</a>
+			<a class="bBasic3 rr40 colorfff bVerde5 ff2 bActividad" href="">Crear Actividad</a>
 		</div>
 	</div>
 
@@ -162,6 +163,40 @@
 
 		</div>
 
+	</div>
+</div>	
+
+	<div class="row m0 dActividad2 dN">
+		<div class="col-xs-12 col-sm-12 p0">
+            <div class="contEstandar bGray" style="margin-left: -1px">
+
+                <div class="bGray3 p20" style="border-bottom: 1px solid #ccc">
+                    <input type="text" name="tituloM" id="tituloM" class="form-control input-bykr bGray3" placeholder="Titulo de la actividad" />
+                </div>
+
+                <div class="bGray p30" style="border-bottom: 1px solid #ccc">
+                    <textarea name="mensaje" id="mensaje" placeholder="Agrega un mensaje o adjunta un recurso" rows="8" style="width:100%; resize:none;" class="form-control input-bykr bGray"></textarea>
+                    <!--<div class="color999 mb30">Agrega un mensaje o adjunta un archivo</div>-->
+                    <div class="bBasic3 p1020 color333 dB cP">
+                        <img width="16" src="resources/img/icons/clip.png">
+                        147583874-ejempl-taller.jpg (1234 kb)
+                    </div>
+                </div>
+                
+                <div class="bGray3 p20">
+                    <div class="tab">
+                        <div class="tabIn">
+                            <a class="bBasic3 rr40 t14 color000 taC cP bCambiar p510 ff1 dIB"><img width="16" src="resources/img/icons/clip.png">&nbsp;&nbsp;Adjuntar Recurso</a>
+                        </div>
+                        <div class="tabIn taR">
+                            <a class="bBasic2 rr40 colorfff bVerde" style="" href="">Enviar</a>
+                            <a class="bBasic2 rr40 color666 bGray3 taC bActividad" href="">Cancelar</a>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>  
 	</div>
 
 </div>

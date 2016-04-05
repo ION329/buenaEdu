@@ -15,7 +15,7 @@
         <ul class="nav nav-tabs" role="tablist">
             <li role="presentation" class="jQ1 taC t16 tU active ionZ">
                 <a href="#resumen" target="_self" aria-controls="home" role="tab" data-toggle="tab" style="border-left-width:1px !important;">
-                    <center><div class="bTipoB bTipo1"></div></center>
+                    <center><div class="bTipoB bTipo-1"></div></center>
                     Perfil
                 </a>
             </li>

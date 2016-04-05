@@ -17,11 +17,11 @@
 
 		</div><!--
         --><div class="col-sm-3 col-xs-3 vcenter col-sm-offset-5 col-xs-offset-5 taR">
-			<a class="bBasic3 ff2 rr40 colorfff bVerde5 taC bAsistencia" href="">Crear Nuevo Foro</a>
+			<a class="bBasic3 ff2 rr40 colorfff bVerde5 taC bCambiar" href="">Crear Nuevo Foro</a>
 		</div>
 	</div>
 
-	<div class="row m0 dAsistencia1">
+	<div class="row m0 dCambiar1">
 
 		<div class="col-xs-5 col-sm-5 bGray3 p0">
         
@@ -180,7 +180,7 @@
 
 	</div>
 
-	<div class="row m0 dAsistencia2 dN">
+	<div class="row m0 dCambiar2 dN">
 		<div class="col-xs-5 col-sm-5 p0">
             <div class="contEstandar">
                 

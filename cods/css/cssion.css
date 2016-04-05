@@ -99,9 +99,9 @@ a									{ outline:none !important; }
 	width: 54px;
 	height: 54px;
  }
-.bTipo1										{ background-position: left 0; }
-.optMenLat.selli .bTipo1, 
-.nav-tabs li.active a .bTipo1				{ background-position: right 0; }
+.bTipo-1									{ background-position: left 0; }
+.optMenLat.selli .bTipo-1, 
+.nav-tabs li.active a .bTipo-1				{ background-position: right 0; }
 .bTipo2										{ background-position: left -54px; }
 .optMenLat.selli .bTipo2,
 .nav-tabs li.active a .bTipo2				{ background-position: right -54px; }

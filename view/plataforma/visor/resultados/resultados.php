@@ -55,6 +55,14 @@
                             <!--<td class="taR"><img src="resources/img/icons/arL.png" /></td>-->
                           </tr>
 
+                          <tr>
+                            <td>Riofrío, Valle del Cauca</td>
+                            <td>Institución Educativa Primitivo Crespo</td>
+                            <td><a href="#/plataforma/visor/plan-estudio" class="aSS">Plan de estudio 1</a></td>
+                            <td>Plan de estudio</td>
+                            <!--<td class="taR"><img src="resources/img/icons/arL.png" /></td>-->
+                          </tr>
+
                     <?php } ?>
                     </tbody>
                 </table>

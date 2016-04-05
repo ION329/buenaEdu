@@ -47,6 +47,11 @@ var Ion = {
 				$('.dAsistencia2').slideToggle(500);
 		  	});
 
+		  	$(".bActividad").live('click', function() {
+				$('.dActividad1').slideToggle(500);
+				$('.dActividad2').slideToggle(500);
+		  	});
+
 			$(".bAbrir1").live('click', function() {
 				$('.dAbre1').slideToggle(500);
 		  	});

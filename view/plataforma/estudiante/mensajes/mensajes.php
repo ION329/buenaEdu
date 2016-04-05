@@ -223,7 +223,7 @@
 									</div>
 									<div class="color999 dB">Matematicas</div>
 								</div><!--
-							--><div class="col-xs-1 col-sm-1 p0 vcenter taC">
+							--><div class="col-xs-1 col-sm-1 p0 vcenter taC cP">
 									X
 								</div><!--
 						--></div>

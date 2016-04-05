@@ -18,7 +18,7 @@
                   </thead>
                   <tbody>
                                          
-                        <tr class="bleu bBeycker cP">
+                        <tr class="bBeycker cP">
                             <td><div class="dIB bMat p5 rr50"></div> &nbsp; <b>Matemáticas</b></td>
                           <td class="fv_materNormal"><div class="vcenter colorVerde ff2 t24 fv_pir1"><span>▲</span> 3.8</div></td>
                           <td class="fv_materNormal">&nbsp;</td>
@@ -27,68 +27,68 @@
                           <td class="fv_materNormal"><div class="vcenter colorVerde ff2 t24">3.8</div></td>
                         </tr>
                         <tr class="bBeycker cP">
-                          <td class="bGray fv_materNormal"><div class="taL"><div class="dIB bLyl p5 rr50"></div> &nbsp; <b>Lengua y Literatura</b></div></td>
-                          <td class="bGray fv_materNormal"><div class="vcenter colorRed ff2 t24 fv_pir1"><span>▼</span> 3.8</div></td>
-                          <td class="bGray fv_materNormal">&nbsp;</td>
-                          <td class="bGray fv_materNormal">&nbsp;</td>
-                          <td class="bGray fv_materNormal">&nbsp;</td>
-                          <td class="bGray fv_materNormal"><div class="vcenter colorRed ff2 t24">3.8</div></td>
+                          <td class="fv_materNormal"><div class="taL"><div class="dIB bLyl p5 rr50"></div> &nbsp; <b>Lengua y Literatura</b></div></td>
+                          <td class="fv_materNormal"><div class="vcenter colorRed ff2 t24 fv_pir1"><span>▼</span> 3.8</div></td>
+                          <td class="fv_materNormal">&nbsp;</td>
+                          <td class="fv_materNormal">&nbsp;</td>
+                          <td class="fv_materNormal">&nbsp;</td>
+                          <td class="fv_materNormal"><div class="vcenter colorRed ff2 t24">3.8</div></td>
                         </tr>
                         <tr class="bBeycker cP">
-                          <td class="bGray fv_materNormal"><div class="taL"><div class="dIB bBio p5 rr50"></div> &nbsp; <b>Biología</b></div></td>
-                          <td class="bGray fv_materNormal"><div class="vcenter colorVerde ff2 t24 fv_pir1"><span>▼</span> 4.3</div></td>
-                          <td class="bGray fv_materNormal">&nbsp;</td>
-                          <td class="bGray fv_materNormal">&nbsp;</td>
-                          <td class="bGray fv_materNormal">&nbsp;</td>
-                          <td class="bGray fv_materNormal"><div class="vcenter colorVerde ff2 t24">4.3</div></td>
+                          <td class="fv_materNormal"><div class="taL"><div class="dIB bBio p5 rr50"></div> &nbsp; <b>Biología</b></div></td>
+                          <td class="fv_materNormal"><div class="vcenter colorVerde ff2 t24 fv_pir1"><span>▼</span> 4.3</div></td>
+                          <td class="fv_materNormal">&nbsp;</td>
+                          <td class="fv_materNormal">&nbsp;</td>
+                          <td class="fv_materNormal">&nbsp;</td>
+                          <td class="fv_materNormal"><div class="vcenter colorVerde ff2 t24">4.3</div></td>
                         </tr>
                         <tr class="bBeycker cP">
-                          <td class="bGray fv_materNormal"><div class="taL"><div class="dIB bSoc p5 rr50"></div> &nbsp; <b>Sociales</b></div></td>
-                          <td class="bGray fv_materNormal"><div class="vcenter colorVerde ff2 t24 fv_pir1"><span>▲</span> 3.5</div></td>
-                          <td class="bGray fv_materNormal">&nbsp;</td>
-                          <td class="bGray fv_materNormal">&nbsp;</td>
-                          <td class="bGray fv_materNormal">&nbsp;</td>
-                          <td class="bGray fv_materNormal"><div class="vcenter colorVerde ff2 t24">3.5</div></td>
+                          <td class="fv_materNormal"><div class="taL"><div class="dIB bSoc p5 rr50"></div> &nbsp; <b>Sociales</b></div></td>
+                          <td class="fv_materNormal"><div class="vcenter colorVerde ff2 t24 fv_pir1"><span>▲</span> 3.5</div></td>
+                          <td class="fv_materNormal">&nbsp;</td>
+                          <td class="fv_materNormal">&nbsp;</td>
+                          <td class="fv_materNormal">&nbsp;</td>
+                          <td class="fv_materNormal"><div class="vcenter colorVerde ff2 t24">3.5</div></td>
                         </tr>
                         <tr class="bBeycker cP">
-                          <td class="bGray fv_materNormal"><div class="taL"><div class="dIB bLex p5 rr50"></div> &nbsp; <b>Lengua Extranjera</b></div></td>
-                          <td class="bGray fv_materNormal"><div class="vcenter colorOrange ff2 t24 fv_pir1"><span>▼</span> 3.1</div></td>
-                          <td class="bGray fv_materNormal">&nbsp;</td>
-                          <td class="bGray fv_materNormal">&nbsp;</td>
-                          <td class="bGray fv_materNormal">&nbsp;</td>
-                          <td class="bGray fv_materNormal"><div class="taR vcenter colorOrange ff2 t24">3.1</div></td>
+                          <td class="fv_materNormal"><div class="taL"><div class="dIB bLex p5 rr50"></div> &nbsp; <b>Lengua Extranjera</b></div></td>
+                          <td class="fv_materNormal"><div class="vcenter colorOrange ff2 t24 fv_pir1"><span>▼</span> 3.1</div></td>
+                          <td class="fv_materNormal">&nbsp;</td>
+                          <td class="fv_materNormal">&nbsp;</td>
+                          <td class="fv_materNormal">&nbsp;</td>
+                          <td class="fv_materNormal"><div class="taR vcenter colorOrange ff2 t24">3.1</div></td>
                         </tr>
                         <tr class="bBeycker cP">
-                          <td class="bGray fv_materNormal"><div class="taL"><div class="dIB bFcv p5 rr50"></div> &nbsp; <b>Formación Cristiana y Valores</b></div></td>
-                          <td class="bGray fv_materNormal"><div class="taR vcenter colorVerde ff2 t24 fv_pir1"><span>▲</span> 3.1</div></td>
-                          <td class="bGray fv_materNormal">&nbsp;</td>
-                          <td class="bGray fv_materNormal">&nbsp;</td>
-                          <td class="bGray fv_materNormal">&nbsp;</td>
-                          <td class="bGray fv_materNormal"><div class="taR vcenter colorVerde ff2 t24">3.1</div></td>
+                          <td class="fv_materNormal"><div class="taL"><div class="dIB bFcv p5 rr50"></div> &nbsp; <b>Formación Cristiana y Valores</b></div></td>
+                          <td class="fv_materNormal"><div class="taR vcenter colorVerde ff2 t24 fv_pir1"><span>▲</span> 3.1</div></td>
+                          <td class="fv_materNormal">&nbsp;</td>
+                          <td class="fv_materNormal">&nbsp;</td>
+                          <td class="fv_materNormal">&nbsp;</td>
+                          <td class="fv_materNormal"><div class="taR vcenter colorVerde ff2 t24">3.1</div></td>
                         </tr>
                         <tr class="bBeycker cP">
-                          <td class="bGray fv_materNormal"><div class="taL"><div class="dIB bEdf p5 rr50"></div> &nbsp; <b>Educación Física</b></div></td>
-                          <td class="bGray fv_materNormal"><div class="taR vcenter colorVerde ff2 t24 fv_pir1"><span>▲</span> 4.0</div></td>
-                          <td class="bGray fv_materNormal">&nbsp;</td>
-                          <td class="bGray fv_materNormal">&nbsp;</td>
-                          <td class="bGray fv_materNormal">&nbsp;</td>
-                          <td class="bGray fv_materNormal"><div class="taR vcenter colorVerde ff2 t24">4.0</div></td>
+                          <td class="fv_materNormal"><div class="taL"><div class="dIB bEdf p5 rr50"></div> &nbsp; <b>Educación Física</b></div></td>
+                          <td class="fv_materNormal"><div class="taR vcenter colorVerde ff2 t24 fv_pir1"><span>▲</span> 4.0</div></td>
+                          <td class="fv_materNormal">&nbsp;</td>
+                          <td class="fv_materNormal">&nbsp;</td>
+                          <td class="fv_materNormal">&nbsp;</td>
+                          <td class="fv_materNormal"><div class="taR vcenter colorVerde ff2 t24">4.0</div></td>
                         </tr>
                         <tr class="bBeycker cP">
-                          <td class="bGray fv_materNormal"><div class="taL"><div class="dIB bQui p5 rr50"></div> &nbsp; <b>Química</b></div></td>
-                          <td class="bGray fv_materNormal"><div class="taR vcenter colorRed ff2 t24 fv_pir1"><span>▼</span>2.6</div></td>
-                          <td class="bGray fv_materNormal">&nbsp;</td>
-                          <td class="bGray fv_materNormal">&nbsp;</td>
-                          <td class="bGray fv_materNormal">&nbsp;</td>
-                          <td class="bGray fv_materNormal"><div class="taR vcenter colorRed ff2 t24">2.6</div></td>
+                          <td class="fv_materNormal"><div class="taL"><div class="dIB bQui p5 rr50"></div> &nbsp; <b>Química</b></div></td>
+                          <td class="fv_materNormal"><div class="taR vcenter colorRed ff2 t24 fv_pir1"><span>▼</span>2.6</div></td>
+                          <td class="fv_materNormal">&nbsp;</td>
+                          <td class="fv_materNormal">&nbsp;</td>
+                          <td class="fv_materNormal">&nbsp;</td>
+                          <td class="fv_materNormal"><div class="taR vcenter colorRed ff2 t24">2.6</div></td>
                         </tr>
                         <tr class="bBeycker cP">
-                          <td class="bGray fv_materNormal"><div class="taL"><div class="dIB bFil p5 rr50"></div> &nbsp; <b>Filosofía</b></div></td>
-                          <td class="bGray fv_materNormal"><div class="taR vcenter colorOrange ff2 t24 fv_pir1"><span>▲</span>2.6</div></td>
-                          <td class="bGray fv_materNormal">&nbsp;</td>
-                          <td class="bGray fv_materNormal">&nbsp;</td>
-                          <td class="bGray fv_materNormal">&nbsp;</td>
-                          <td class="bGray fv_materNormal"><div class="taR vcenter colorOrange ff2 t24">2.6</div></td>
+                          <td class="fv_materNormal"><div class="taL"><div class="dIB bFil p5 rr50"></div> &nbsp; <b>Filosofía</b></div></td>
+                          <td class="fv_materNormal"><div class="taR vcenter colorOrange ff2 t24 fv_pir1"><span>▲</span>2.6</div></td>
+                          <td class="fv_materNormal">&nbsp;</td>
+                          <td class="fv_materNormal">&nbsp;</td>
+                          <td class="fv_materNormal">&nbsp;</td>
+                          <td class="fv_materNormal"><div class="taR vcenter colorOrange ff2 t24">2.6</div></td>
                         </tr>                                                                                                                                    
 
 
