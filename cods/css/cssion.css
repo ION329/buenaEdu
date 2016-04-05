@@ -89,33 +89,62 @@ a									{ outline:none !important; }
 .rol_visor.bodBuddy						{ background-color:#384349; }
 .rol_visor .bTipo1							{ background-color:#112147; }
 
-.optMenLat									{ border-bottom:solid 1px #626b70; border-left:solid 10px #384349; height:60px; color:#858585; padding:0 20px 0 70px; }
+.optMenLat									{ border-bottom:solid 1px #626b70; border-left:solid 10px #384349; height:54px; color:#858585; padding:0; }
 .optMenLat:hover							{ border-left:solid 10px #858585; background-color:#282f33; }
 .optMenLat.selli							{ border-left:solid 10px #48a8b8; color:#fff; }
-.icM1										{ background:url(../../resources/img/icons/adm1.png) 15px center no-repeat; }
-.icM2										{ background:url(../../resources/img/icons/adm2.png) 15px center no-repeat; }
-.icM3										{ background:url(../../resources/img/icons/adm3.png) 15px center no-repeat; }
-.icM4										{ background:url(../../resources/img/icons/adm4.png) 15px center no-repeat; }
-.icM5										{ background:url(../../resources/img/icons/adm5.png) 15px center no-repeat; }
-.icM6										{ background:url(../../resources/img/icons/e1.png) 15px center no-repeat; }
-.icM7										{ background:url(../../resources/img/icons/e2.png) 15px center no-repeat; }
-.icM8										{ background:url(../../resources/img/icons/e3.png) 15px center no-repeat; }
-.icM9										{ background:url(../../resources/img/icons/e4.png) 15px center no-repeat; }
-.icM10										{ background:url(../../resources/img/icons/e5.png) 15px center no-repeat; }
-.icV1										{ background:url(../../resources/img/icons/v1.png) 15px center no-repeat; }
-.icV2										{ background:url(../../resources/img/icons/v2.png) 15px center no-repeat; }
-.icM1.selli									{ background:url(../../resources/img/icons/adm11.png) 15px center no-repeat; }
-.icM2.selli									{ background:url(../../resources/img/icons/adm22.png) 15px center no-repeat; }
-.icM3.selli									{ background:url(../../resources/img/icons/adm33.png) 15px center no-repeat; }
-.icM4.selli									{ background:url(../../resources/img/icons/adm44.png) 15px center no-repeat; }
-.icM5.selli									{ background:url(../../resources/img/icons/adm55.png) 15px center no-repeat; }
-.icM6.selli									{ background:url(../../resources/img/icons/e11.png) 15px center no-repeat; }
-.icM7.selli									{ background:url(../../resources/img/icons/e2.png) 15px center no-repeat; }
-.icM8.selli									{ background:url(../../resources/img/icons/e33.png) 15px center no-repeat; }
-.icM9.selli									{ background:url(../../resources/img/icons/e44.png) 15px center no-repeat; }
-.icM10.selli								{ background:url(../../resources/img/icons/e55.png) 15px center no-repeat; }
-.icV1.selli									{ background:url(../../resources/img/icons/v11.png) 15px center no-repeat; }
-.icV2.selli									{ background:url(../../resources/img/icons/v22.png) 15px center no-repeat; }
+
+.bTipoB										{ 
+	background-repeat: no-repeat;
+	background-image:url(../../resources/img/icons/general.png);
+	width: 54px;
+	height: 54px;
+ }
+.bTipo1										{ background-position: left 0; }
+.optMenLat.selli .bTipo1, 
+.nav-tabs li.active a .bTipo1				{ background-position: right 0; }
+.bTipo2										{ background-position: left -54px; }
+.optMenLat.selli .bTipo2,
+.nav-tabs li.active a .bTipo2				{ background-position: right -54px; }
+.bTipo3										{ background-position: left -108px; }
+.optMenLat.selli .bTipo3,
+.nav-tabs li.active a .bTipo3				{ background-position: right -108px; }
+.bTipo4										{ background-position: left -162px; }
+.optMenLat.selli .bTipo4,
+.nav-tabs li.active a .bTipo4				{ background-position: right -162px; }
+.bTipo5										{ background-position: left -216px; }
+.optMenLat.selli .bTipo5,
+.nav-tabs li.active a .bTipo5				{ background-position: right -216px; }
+.bTipo6										{ background-position: left -270px; }
+.optMenLat.selli .bTipo6,
+.nav-tabs li.active a .bTipo6				{ background-position: right -270px; }
+.bTipo7										{ background-position: left -324px; }
+.optMenLat.selli .bTipo7,
+.nav-tabs li.active a .bTipo7				{ background-position: right -324px; }
+.bTipo8										{ background-position: left -378px; }
+.optMenLat.selli .bTipo8,
+.nav-tabs li.active a .bTipo8				{ background-position: right -378px; }
+.bTipo9										{ background-position: left -432px; }
+.optMenLat.selli .bTipo9,
+.nav-tabs li.active a .bTipo9				{ background-position: right -432px; }
+.bTipo10									{ background-position: left -486px; }
+.optMenLat.selli .bTipo10,
+.nav-tabs li.active a .bTipo10				{ background-position: right -486px; }
+.bTipo11									{ background-position: left -540px; }
+.optMenLat.selli .bTipo11,
+.nav-tabs li.active a .bTipo11				{ background-position: right -540px; }
+.bTipo12									{ background-position: left -594px; }
+.optMenLat.selli .bTipo12,
+.nav-tabs li.active a .bTipo12				{ background-position: right -594px; }
+.bTipo13									{ background-position: left -648px; }
+.optMenLat.selli .bTipo13,
+.nav-tabs li.active a .bTipo13				{ background-position: right -648px; }
+.bTipo14									{ background-position: left -702px; }
+.optMenLat.selli .bTipo14,
+.nav-tabs li.active a .bTipo14				{ background-position: right -702px; }
+.bTipo15									{ background-position: left -756px; }
+.optMenLat.selli .bTipo15,
+.nav-tabs li.active a .bTipo15				{ background-position: right -756px; }
+
 
 
 /* PLATAFORMA INTERIOR */
@@ -426,6 +455,8 @@ input:-moz-placeholder 				{ color:#999; padding-top:3px; }
 .rr40								{ -webkit-border-radius: 40px; border-radius: 40px; }
 .rr60								{ -webkit-border-radius: 60px; border-radius: 60px; }
 .rr50								{ -webkit-border-radius: 50%; border-radius: 50%; }
+
+.w60								{ width: 60px; }
 
 .bFull	{
 	-webkit-background-size: cover;

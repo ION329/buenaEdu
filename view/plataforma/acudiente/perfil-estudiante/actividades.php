@@ -18,7 +18,7 @@
 				<option value="grado-10">Quimica</option>
 				<option value="grado-11">Fisica</option>
 			</select> &nbsp;&nbsp;&nbsp;&nbsp;
-			<span class="aSS dIB bAbrir-bykr">Filtrar por:</span>
+			<span class="aSS dIB bAbrir-bykr cP">Filtrar por <img src="resources/img/icons/arrSel.png"></span>
 		</div>
 
 

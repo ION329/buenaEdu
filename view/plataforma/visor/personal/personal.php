@@ -15,26 +15,26 @@
         <ul class="nav nav-tabs" role="tablist">
             <li role="presentation" class="jQ1 taC t16 tU active ionZ">
                 <a href="#resumen" target="_self" aria-controls="home" role="tab" data-toggle="tab" style="border-left-width:1px !important;">
-                    <img src="resources/img/icons/mE11.png" class="icjQ1 mb5" />
-                    <br />Perfil
+                    <center><div class="bTipoB bTipo1"></div></center>
+                    Perfil
                 </a>
             </li>
             <li role="presentation" class="jQ2 taC t16 tU ionZ">
                 <a href="#notas" target="_self" aria-controls="profile" role="tab" data-toggle="tab">
-                    <img src="resources/img/icons/mE2.png" class="icjQ2 mb5" />
-                    <br />Promedios
+                    <center><div class="bTipoB bTipo2"></div></center>
+                    Promedios
                 </a>
             </li>
             <li role="presentation" class="jQ3 taC t16 tU ionZ">
                 <a href="#asistencia" target="_self" aria-controls="messages" role="tab" data-toggle="tab">
-                    <img src="resources/img/icons/mE3.png" class="icjQ3 mb5" />
-                    <br />Plan de estudio
+                    <center><div class="bTipoB bTipo3"></div></center>
+                    Plan de estudio
                 </a>
             </li>
             <li role="presentation" class="jQ4 taC t16 tU ionZ">
                 <a href="#horarios" target="_self" aria-controls="settings" role="tab" data-toggle="tab">
-                    <img src="resources/img/icons/mE6.png" class="icjQ4 mb5" />
-                    <br />Horario
+                    <center><div class="bTipoB bTipo6"></div></center>
+                    Horario
                 </a>
             </li>
 

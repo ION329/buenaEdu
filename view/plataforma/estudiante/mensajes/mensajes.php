@@ -244,7 +244,7 @@
 							</div>
 
 							<div class="bGray p30" style="border-bottom: 1px solid #ccc">
-								<textarea name="mensaje" id="mensaje" placeholder="Agrega un mensaje o adjunta un archivo" rows="8" style="width:100%" class="form-control input-bykr bGray"></textarea>
+								<textarea name="mensaje" id="mensaje" placeholder="Agrega un mensaje o adjunta un archivo" rows="8" style="width:100%; resize:none;" class="form-control input-bykr bGray"></textarea>
 								<!--<div class="color999 mb30">Agrega un mensaje o adjunta un archivo</div>-->
 								<div class="bBasic3 p1020 color333 dB cP">
 									<img width="16" src="resources/img/icons/clip.png">

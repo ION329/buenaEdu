@@ -5,8 +5,11 @@
 </div>
 
 <a href="#/plataforma/visor/institucion">
-	<div class="optMenLat selli icV1">
+	<div class="optMenLat selli">
         <div class="tabAll">
+            <div class="tabIn w60">
+                <div class="bTipo14 bTipoB"></div>
+            </div>
             <div class="tabIn ff2 t16">
                 La Institución
             </div>
@@ -15,8 +18,11 @@
 </a>
 
 <a href="#/plataforma/visor/estudiantes">
-	<div class="optMenLat icM1">
+	<div class="optMenLat">
         <div class="tabAll">
+            <div class="tabIn w60">
+                <div class="bTipo3 bTipoB"></div>
+            </div>
             <div class="tabIn ff2 t16">
                 Estudiantes
             </div>
@@ -25,9 +31,12 @@
 </a>
 
 <a href="#/plataforma/visor/personal">
-	<div class="optMenLat icV2">
-        <div class="tabAll ff2 t16">
-            <div class="tabIn">
+	<div class="optMenLat">
+        <div class="tabAll">
+            <div class="tabIn w60">
+                <div class="bTipo15 bTipoB"></div>
+            </div>
+            <div class="tabIn ff2 t16">
                 Personal académico
             </div>
         </div>
@@ -36,8 +45,11 @@
 
 
 <a href="#/plataforma/visor/planestudio">
-	<div class="optMenLat icM2">
+	<div class="optMenLat">
         <div class="tabAll">
+            <div class="tabIn w60">
+                <div class="bTipo2 bTipoB"></div>
+            </div>
             <div class="tabIn ff2 t16">
                 Plan de estudios
             </div>
@@ -45,9 +57,12 @@
     </div>
 </a>
 
-<a href="#/plataforma/visor/planestudio">
-    <div class="optMenLat icM5">
+<a href="#/plataforma/visor/directorio">
+    <div class="optMenLat">
         <div class="tabAll">
+            <div class="tabIn w60">
+                <div class="bTipo7 bTipoB"></div>
+            </div>
             <div class="tabIn ff2 t16">
                 Directorio
             </div>

@@ -5,8 +5,11 @@
 </div>
 
 <a href="#/plataforma/admin/inicio">
-	<div class="optMenLat selli icM1">
+	<div class="optMenLat selli">
         <div class="tabAll">
+            <div class="tabIn w60">
+                <div class="bTipo13 bTipoB"></div>
+            </div>
             <div class="tabIn ff2 t16">
                 Estudiantes y Profesores
             </div>
@@ -15,8 +18,11 @@
 </a>
 
 <a href="#/plataforma/admin/buscargrado">
-	<div class="optMenLat icM2">
+	<div class="optMenLat">
         <div class="tabAll">
+            <div class="tabIn w60">
+                <div class="bTipo2 bTipoB"></div>
+            </div>
             <div class="tabIn ff2 t16">
                 Gestión de Grados
             </div>
@@ -25,9 +31,12 @@
 </a>
 
 <a href="#/plataforma/admin/eventos">
-	<div class="optMenLat icM3">
-        <div class="tabAll ff2 t16">
-            <div class="tabIn">
+	<div class="optMenLat">
+        <div class="tabAll">
+            <div class="tabIn w60">
+                <div class="bTipo9 bTipoB"></div>
+            </div>
+            <div class="tabIn ff2 t16">
                 Eventos
             </div>
         </div>
@@ -48,8 +57,11 @@
 -->
 
 <a href="#/plataforma/admin/directorio">
-	<div class="optMenLat icM5">
+	<div class="optMenLat">
         <div class="tabAll">
+            <div class="tabIn w60">
+                <div class="bTipo7 bTipoB"></div>
+            </div>
             <div class="tabIn ff2 t16">
                 Directorio
             </div>

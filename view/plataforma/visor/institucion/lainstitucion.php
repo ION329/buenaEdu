@@ -96,10 +96,9 @@
 <!-- <center><img src="resources/img/demo/notas.png" /></center> -->
 
 <!-- INICIO CODIGO FERNANDO -->
-
+<!--
 <div class="materia_con">
 
-<!-- materia 1 -->
 <div class="materia" data-progress="50">
     <div class="circle">
         <div class="mask">
@@ -120,7 +119,6 @@
     <div class="materia_x">Matemáticas</div>
 </div>
 
-<!-- materia 2 -->
 <div class="materia" data-progress="50">
     <div class="circle">
         <div class="mask">
@@ -142,9 +140,9 @@
 </div>
 
 </div>
-
+-->
 <!-- FINAL CODIGO FERNANDO -->
-
+<img src="resources/img/temporal/bolitas.png">
 </div>
         </div>
         <div class="col-sm-4 col-xs-4">

@@ -19,38 +19,38 @@
         <ul class="nav nav-tabs" role="tablist">
             <li role="presentation" class="jQ1 taC t16 tU active">
                 <a href="#resumen" target="_self" aria-controls="home" role="tab" data-toggle="tab" style="border-left-width:1px !important;">
-                    <img src="resources/img/icons/mE11.png" class="icjQ1 mb5" />
-                    <br />Resumen
+                    <center><div class="bTipoB bTipo1"></div></center>
+                    Resumen
                 </a>
             </li>
             <li role="presentation" class="jQ2 taC t16 tU">
                 <a href="#horarios" target="_self" aria-controls="profile" role="tab" data-toggle="tab">
-                    <img src="resources/img/icons/mE3.png" class="icjQ2 mb5" />
-                    <br />Horarios
+                    <center><div class="bTipoB bTipo4"></div></center>
+                    Horarios
                 </a>
             </li>
             <li role="presentation" class="jQ3 taC t16 tU">
                 <a href="#asignaturas" target="_self" aria-controls="messages" role="tab" data-toggle="tab">
-                    <img src="resources/img/icons/mE4.png" class="icjQ3 mb5" />
-                    <br />Asignaturas
+                    <center><div class="bTipoB bTipo7"></div></center>
+                    Asignaturas
                 </a>
             </li>
             <li role="presentation" class="jQ4 taC t16 tU">
                 <a href="#mensajes" target="_self" aria-controls="settings" role="tab" data-toggle="tab">
-                    <img src="resources/img/icons/mE5.png" class="icjQ4 mb5" />
-                    <br />Mensajes
+                    <center><div class="bTipoB bTipo5"></div></center>
+                    Mensajes
                 </a>
             </li>
             <li role="presentation" class="jQ5 taC t16 tU">
                 <a href="#foros" target="_self" aria-controls="messages" role="tab" data-toggle="tab">
-                    <img src="resources/img/icons/mE6.png" class="icjQ5 mb5" />
-                    <br />Foros
+                    <center><div class="bTipoB bTipo8"></div></center>
+                    Foros
                 </a>
             </li>
             <li role="presentation" class="jQ6 taC t16 tU">
                 <a href="#recursos" target="_self" aria-controls="settings" role="tab" data-toggle="tab">
-                    <img src="resources/img/icons/mE6.png" class="icjQ6 mb5" />
-                    <br />Recursos
+                    <center><div class="bTipoB bTipo6"></div></center>
+                    Recursos
                 </a>
             </li>
         </ul>

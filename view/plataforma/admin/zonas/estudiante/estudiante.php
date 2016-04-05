@@ -19,38 +19,38 @@
         <ul class="nav nav-tabs" role="tablist">
             <li role="presentation" class="jQ1 taC t16 tU active">
                 <a href="#resumen" target="_self" aria-controls="home" role="tab" data-toggle="tab" style="border-left-width:1px !important;">
-                    <img src="resources/img/icons/mE11.png" class="icjQ1 mb5" />
-                    <br />Resumen
+                    <center><div class="bTipoB bTipo1"></div></center>
+                    Resumen
                 </a>
             </li>
             <li role="presentation" class="jQ2 taC t16 tU">
                 <a href="#notas" target="_self" aria-controls="profile" role="tab" data-toggle="tab">
-                    <img src="resources/img/icons/mE2.png" class="icjQ2 mb5" />
-                    <br />Notas
+                    <center><div class="bTipoB bTipo2"></div></center>
+                    Notas
                 </a>
             </li>
             <li role="presentation" class="jQ3 taC t16 tU">
                 <a href="#asistencia" target="_self" aria-controls="messages" role="tab" data-toggle="tab">
-                    <img src="resources/img/icons/mE3.png" class="icjQ3 mb5" />
-                    <br />Asistencia
+                    <center><div class="bTipoB bTipo3"></div></center>
+                    Asistencia
                 </a>
             </li>
             <li role="presentation" class="jQ4 taC t16 tU">
                 <a href="#horarios" target="_self" aria-controls="settings" role="tab" data-toggle="tab">
-                    <img src="resources/img/icons/mE4.png" class="icjQ4 mb5" />
-                    <br />Horarios
+                    <center><div class="bTipoB bTipo4"></div></center>
+                    Horarios
                 </a>
             </li>
             <li role="presentation" class="jQ5 taC t16 tU">
                 <a href="#mensajes" target="_self" aria-controls="messages" role="tab" data-toggle="tab">
-                    <img src="resources/img/icons/mE5.png" class="icjQ5 mb5" />
-                    <br />Mensajes
+                    <center><div class="bTipoB bTipo5"></div></center>
+                    Mensajes
                 </a>
             </li>
             <li role="presentation" class="jQ6 taC t16 tU">
                 <a href="#observaciones" target="_self" aria-controls="settings" role="tab" data-toggle="tab">
-                    <img src="resources/img/icons/mE6.png" class="icjQ6 mb5" />
-                    <br />Observaciones
+                    <center><div class="bTipoB bTipo6"></div></center>
+                    Observaciones
                 </a>
             </li>
         </ul>

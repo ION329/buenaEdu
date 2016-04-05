@@ -5,8 +5,11 @@
 </div>
 
 <a href="#/plataforma/acudiente/perfil-estudiante">
-	<div class="optMenLat selli icM1">
+	<div class="optMenLat selli">
         <div class="tabAll">
+            <div class="tabIn w60" >
+                <div class="bTipo13 bTipoB"></div>
+            </div>
             <div class="tabIn ff2 t16">
                 Perfil del estudiante
             </div>
@@ -15,8 +18,11 @@
 </a>
 
 <a href="#/plataforma/acudiente/mensajes">
-	<div class="optMenLat icM8">
+	<div class="optMenLat">
         <div class="tabAll">
+            <div class="tabIn w60" >
+                <div class="bTipo5 bTipoB"></div>
+            </div>
             <div class="tabIn ff2 t16">
                 Mis mensajes
             </div>
@@ -25,9 +31,12 @@
 </a>
 
 <a href="#/plataforma/acudiente/asignaturas">
-	<div class="optMenLat icM2">
-        <div class="tabAll ff2 t16">
-            <div class="tabIn">
+	<div class="optMenLat">
+        <div class="tabAll">
+            <div class="tabIn w60" >
+                <div class="bTipo2 bTipoB"></div>
+            </div>
+            <div class="tabIn ff2 t16">
                 Plan de estudio
             </div>
         </div>
@@ -35,8 +44,11 @@
 </a>
 
 <a href="#/plataforma/acudiente/eventos">
-	<div class="optMenLat icM3">
+	<div class="optMenLat">
         <div class="tabAll">
+            <div class="tabIn w60" >
+                <div class="bTipo9 bTipoB"></div>
+            </div>
             <div class="tabIn ff2 t16">
                 Agenda y eventos
             </div>
@@ -45,8 +57,11 @@
 </a>
 
 <a href="#/plataforma/acudiente/directorio">
-    <div class="optMenLat icM5">
+    <div class="optMenLat">
         <div class="tabAll">
+            <div class="tabIn w60" >
+                <div class="bTipo7 bTipoB"></div>
+            </div>
             <div class="tabIn ff2 t16">
                 Directorio
             </div>
