@@ -54,13 +54,38 @@ var Ion = {
 		  	$(".bAbrir-bykr").live('click', function() {
 				$('.dAbre-bykr1').slideToggle(500);
 		  	});
-
+			
+			$(".next1").live('click', function() { $(this).slideUp(500); $('.next2').slideDown(500); });
+			$(".next2").live('click', function() { $(this).slideUp(500); $('.next3').slideDown(500); });
+			$(".next3").live('click', function() { $(this).slideUp(500); $('.next4').slideDown(500); });
+			$(".next4").live('click', function() { $(this).slideUp(500); $('.next5').slideDown(500); });
+						
+			
+			$(".next11").live('click', function() { $(this).slideUp(500); $('.next22').slideDown(500); });
+			$(".next22").live('click', function() { $(this).slideUp(500); $('.next33').slideDown(500); });
+			$(".next33").live('click', function() { $(this).slideUp(500); $('.next44').slideDown(500); });
+			$(".next44").live('click', function() { $(this).slideUp(500); $('.next55').slideDown(500); });
+			
+			
+			$(".next111").live('click', function() { $(this).slideUp(500); $('.next222').slideDown(500); });
+			$(".next222").live('click', function() { $(this).slideUp(500); $('.next333').slideDown(500); });
+			$(".next333").live('click', function() { $(this).slideUp(500); $('.next444').slideDown(500); });
+			$(".next444").live('click', function() { $(this).slideUp(500); $('.next555').slideDown(500); });
+			
+			$(".next1111").live('click', function() { $(this).slideUp(500); $('.next2222').slideDown(500); });
+			$(".next2222").live('click', function() { $(this).slideUp(500); $('.next3333').slideDown(500); });
+			$(".next3333").live('click', function() { $(this).slideUp(500); $('.next4444').slideDown(500); });
+			$(".next4444").live('click', function() { $(this).slideUp(500); $('.next5555').slideDown(500); });
+			
+			$(".ouff").live('click', function() { $(this).slideUp(500); $('.next1, .next11, .next111, .next1111').slideDown(500); });
 
 
 			$(".bMsiguiente1").live('click', function() { $('.bMM2').trigger('click'); });
 			$(".bMsiguiente2").live('click', function() { $('.bMM3').trigger('click'); });
 			$(".bMsiguiente3").live('click', function() { $('.bMM4').trigger('click'); });
 			$(".bMsiguiente4").live('click', function() { $('.bMM5').trigger('click'); });
+			$(".bMsiguiente5").live('click', function() { $('.bMM6').trigger('click'); });
+			$(".bMsiguiente6").live('click', function() { $('.bMM7').trigger('click'); });
 
 
 			$(".bMsiguiente11").live('click', function() {

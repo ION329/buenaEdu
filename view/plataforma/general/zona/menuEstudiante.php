@@ -95,3 +95,16 @@
         </div>
     </div>
 </a>
+
+<a href="#/plataforma/estudiante/pae">
+	<div class="optMenLat">
+        <div class="tabAll">
+            <div class="tabIn w60">
+                <div class="bTipo15 bTipoB"></div>
+            </div>
+            <div class="tabIn ff2 t16">
+                Plan de Alimentación
+            </div>
+        </div>
+    </div>
+</a>

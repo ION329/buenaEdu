@@ -97,10 +97,10 @@
                                 	Establece información de la institución, agrega eventos, proyectos de emprendimiento e imprime certificados
                                 </div>
                                 
+                                <a href="#/plataforma/admin/pae" class="aSS2 dB mb10">Plan de Alimentación Escolar (PAE)</a>
                                 <a href="" class="aSS2 dB mb10 tach">Buscar personal</a>
                                 <a href="" class="aSS2 dB mb10 tach tach">Agenda y Eventos</a>
                                 <a href="" class="aSS2 dB mb10 tach">Proyectos de Emprendimiento</a>
-                                <a href="" class="aSS2 dB mb10 tach">Propuesta Educativa por Materia</a>
                                 <a href="" class="aSS2 dB mb10 tach">Solicitud de Certificados</a>
                                 <a href="" class="aSS2 dB tach">Año Lectivo </a>
                             </div>

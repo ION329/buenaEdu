@@ -24,7 +24,8 @@
                         	<span class="t24 colorAzulBE ff2 dB mb5">Administrador</span>
                             <span class="t12">
                                 <a href="#/plataforma/admin/registro/" target="_blank" class="aSS">Crear Institución</a> |
-                                <a href="#/plataforma/admin/inicio/" target="_blank" class="aSS">Perfil</a>
+                                <a href="#/plataforma/admin/inicio/" target="_blank" class="aSS">Perfil</a> |
+                                <a href="#/plataforma/admin/pae/" target="_blank" class="aSS">PAE</a>
                             </span>
                         </div>
                     </div>
@@ -34,23 +35,42 @@
                 <div class="row">
                 
                 	<div class="col-sm-4 col-xs-4">
-                    	<a href="#/plataforma/estudiante">
+                    	<a href="#/plataforma/estudiante" target="_blank">
                             <div class="bGray3 rr20 p20">
                                 <span class="t18 colorAzulBE ff2">Estudiante</span>
                             </div>
                         </a>
                     </div>
                     <div class="col-sm-4 col-xs-4">
-                    	<a href="#/plataforma/profesor">
+                    	<a href="#/plataforma/profesor" target="_blank">
                             <div class="bGray3 rr20 p20">
                                 <span class="t18 colorAzulBE ff2">Profesor</span>
                             </div>
                         </a>
                     </div>
                     <div class="col-sm-4 col-xs-4">
-                    	<a href="#/plataforma/acudiente">
+                    	<a href="#/plataforma/acudiente" target="_blank">
                             <div class="bGray3 rr20 p20">
                                 <span class="t18 colorAzulBE ff2">Acudiente</span>
+                            </div>
+                        </a>
+                    </div>
+                
+                </div>
+                <hr />
+                <div class="row">
+                
+                	<div class="col-sm-6 col-xs-6">
+                    	<a href="#/plataforma/oferente" target="_blank">
+                            <div class="bGray3 rr40 p10">
+                                <span class="t14 color666 ff2">Oferente</span>
+                            </div>
+                        </a>
+                    </div>
+                    <div class="col-sm-6 col-xs-6">
+                    	<a href="#/plataforma/conductor" target="_blank">
+                            <div class="bGray3 rr40 p10">
+                                <span class="t14 color666 ff2">Conductor</span>
                             </div>
                         </a>
                     </div>

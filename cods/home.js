@@ -81,6 +81,9 @@ var Banco = {
 			}).when('/plataforma/acudiente/eventos', {
 			templateUrl: 'view/plataforma/acudiente/eventos/index.php',
 			controller: 'control_init'
+			}).when('/plataforma/acudiente/pae', {
+			templateUrl: 'view/plataforma/acudiente/pae/index.php',
+			controller: 'control_init'
 			
 			
 //////// ESTUDIANTE
@@ -113,6 +116,9 @@ var Banco = {
 //////// HORARIOS
 			}).when('/plataforma/estudiante/recursos', {
 			templateUrl: 'view/plataforma/estudiante/recursos/index.php',
+			controller: 'control_init'
+			}).when('/plataforma/estudiante/pae', {
+			templateUrl: 'view/plataforma/estudiante/pae/index.php',
 			controller: 'control_init'
 			
 
@@ -164,11 +170,15 @@ var Banco = {
 			}).when('/plataforma/visor/plan-estudio', {
 			templateUrl: 'view/plataforma/visor/planestudio/index.php',
 			controller: 'control_init'
-			/*
-			}).when('/plataforma/visor/planestudio', {
-			templateUrl: 'view/plataforma/visor/planestudio.php',
+			
+			}).when('/plataforma/visor/directorio', {
+			templateUrl: 'view/plataforma/visor/directorio/index.php',
 			controller: 'control_init'
-			*/
+			
+			}).when('/plataforma/visor/pae', {
+			templateUrl: 'view/plataforma/visor/pae/index.php',
+			controller: 'control_init'
+			
 			
 //PLATAFORMA - BUENA EDUCACIÓN [ADMINISTRADOR] [REGISTRO INSTITUCIÓN]
 //////// INGRESO
@@ -225,7 +235,35 @@ var Banco = {
 			}).when('/plataforma/admin/eventos', {
 			templateUrl: 'view/plataforma/admin/zonas/eventos/index.php',
 			controller: 'control_init'
-	
+//////// PAE
+			}).when('/plataforma/admin/pae', {
+			templateUrl: 'view/plataforma/admin/pae/index.php',
+			controller: 'control_init'	
+//////// PAE LICITACIÓN
+			}).when('/plataforma/admin/pae/licitacion', {
+			templateUrl: 'view/plataforma/admin/pae/licitacion/index.php',
+			controller: 'control_init'	
+//////// PAE PROGRAMA
+			}).when('/plataforma/admin/pae/programa', {
+			templateUrl: 'view/plataforma/admin/pae/programa/index.php',
+			controller: 'control_init'	
+
+//PLATAFORMA - BUENA EDUCACIÓN [OFERENTE]	
+//////// PAE
+			}).when('/plataforma/oferente', {
+			templateUrl: 'view/plataforma/oferente/pae/index.php',
+			controller: 'control_init'	
+//////// PAE PROGRAMA
+			}).when('/plataforma/oferente/pae/programa', {
+			templateUrl: 'view/plataforma/oferente/pae/programa/index.php',
+			controller: 'control_init'	
+			
+
+//PLATAFORMA - BUENA EDUCACIÓN [CONDUCTOR]	
+//////// PAE
+			}).when('/plataforma/conductor', {
+			templateUrl: 'view/plataforma/conductor/conductor.php',
+			controller: 'control_init'	
 			
 			
 			
