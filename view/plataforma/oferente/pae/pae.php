@@ -34,7 +34,7 @@
                                 </div>
                                 
                                 
-                                <a href="#/plataforma/oferente/pae/programa" class="aSS2 dB mb10">Menú de la semana</a>
+                                <a href="#/plataforma/oferente/pae/licitacion" class="aSS2 dB mb10">Menú de la semana</a>
                                 <a class="aSS2 dB mb10 cP tach">Editar menú escolar</a>
                                 <a href="" class="aSS2 dB mb10 tach">Detalles del operador y convenio</a>
                                 <a href="" class="aSS2 dB mb10 tach">Capacitación Sena</a>
