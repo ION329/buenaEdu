@@ -1,13 +1,4 @@
 <div class="rol_admin hedheader">
-	<!--
-    <div class="col-sm-1 col-xs-1 btnMunu cP">
-    	<div class="tabAll">
-        	<div class="tabIn taC">
-            	<img src="resources/img/icons/menu.png" />
-        	</div>
-        </div>    	
-    </div>
-    -->
     
     <div class="col-sm-7 col-xs-7 hH">
     	<div class="tabAll">
@@ -16,21 +7,14 @@
         	</div>
             <div class="tabIn">
             	<span class="t16 ff2 dB">
-                    COLEGIO SAN ANTONIO<br />
-                    MARIA CLARET
+                    NOMBRE DEL COLEGIO<br />
+                    Título de la Sede
                 </span>
         	</div>
         </div>
     </div>
-    
-    
-    
-    
-    <!--  CUENTA  -->
-    <!--  CUENTA  -->
-    <!--  CUENTA  -->
-    <!--  CUENTA  -->
-    <!--  CUENTA  -->
+
+
     <!--  CUENTA  -->
     <div class="col-sm-2 col-xs-2 hH">
     	<div class="tabAll">
@@ -51,12 +35,7 @@
         </div>
     </div>
     
-    
-    <!--  SESIÓN  -->
-    <!--  SESIÓN  -->
-    <!--  SESIÓN  -->
-    <!--  SESIÓN  -->
-    <!--  SESIÓN  -->
+
     <!--  SESIÓN  -->    
 	<div class="col-sm-3 col-xs-3 hH">
     	<div class="tabAllMenHeader efeHov">
@@ -303,7 +282,7 @@
         
         
         
-        PANEL
+        CONFIGURACIONES
         
         
         
@@ -311,14 +290,79 @@
         	<div class="tabIn taR">
             
                 <div class="dropdown menuNotif">
-                    <a class="btn dropdown-toggle" style="position:relative;" href="#/plataforma/admin/panel">
-                    	<div class="tabAll"><div class="tabIn">
-                        	<img src="resources/img/icons/tools.png" />
-                        </div></div>
-                    </a>
+                    <button class="btn dropdown-toggle" type="button" style="position:relative;"
+                    id="dropNotiff" data-toggle="dropdown">
+                        <img src="resources/img/icons/tools.png" />
+                        <div class="notifCant colorfff rr5 t12 ff2">4</div>
+                    </button>
+                    <ul class="dropdown-menu pull-right" role="menu" aria-labelledby="dropNotiff">
+                    	<img src="resources/img/icons/aup.png" class="aup" />
+						<div role="presentation" class="dropdown-header p10 ff2 bWhite">
+                        	<span class="t18 color333">Configuraciones</span>
+                        </div>
+                        <div role="presentation" class="otraSesion">
+                        	<a role="menuitem" tabindex="-1" class="cP">
+                            	<div class="row p10">
+                                    <div class="col-sm-3 col-xs-3 vcenter taC">
+                                        <img src="resources/img/icons/adm1.png" />
+                                    </div><!--
+                                    --><div class="col-sm-7 col-xs-7 vcenter">
+                                        <div class="colorAzul ff2 mb3">Actialización de datos</div>
+                                        <div class="color666 mb3">Marzo 10 de 2016</div>
+                                        <div class="t12 color999 color999 mb10">Última actualización</div>
+                                    </div><!--
+                                    --><div class="col-sm-2 col-xs-2 vcenter taR">
+                                    	<img src="resources/img/icons/arL.png" />
+                                    </div>
+                                </div>
+                            </a>
+                        </div>
+                        <div role="presentation" class="otraSesion">
+                            <a role="menuitem" tabindex="-1" class="cP">
+                            	<div class="row p10">
+                                    <div class="col-sm-3 col-xs-3 vcenter taC">
+                                        <img src="resources/img/icons/notif.png" />
+                                    </div><!--
+                                    --><div class="col-sm-7 col-xs-7 vcenter">
+                                        <div class="colorAzul ff2 mb3">Katherine Perlaza</div>
+                                        <div class="color666 mb3">Te envío un mensaje</div>
+                                        <div class="t12 color999 color999 mb10">Hace 32 minutos</div>
+                                    </div><!--
+                                    --><div class="col-sm-2 col-xs-2 vcenter taR">
+                                    	<img src="resources/img/icons/arL.png" />
+                                    </div>
+                                </div>
+                            </a>
+                        </div>
+                        <div role="presentation" class="otraSesion leido">
+                            <a role="menuitem" tabindex="-1" class="cP">
+                            	<div class="row p10">
+                                    <div class="col-sm-3 col-xs-3 vcenter taC">
+                                        <img src="resources/img/icons/notif.png" />
+                                    </div><!--
+                                    --><div class="col-sm-7 col-xs-7 vcenter">
+                                        <div class="colorAzul ff2 mb3">Juan Fernando Quintero</div>
+                                        <div class="color999 mb3">Respondío tu mensaje</div>
+                                        <div class="t12 color999 color666 mb10">Hace 2 días</div>
+                                    </div><!--
+                                    --><div class="col-sm-2 col-xs-2 vcenter taR">
+                                    	<img src="resources/img/icons/arL.png" />
+                                    </div>
+                                </div>
+                            </a>
+                        </div>
+
+                        <div role="presentation" class="btnsOpc">
+                        	<div class="taC p10">
+                            	<a class="cP bBasic2 rr5">Ver todas las notificaciones</a>
+                            </div>                        
+                        </div>
+
+                    </ul>
                 </div>
             </div>
         </div>
+        
     </div>
     
     

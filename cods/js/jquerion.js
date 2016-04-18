@@ -249,7 +249,10 @@ var Ion = {
 			});
 
 
-
+			$( ".bloqSelDiaIn" ).live( "click", function() {
+			  $(".bloqSelDiaIn").removeClass('sellei');
+			  $(this).addClass('sellei');
+			});
 
 
 			$(window).resize(function() {
