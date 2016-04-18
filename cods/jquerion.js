@@ -52,6 +52,16 @@ var Ion = {
 				$('.dActividad2').slideToggle(500);
 		  	});
 
+			$(".bEmergencia").live('click', function() {
+				$('.dEmergencia1').slideToggle(500);
+				$('.dEmergencia2').slideToggle(500);
+		  	});	
+
+		  	$(".bChange").live('click', function() {
+				$('.dChange1').slideToggle(500);
+				$('.dChange2').slideToggle(500);
+		  	});		  	
+
 			$(".bAbrir1").live('click', function() {
 				$('.dAbre1').slideToggle(500);
 		  	});
@@ -91,6 +101,7 @@ var Ion = {
 			$(".bMsiguiente4").live('click', function() { $('.bMM5').trigger('click'); });
 			$(".bMsiguiente5").live('click', function() { $('.bMM6').trigger('click'); });
 			$(".bMsiguiente6").live('click', function() { $('.bMM7').trigger('click'); });
+			$(".bMsiguiente7").live('click', function() { $('.bMM8').trigger('click'); });
 
 
 			$(".bMsiguiente11").live('click', function() {

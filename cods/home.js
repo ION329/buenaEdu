@@ -70,6 +70,9 @@ var Banco = {
 			}).when('/plataforma/profesor/generar-tabulados', {
 			templateUrl: 'view/plataforma/profesor/tabulados/generartab.php',
 			controller: 'control_init'
+			}).when('/plataforma/profesor/planestudio', {
+			templateUrl: 'view/plataforma/profesor/planestudio/index.php',
+			controller: 'control_init'
 			
 //////// ACUDIENTE
 			}).when('/plataforma/acudiente', {
@@ -267,6 +270,10 @@ var Banco = {
 			}).when('/plataforma/admin/pae/inspector', {
 			templateUrl: 'view/plataforma/admin/pae/inspector/index.php',
 			controller: 'control_init'	
+//////// CREAR CERTIFICADOS
+			}).when('/plataforma/admin/crear-certificados', {
+			templateUrl: 'view/plataforma/admin/certificados/index.php',
+			controller: 'control_init'				
 
 //PLATAFORMA - BUENA EDUCACIÓN [OFERENTE]	
 //////// PAE

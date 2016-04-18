@@ -1,8 +1,11 @@
 
 
 <div class="">
-
-	<a  href="#/plataforma/admin/inicio" class="bBasic3 rr20 mb10 cP temp_search"><img src="resources/img/icons/arR.png" width="8"> &nbsp; Volver</a>
+  <div class="tab">
+    <div class="tabIn"><a  href="#/plataforma/admin/inicio" class="bBasic3 rr20 mb10 cP temp_search"><img src="resources/img/icons/arR.png" width="8"> &nbsp; Volver</a></div>
+    <div class="tabIn taR"><a class="bBasic2 rr40 bVerde5 taC" href="#/plataforma/admin/crear-certificados"><b class="colorfff">Crear Certificado</b></a></div>
+  </div>
+	
 
     <div class="contEstandar bWhite rr5 p30">
            

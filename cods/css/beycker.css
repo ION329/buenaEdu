@@ -126,6 +126,21 @@ tr.bBeycker:hover{
     box-shadow: none !important;
 }
 
+.menu-bykr li.active > a{
+    color: white !important;
+    background-color: #48a8b8 !important;
+    border-radius: 5px;
+}
+
+.menu-bykr li > a:hover{
+    border-radius: 5px;
+}
+
+.pMenu{
+    padding-right: 40px !important;
+    padding-left: 40px !important;
+}
+
 .menu-bykr2 li.active > a{
     color: #0e4492 !important;
     background-color: white !important;
