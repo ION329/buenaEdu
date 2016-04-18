@@ -289,6 +289,24 @@
                             </a>
                         </div>
 
+                        <div role="presentation" class="otraSesion leido">
+                            <a role="menuitem" tabindex="-1" class="cP" href="#/plataforma/profesor/tabulados">
+                                <div class="row p10">
+                                    <div class="col-sm-3 col-xs-3 vcenter taC">
+                                        <img src="resources/img/icons/adm2.png" />
+                                    </div><!--
+                                    --><div class="col-sm-7 col-xs-7 vcenter">
+                                        <div class="colorAzul ff2 mb3">Generar Tabulados de notas por grados</div>
+                                        <div class="color999 mb3">Respondío tu mensaje</div>
+                                        <div class="t12 color999 color666 mb10">Hace 2 días</div>
+                                    </div><!--
+                                    --><div class="col-sm-2 col-xs-2 vcenter taR">
+                                        <img src="resources/img/icons/arL.png" />
+                                    </div>
+                                </div>
+                            </a>
+                        </div>
+
                         <div role="presentation" class="btnsOpc">
                         	<div class="taC p10">
                             	<a class="cP bBasic2 rr5">Ver todas las notificaciones</a>

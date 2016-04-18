@@ -64,6 +64,12 @@ var Banco = {
 			}).when('/plataforma/profesor/recursos', {
 			templateUrl: 'view/plataforma/profesor/recursos/index.php',
 			controller: 'control_init'
+			}).when('/plataforma/profesor/tabulados', {
+			templateUrl: 'view/plataforma/profesor/tabulados/index.php',
+			controller: 'control_init'
+			}).when('/plataforma/profesor/generar-tabulados', {
+			templateUrl: 'view/plataforma/profesor/tabulados/generartab.php',
+			controller: 'control_init'
 			
 //////// ACUDIENTE
 			}).when('/plataforma/acudiente', {
@@ -133,6 +139,10 @@ var Banco = {
 //////// BUSCAR
 			}).when('/plataforma/visor/busqueda-avanzada', {
 			templateUrl: 'view/plataforma/visor/busqueda-avanzada/index.php',
+			controller: 'control_init'
+//////// REPORTES
+			}).when('/plataforma/visor/reportes', {
+			templateUrl: 'view/plataforma/visor/reportes/index.php',
 			controller: 'control_init'
 //////// BUSCAR
 			}).when('/plataforma/visor/resultados', {
@@ -245,6 +255,18 @@ var Banco = {
 			}).when('/plataforma/admin/pae/programa', {
 			templateUrl: 'view/plataforma/admin/pae/programa/index.php',
 			controller: 'control_init'	
+//////// TABULADOS CREADOS
+			}).when('/plataforma/admin/tabuladoscreados', {
+			templateUrl: 'view/plataforma/admin/tabuladoscreados/index.php',
+			controller: 'control_init'	
+//////// CREAR INSPECCION DE ENTREGA
+			}).when('/plataforma/admin/pae/inspeccionentrega', {
+			templateUrl: 'view/plataforma/admin/pae/inspeccionentrega/index.php',
+			controller: 'control_init'	
+//////// CREAR INSPECTOR
+			}).when('/plataforma/admin/pae/inspector', {
+			templateUrl: 'view/plataforma/admin/pae/inspector/index.php',
+			controller: 'control_init'	
 
 //PLATAFORMA - BUENA EDUCACIÓN [OFERENTE]	
 //////// PAE
@@ -255,6 +277,10 @@ var Banco = {
 			}).when('/plataforma/oferente/pae/programa', {
 			templateUrl: 'view/plataforma/oferente/pae/programa/index.php',
 			controller: 'control_init'	
+//////// PAE LICITACION
+			}).when('/plataforma/oferente/pae/licitacion', {
+			templateUrl: 'view/plataforma/oferente/pae/licitacion/index.php',
+			controller: 'control_init'				
 			
 
 //PLATAFORMA - BUENA EDUCACIÓN [CONDUCTOR]	

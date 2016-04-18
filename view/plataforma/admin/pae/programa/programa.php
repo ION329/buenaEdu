@@ -18,8 +18,9 @@
                     <li><a data-toggle="tab" href="#om3" target="_self" class="bMM3">Registro estudiantes</a></li>
                     <li><a data-toggle="tab" href="#om4" target="_self" class="bMM4">Acerca del proveedor</a></li>
                     <li><a data-toggle="tab" href="#om5" target="_self" class="bMM5">Reporte de alimentos</a></li>
-                    <li><a data-toggle="tab" href="#om6" target="_self" class="bMM6">Capacitación</a></li>
-                    <li><a data-toggle="tab" href="#om7" target="_self" class="bMM7"><img src="resources/img/temporal/pae/c.jpg" /></a></li>
+                    <li><a data-toggle="tab" href="#om6" target="_self" class="bMM6">Inspección de entrega</a></li>
+                    <li><a data-toggle="tab" href="#om7" target="_self" class="bMM7">Capacitación</a></li>
+                    <li><a data-toggle="tab" href="#om8" target="_self" class="bMM8"><img src="resources/img/temporal/pae/c.jpg" /></a></li>
                     
                 </ul>
         	</div>
@@ -44,9 +45,12 @@
                 	<div ng-include src=" 'view/plataforma/admin/pae/programa/reporte.php' "></div>
                 </div>
                 <div id="om6" class="tab-pane fade">
-                	<div ng-include src=" 'view/plataforma/admin/pae/programa/capacitacion.php' "></div>
+                    <div ng-include src=" 'view/plataforma/admin/pae/programa/inspeccion.php' "></div>
                 </div>
                 <div id="om7" class="tab-pane fade">
+                	<div ng-include src=" 'view/plataforma/admin/pae/programa/capacitacion.php' "></div>
+                </div>
+                <div id="om8" class="tab-pane fade">
                 	<div ng-include src=" 'view/plataforma/admin/pae/programa/proxima.php' "></div>
                 </div>
             </div>

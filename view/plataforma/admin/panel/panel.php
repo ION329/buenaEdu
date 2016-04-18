@@ -70,7 +70,7 @@
                                 
                                 <a href="#/plataforma/admin/inicio" class="aSS2 dB mb10">Buscar estudiante y/o personal</a>
                                 <a href="#/plataforma/admin/panel/estudiantes" class="aSS2 dB mb10">Agregar o editar estudiantes</a>
-                                
+                                <a href="#/plataforma/admin/tabuladoscreados" class="aSS2 dB mb10">Gestion Tabulado de notas</a>
                                 <a href="" class="aSS2 dB mb10 tach">Control de asistencia estudiantil</a>
                                 <a href="" class="aSS2 dB mb10 tach">Control contenido de Foros</a>
                                 <a href="" class="aSS2 dB mb10 tach">Control de Actividades</a>

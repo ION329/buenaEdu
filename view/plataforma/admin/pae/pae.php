@@ -93,6 +93,7 @@
                                 </div>
                                 
                                 <a href="#/plataforma/admin/panel/estudiantes" class="aSS2 dB mb10">Registro de estudiantes</a>
+                                <a href="#/plataforma/admin/pae/inspeccionentrega" class="aSS2 dB mb10">Crear inspección de entrega</a>
                                 <a href="" class="aSS2 dB mb10 tach">Crear una observación</a>
                                 <a href="" class="aSS2 dB mb10 tach tach">Descargar reporte de alimentación</a>
                             </div>

@@ -4,6 +4,13 @@
     
     <div class="dCambiar1">
       <div class="pLR40">
+
+          <div class="row mb10">
+            <div class="col-xs-10 col-sm-10">
+              <a href=""><div class="dIB p510 color666 bGray3 bS1 cP rr5"><img src="resources/img/icons/mE6.png" width="35" /> <span class="vcenter">Llamado de Atención</span></div></a>
+            </div>
+            <div class="col-xs-2 col-sm-2"></div>
+          </div>
                  
           <div class="table-responsive">
               <table class="table table-hover">
@@ -70,7 +77,10 @@
                   <div class="t30 ff2"><img src="resources/img/icons/ubi.png"> 8º - 2B</div>
                   
                   <br><br>
-
+                  <a href="" class="bBasic5 dB rr40 t16 ff2 colorVirde mb10">
+                      Llamado de Atencción
+                      <img src="resources/img/icons/mE6.png" class="iconBrrn" />
+                  </a>
                   <a href="" class="bBasic5 dB rr40 t16 ff2 colorVirde">
                       Crear mensaje
                       <img src="resources/img/icons/mailer.png" class="iconBrrn" />
