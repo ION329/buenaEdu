@@ -14,8 +14,8 @@
         	<div class="tabIn">            	
                 <div class="row" style="margin-right:0;">                    
                     <div class="col-sm-9 col-xs-9 vcenter taR">
-                        <div class="t14 color000 ff2">Andrés Ospina Zea</div>
-                        <div class="t12 color333">Administrador</div>
+                        <div class="t14 color000 ff2">[[Nombre del Usuario]]</div>
+                        <div class="t12 color333">Perfil del Usuario</div>
                     </div><!--
                     --><div class="col-sm-3 col-xs-3 vcenter taR">
                         <img src="resources/img/icons/ex.png" class="exSalir rr5 cP" />

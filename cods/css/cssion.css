@@ -50,30 +50,14 @@ a									{ outline:none !important; }
 .mOpt3										{ background:url(../../resources/img/icons/m3.png) left center no-repeat; min-height:60px; padding-left:70px; }
 .mOpt4										{ background:url(../../resources/img/icons/m4.png) left center no-repeat; min-height:60px; padding-left:70px; }
 
-.rol_admin .menuInter						{ display:none; height:80px; }
-.rol_admin .menuInter a						{ background-color:#d3d3d3; color:#5b5b5b; }
-.rol_admin .menuInter a:hover				{ background-color:#eee; }
-.rol_admin .menuInter a.selli				{ background-color:#bc202d; color:#fff; }
-.rol_admin .menuInter a.selli .mOpt1		{ background:url(../../resources/img/icons/m11.png) left center no-repeat; color:#fff; }
-.rol_admin .menuInter a.selli .mOpt2		{ background:url(../../resources/img/icons/m22.png) left center no-repeat; }
-.rol_admin .menuInter a.selli .mOpt3		{ background:url(../../resources/img/icons/m33.png) left center no-repeat; }
-.rol_admin .menuInter a.selli .mOpt4		{ background:url(../../resources/img/icons/m44.png) left center no-repeat; }
-
-.rol_admin .menuLateral						{ background-color:#384349; }
-.rol_admin.bodBuddy							{ background-color:#384349; }
-.rol_admin .bTipo1							{ background-color:#9a000f; }
-
+.menuLateral								{ background-color:#384349; }
+.bodBuddy									{ background-color:#384349; }
 
 .optMenLat									{ border-bottom:solid 1px #626b70; border-left:solid 10px #384349; height:54px; color:#858585; padding:0; }
 .optMenLat:hover							{ border-left:solid 10px #858585; background-color:#282f33; }
 .optMenLat.selli							{ border-left:solid 10px #48a8b8; color:#fff; }
 
-.bTipoB										{ 
-	background-repeat: no-repeat;
-	background-image:url(../../resources/img/icons/general.png);
-	width: 54px;
-	height: 54px;
- }
+.bTipoB 									{ background-repeat: no-repeat; background-image:url(../../resources/img/icons/general.png); width: 54px; height: 54px; }
 .bTipo-1									{ background-position: left 0; }
 .optMenLat.selli .bTipo-1, 
 .nav-tabs li.active a .bTipo-1				{ background-position: right 0; }

@@ -1,4 +1,4 @@
-<div ng-include src=" 'view/plataforma/general/zona/menuVisor-buscar.php' "></div>
+<div ng-include src=" 'view/plataforma/general/menus/menuVisor-buscar.php' "></div>
 <div class="pAA50"></div>
 
 

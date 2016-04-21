@@ -1,9 +1,4 @@
-<div class="bTipo1 p30">
-    <div class="taC mb20"><img src="resources/img/demo/user2.png" /></div>
-    <div class="colorfff t16 ff2 mb5 taC">Andrés Ospina</div>
-    <div class="color999 taC">COD. 212837846812</div>
-    <div class="color999 taC">Grado 8º - 2</div>
-</div>
+<div ng-include src=" 'view/plataforma/general/menus/usuario.php' "></div>
 
 <a href="#/plataforma/estudiante/perfil">
 	<div class="optMenLat selli">

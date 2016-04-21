@@ -1,4 +1,4 @@
-<div ng-include src=" 'view/plataforma/general/area/headerRegistro.php' "></div>
+<div ng-include src=" 'view/plataforma/general/area/headerUsuarioUnico.php' "></div>
 
 <div class="bodBuddy bGray">
 	<div class="hH" ng-include src=" 'view/plataforma/admin/registro/registro_informacion/registro_informacion.php' "></div>

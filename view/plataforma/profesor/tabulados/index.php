@@ -4,7 +4,7 @@
 
 	<!--
     <div class="menuLateral col-sm-2 col-xs-2 p0">
-        <div ng-include src=" 'view/plataforma/general/zona/menuProfesor.php' "></div>
+        <div ng-include src=" 'view/plataforma/general/menus/menuProfesor.php' "></div>
     </div>
     -->
     <div class="contSingular bGray p20">
