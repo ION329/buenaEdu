@@ -1,4 +1,4 @@
-<div class="bAzulBE colorfff" style="padding:0 20px; position:fixed; width:100%; z-index:10;">
+<div class="bAzulBE colorfff" style="padding:0 20px; position:fixed; width:100%; z-index:101;">
    	<div class="row">
    		<div class="col-sm-4 col-xs-4 vcenter">
         	<div class="tab" style="height:60px;">

@@ -171,6 +171,9 @@ var Banco = {
 			}).when('/plataforma/visor/pae', {
 			templateUrl: 'view/plataforma/visor/pae/index.php',
 			controller: 'control_init'
+		}).when('/plataforma/visor/mensajes', {
+			templateUrl: 'view/plataforma/visor/mensajes/index.php',
+			controller: 'control_init'
 			
 			
 //PLATAFORMA - BUENA EDUCACIÓN [ADMINISTRADOR] [REGISTRO INSTITUCIÓN]

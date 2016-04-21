@@ -66,6 +66,20 @@
     </div>
 </a>
 
+<a href="#/plataforma/visor/mensajes">
+    <div class="optMenLat">
+        <div class="tabAll">
+            <div class="tabIn w60">
+                <div class="bTipo5 bTipoB"></div>
+            </div>
+            <div class="tabIn ff2 t16">
+                Mis Mensajes
+            </div>
+        </div>
+    </div>
+</a>
+
+
 
 <a href="#/plataforma/visor/directorio">
     <div class="optMenLat">
