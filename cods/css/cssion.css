@@ -168,6 +168,16 @@ a									{ outline:none !important; }
 .bloqSelDiaIn.sellei 						{ background-color:#00d139; color:#FFFFFF; }
 .ball 										{ width:12px; height:12px; margin:0 auto; }
 
+.bloqLineTime								{ width:100%; height:auto; overflow:auto; }
+.bloqLineTimeIn								{ border-right:solid 1px #CCC; width:35px; height:250px; }
+.materiaEst 								{ position:absolute; z-index:100; height:250px; background-color:#fff; opacity:0.6; filter:alpha(opacity=60); }
+.materiaEst:hover							{ opacity:.85; filter:  alpha(opacity=85); }
+.materiactual 								{ background-color:#00cc5d; color:#FFFFFF; opacity:.85; filter:  alpha(opacity=85); }
+.materiactual .colorHH 						{ color:#fff !important; }
+.horaIniciaMateria 							{ position:absolute; bottom:-20px; left:5px; }
+.horaFinalMateria 							{ position:absolute; bottom:-20px; right:5px; }
+
+
 /* REGISTRO INSTITUCIÓN */
 .ingresus									{ max-width:400px; margin:0 auto; }
 .limite600									{ max-width:600px; margin:0 auto; }
@@ -277,6 +287,7 @@ a									{ outline:none !important; }
 .p1020								{ padding:10px 20px; }
 .p2010								{ padding:20px 10px; }
 .p510								{ padding:5px 10px; }
+.p310								{ padding:3px 10px; }
 .p20								{ padding:20px; }
 .p30								{ padding:30px; }
 .p50								{ padding:50px; }
@@ -309,13 +320,15 @@ a									{ outline:none !important; }
 .colorVirde							{ color:#30393e; }
 .colorVerde							{ color:#25c90a; }
 .colorVerde2						{ color:#399; }
+.colorVerde3						{ color:#4aed97; }
+.colorVerde4						{ color:#48a8b8; }
 
 .colorOrange						{ color:#F90; }
 .colorRed							{ color:#ed0000; }
 .colorAzulBE						{ color:#0e4492; }
 
-.cPrincipal 						{ color:#ffe42c; }
-.cSecundario 						{ color:#9a000f; }
+.colorPrincipal 						{ color:#ffe42c; }
+.colorSecundario 						{ color:#9a000f; }
 
 
 .m0									{ margin:0; }
@@ -366,13 +379,14 @@ a									{ outline:none !important; }
 .h48 								{ height:48px; }
 .h24 								{ height:24px; }
 .lineTime 							{ width:100%; height:1px; background-color:#FF0004; position:absolute; z-index:200; top:0; }
+.lineTime2 							{ width:1px; height:250px; background-color:#FF0004; position:absolute; z-index:200; top:0; left:0; }
 
 
 /* _______________________________________________________________________________________________________________________________________________ */
 
 /* TRANSITION */
 .btnMunu, .bBasic1, .bBasic2, .bBasic3, .bBasic4, .bBasic5, .bBasic6, .bBasic7, .bBasic8, .bBasic9, .efeHov, .dropdown-toggle > .downSesion, .otraSesion,
-.menuInter a, .navGood .nav-tabs li a, .exSalir, .regTab .nav-tabs li a
+.menuInter a, .navGood .nav-tabs li a, .exSalir, .regTab .nav-tabs li a, .materiaEst
 {
 	-webkit-transition: all 300ms ease-in;
 	-moz-transition: all 300ms ease-in;
