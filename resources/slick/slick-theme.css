@@ -27,9 +27,9 @@
 
     display: block;
 
-    width: 89px;
-    height: 89px;
-    margin-top: -45px;
+    width: 12px;
+    height: 20px;
+    margin-top: -10px;
     padding: 0;
 
     cursor: pointer;
@@ -77,15 +77,15 @@
 
 .slick-prev
 {
-    left: -100px;
-	background:url(../../resources/img/icons/arrSlideL.png);
+    left: -20px;
+	background:url(../../resources/img/icons/arR.png);
 }
 .slick-prev:hover {
-    left: -103px;
+    left: -23px;
 }
 [dir='rtl'] .slick-prev
 {
-    right: -100px;
+    right: -20px;
     left: auto;
 }
 .slick-prev:before
@@ -99,16 +99,16 @@
 
 .slick-next
 {
-    right: -100px;
-	background:url(../../resources/img/icons/arrSlideR.png);
+    right: -20px;
+	background:url(../../resources/img/icons/arL.png);
 }
 .slick-next:hover {
-    right: -103px;
+    right: -23px;
 }
 [dir='rtl'] .slick-next
 {
     right: auto;
-    left: -100px;
+    left: -20px;
 }
 .slick-next:before
 {

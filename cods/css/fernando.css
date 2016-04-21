@@ -12,72 +12,8 @@
 .bFil { background-color:#8a2273; }
 .bFil b { text-align: center; }
 
-.materia_x {
-  text-align: center;
-  margin-top: 130px;
-}
-.materia_con {
-  height: 200px;
-  display: inline-block;
-}
-.materia {
-  margin: 20px;
-  width: 120px;
-  height: 120px;
-  background-color: #d6dadc;
-  border-radius: 50%;
-  vertical-align: text-top;
-}
-.materia[data-progress="50"] .circle .mask .full, .materia[data-progress="50"] .circle .fill {
-  -webkit-transform: rotate(45deg);
-  -ms-transform: rotate(45deg);
-  transform: rotate(45deg);
-}
-.mask {
-  clip: rect(0px, 120px, 120px, 60px);
-}
-.mask, .materia, .fill,  .shadow {
-  width: 120px;
-  height: 120px;
-  position: absolute;
-  border-radius: 50%;
-}
-.shadow {
-  box-shadow: 6px 6px 10px rgba(0, 0, 0, 0.2) inset;
-}
-.fill {
-  clip: rect(0px, 60px, 120px, 0px);
-  background-color: #d10f12;
-}
-.numbers span {
-  width: 57px ;
-  display: inline-block ;
-  vertical-align: top ;
-  text-align: center ;
-  font-weight: 800 ;
-  font-size: 22px ;
-  font-family: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif ;
-  color: #30393e ;
-}
-.inset {
-    width: 90px;
-    height: 90px;
-    position: absolute;
-    margin-left: 15px;
-    margin-top: 15px;
-    background-color: #fbfbfb;
-    border-radius: 50%;
-    box-shadow: 6px 6px 10px rgba(0, 0, 0, 0.2);
-}
-.percentage {
-  height: 22px;
-  width: 57px;
-  overflow: hidden;
-  position: absolute;
-  top: 34px;
-  left: 16.5px;
-  line-height: 1;
-}
+
+
 .fv_pir1 span {
   font-size: 0.5em;
   vertical-align: 20%;

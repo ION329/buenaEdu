@@ -113,7 +113,7 @@
         
         <div class="col-sm-8 col-xs-8">
         
-        	
+        	<div ng-include src=" 'view/plataforma/zoom/calendario.php' "></div>
         	<img src="resources/img/demo/calendario.jpg" style="width:100%" />
             
             <br />

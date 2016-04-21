@@ -1,7 +1,7 @@
 <div ng-include src=" 'view/plataforma/zoom/selector_dia.php' "></div>
 
 
-<div class="contEstandar bWhite p20">
+<div class="contEstandar bWhite p20 mb20">
     <div class=""><b>Martes, Enero 13 / 2016</b></div>
 </div>
 
