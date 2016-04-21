@@ -1,15 +1,14 @@
-<div class="rol_admin hedheader">
+<div class="hedheader bPrincipal">
     
     <div class="col-sm-7 col-xs-7 hH">
     	<div class="tabAll">
-        	<div class="tabIn taC" style="width:120px;">
-            	<img src="resources/img/demo/logo-colegio.png" />
+        	<div class="tabIn taC" style="width:180px;">
+            	<img src="resources/img/important/buena-educacion.png" />
         	</div>
-            <div class="tabIn">
-            	<span class="t16 ff2 dB">
-                    NOMBRE DEL COLEGIO<br />
-                    Título de la Sede
-                </span>
+            <div class="tabIn" style="padding-left:30px;">
+            	<span class="t16 dB ff2">BUENA EDUCACIÓN</span>
+                <span class="t16 dB">Los mejores resultados</span>
+                
         	</div>
         </div>
     </div>
@@ -22,11 +21,11 @@
             	
                 <div class="row">
                     <div class="col-sm-4 col-xs-4 vcenter taR" style="padding:0 0 0 20px;">
-                        <img src="resources/img/demo/user.png" />
+                        <img src="resources/img/icons/usuario.png" />
                     </div><!--
-                    --><div class="col-sm-8 col-xs-8 vcenter" style="padding-left:10px;">
-                        <div class="t14 color000 ff2">Andrés Ospina Zea</div>
-                        <div class="t12 color333">Administrador</div>
+                    --><div class="col-sm-8 col-xs-8 p0 vcenter" style="padding-left:10px;">
+                        <div class="t14 color000 ff2">Nombre y Apellido</div>
+                        <div class="t12 color333">Perfil</div>
                     </div>
                 </div>
             	
@@ -51,12 +50,12 @@
                     	<div role="presentation" class="dropdown-header p30 bWhite">
                         	<div class="row">
                                 <div class="col-sm-4 col-xs-4 vcenter taC">
-                                    <img src="resources/img/demo/user.png" />
+                                    <img src="resources/img/icons/usuario.png" />
                                 </div><!--
                                 --><div class="col-sm-8 col-xs-8 vcenter">
-                                    <div class="t16 color000 ff2 mb5">Andrés Ospina</div>
-                                    <div class="t16 color999">Administrador</div>
-                                    <div class="color999 colorAzul mb10">Colegio San Antonio Maria Claret</div>
+                                    <div class="t16 color000 ff2 mb5">Nombre y apellido</div>
+                                    <div class="t16 color999">Perfil</div>
+                                    <div class="color999 colorAzul mb10">Institución</div>
                                     <a class="btn btn-primary cP bBlue bColBlue">Mi perfil</a>
                                 </div>
                             </div>
@@ -65,12 +64,11 @@
                         	<a role="menuitem" tabindex="-1" href="#">
                             	<div class="row p10">
                                     <div class="col-sm-3 col-xs-3 vcenter taC">
-                                        <img src="resources/img/demo/user.png" />
+                                        <img src="resources/img/icons/usuario.png" />
                                     </div><!--
                                     --><div class="col-sm-7 col-xs-7 vcenter">
-                                        <div class="colorAzul ff2 mb3">Andrés Ospina</div>
-                                        <div class="color999 mb3">Profesor</div>
-                                        <div class="t12 color999 color666 mb10">Colegio San Antonio Maria Claret</div>
+                                        <div class="colorAzul ff2 mb3">Perfil</div>
+                                        <div class="t12 color999 color666 mb10">Institución educativa</div>
                                     </div><!--
                                     --><div class="col-sm-2 col-xs-2 vcenter taR">
                                     	<img src="resources/img/icons/arL.png" />
@@ -78,23 +76,7 @@
                                 </div>
                             </a>
                         </div>
-                        <div role="presentation" class="otraSesion">
-                        	<a role="menuitem" tabindex="-1" href="#">
-                            	<div class="row p10">
-                                    <div class="col-sm-3 col-xs-3 vcenter taC">
-                                        <img src="resources/img/demo/user.png" />
-                                    </div><!--
-                                    --><div class="col-sm-7 col-xs-7 vcenter">
-                                        <div class="colorAzul ff2 mb3">Andrés Ospina</div>
-                                        <div class="color999 mb3">Profesor</div>
-                                        <div class="t12 color999 color666 mb10">Colegio San Antonio Maria Claret</div>
-                                    </div><!--
-                                    --><div class="col-sm-2 col-xs-2 vcenter taR">
-                                    	<img src="resources/img/icons/arL.png" />
-                                    </div>
-                                </div>
-                            </a>
-                        </div>
+
                         <div role="presentation" class="btnsOpc">
                         	<div class="row p10">
                                 <div class="col-sm-6 col-xs-6 vcenter taC">
@@ -293,40 +275,21 @@
                     <button class="btn dropdown-toggle" type="button" style="position:relative;"
                     id="dropNotiff" data-toggle="dropdown">
                         <img src="resources/img/icons/tools.png" />
-                        <div class="notifCant colorfff rr5 t12 ff2">4</div>
                     </button>
                     <ul class="dropdown-menu pull-right" role="menu" aria-labelledby="dropNotiff">
                     	<img src="resources/img/icons/aup.png" class="aup" />
 						<div role="presentation" class="dropdown-header p10 ff2 bWhite">
                         	<span class="t18 color333">Configuraciones</span>
                         </div>
-                        <div role="presentation" class="otraSesion">
-                        	<a role="menuitem" tabindex="-1" class="cP">
+                        <div role="presentation" class="otraSesion" >
+                            <a role="menuitem" tabindex="-1" class="cP" onclick="location.href='#/plataforma/profesor/planestudio'">
                             	<div class="row p10">
                                     <div class="col-sm-3 col-xs-3 vcenter taC">
-                                        <img src="resources/img/icons/adm1.png" />
+                                        <img src="resources/img/icons/adm3.png" />
                                     </div><!--
                                     --><div class="col-sm-7 col-xs-7 vcenter">
-                                        <div class="colorAzul ff2 mb3">Actialización de datos</div>
-                                        <div class="color666 mb3">Marzo 10 de 2016</div>
-                                        <div class="t12 color999 color999 mb10">Última actualización</div>
-                                    </div><!--
-                                    --><div class="col-sm-2 col-xs-2 vcenter taR">
-                                    	<img src="resources/img/icons/arL.png" />
-                                    </div>
-                                </div>
-                            </a>
-                        </div>
-                        <div role="presentation" class="otraSesion">
-                            <a role="menuitem" tabindex="-1" class="cP">
-                            	<div class="row p10">
-                                    <div class="col-sm-3 col-xs-3 vcenter taC">
-                                        <img src="resources/img/icons/notif.png" />
-                                    </div><!--
-                                    --><div class="col-sm-7 col-xs-7 vcenter">
-                                        <div class="colorAzul ff2 mb3">Katherine Perlaza</div>
-                                        <div class="color666 mb3">Te envío un mensaje</div>
-                                        <div class="t12 color999 color999 mb10">Hace 32 minutos</div>
+                                        <div class="colorAzul ff2 mb3">Crear o editar Planes de estudio</div>
+                                        <div class="t12 color999 color999 mb10">Dele control pedagógico a sus materias</div>
                                     </div><!--
                                     --><div class="col-sm-2 col-xs-2 vcenter taR">
                                     	<img src="resources/img/icons/arL.png" />
@@ -338,12 +301,11 @@
                             <a role="menuitem" tabindex="-1" class="cP">
                             	<div class="row p10">
                                     <div class="col-sm-3 col-xs-3 vcenter taC">
-                                        <img src="resources/img/icons/notif.png" />
+                                        <img src="resources/img/icons/adm2.png" />
                                     </div><!--
                                     --><div class="col-sm-7 col-xs-7 vcenter">
-                                        <div class="colorAzul ff2 mb3">Juan Fernando Quintero</div>
-                                        <div class="color999 mb3">Respondío tu mensaje</div>
-                                        <div class="t12 color999 color666 mb10">Hace 2 días</div>
+                                        <div class="colorAzul ff2 mb3">Generar tabulados de notas</div>
+                                        <div class="t12 color999 color666 mb10">Sube las notas de los estudiantes para generar sus boletines</div>
                                     </div><!--
                                     --><div class="col-sm-2 col-xs-2 vcenter taR">
                                     	<img src="resources/img/icons/arL.png" />
