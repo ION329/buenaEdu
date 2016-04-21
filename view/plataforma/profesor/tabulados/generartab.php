@@ -1,4 +1,4 @@
-<div ng-include src=" 'view/plataforma/general/area/headerProfesor.php' "></div>
+<div ng-include src=" 'view/plataforma/general/area/header.php' "></div>
 
 <div class="rol_estudiante bodBuddy" style="background-color: #f7f7f7;">
 
