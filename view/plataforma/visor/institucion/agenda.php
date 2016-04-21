@@ -1,25 +1,6 @@
 <div class="contEstandar bWhite rr5 p10">
-    <div class="titSep2 colorVirde ff2 tU t14" style="margin-top:0;">
-        <div class="col-sm-1 col-xs-1 p0 vcenter">
-            <div class="btn-group" style="width:100px;">
-              <button type="button" class="btn btn-primary bGray btn-bykr rr20" style="border-color:#ccc;"><img src="resources/img/icons/arR.png" width="10" /></button>
-              <button type="button" class="btn btn-primary bGray btn-bykr rr20" style="border-color:#ccc;"><img src="resources/img/icons/arL.png" width="10" /></button>
-            </div>
-        </div><!--
-        --><div class="col-sm-5 col-xs-5 vcenter">
-            <span class="t24 colorVirde ff2">Enero</span>
-            <span class="t24 color666 ff0">2016</span>
-        </div><!--
-        --><div class="navBarLog taC col-sm-6 col-xs-6 vcenter taR">
-        <a class="bBasic3 rr40 color666 bGray3 taC" style="text-transform: capitalize;" href="">
-            Descargar Archivo
-            <img width="23" src="resources/img/icons/notif2.png">
-        </a>
-        </div>
-    </div>
-    
-    <img src="resources/img/icons/calDias.png" class="mb10" />
-    <br /><br />
+    <div ng-include src=" 'view/plataforma/zoom/selector_dia.php' "></div>
+
     
     <div class="colorVirde ff2 t14">
         <div class="col-sm-6 col-xs-6 vcenter">

@@ -6,7 +6,7 @@
         <div ng-include src=" 'view/plataforma/general/menus/menuAcudiente.php' "></div>
     </div>
     <div class="contSingular bGray col-sm-10 col-xs-10 p20">
-        <div ng-include src=" 'view/plataforma/acudiente/mensajes/mensajes.php' "></div>
+        <div ng-include src=" 'view/plataforma/zoom/mensajes.php' "></div>
     </div>
 
 </div>
