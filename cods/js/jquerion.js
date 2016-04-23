@@ -132,7 +132,17 @@ var Ion = {
 			});
 
 
+			$("a.bCleanAll").live('click', function() {
+			    $("label").removeClass("active");
+			});
 
+			$("a.clean-1").live('click', function() {
+			    $("label.indice-1").removeClass("active");
+			});
+
+			$("a.clean-2").live('click', function() {
+			    $("label.indice-2").removeClass("active");
+			});
 
 			$(".bAdd1").live('click', function() {
 				$('.dAdd1').slideDown(500);

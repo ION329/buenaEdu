@@ -118,6 +118,36 @@
                         </tr>
                     </thead>
                     <tbody>
+                        <tr>
+                            <td>123456782</td>
+                            <td><img src="resources/img/demo/user2.png" width="38"> &nbsp;&nbsp; Claudia Melisa Gomez</td>
+                            <td style="padding: 0" class="taC">
+                                <div class="btn-group btn-group-lg asistencia-bykr" data-toggle="buttons">
+                                    <label class="btn btn-primary asistencia-p indice-1" for="test2_t" style="border-radius: 0; padding: 11px 40px" >
+                                        <input type="radio" name="test2" id="test2_t" value="true" class="ff2" /> P
+                                    </label>
+                                    <label class="btn btn-primary asistencia-a indice-1" for="test2_f" style="border-radius: 0; padding: 11px 40px" >
+                                        <input type="radio" name="test2" id="test2_f" value="false" class="ff2" /> A
+                                    </label>
+                                </div>
+                            </td>
+                            <td class="taR"><a class="aSS color333 clean-1" style="text-decoration: underline" href="">Limpiar</a></td>
+                        </tr>
+                        <tr>
+                            <td>123456783</td>
+                            <td><img src="resources/img/demo/user2.png" width="38"> &nbsp;&nbsp; Gabriela Patiño</td>
+                            <td style="padding: 0" class="taC">
+                                <div class="btn-group btn-group-lg asistencia-bykr" data-toggle="buttons">
+                                    <label class="btn btn-primary asistencia-p indice-2" for="test2_t" style="border-radius: 0; padding: 11px 40px" >
+                                        <input type="radio" name="test2" id="test2_t" value="true" class="ff2" /> P
+                                    </label>
+                                    <label class="btn btn-primary asistencia-a indice-2" for="test2_f" style="border-radius: 0; padding: 11px 40px" >
+                                        <input type="radio" name="test2" id="test2_f" value="false" class="ff2" /> A
+                                    </label>
+                                </div>
+                            </td>
+                            <td class="taR"><a class="aSS color333 clean-2" style="text-decoration: underline" href="">Limpiar</a></td>
+                        </tr>
                         <?php for($ii=0; $ii<10; $ii++){ ?>
                         <tr>
                             <td>123456781</td>
@@ -143,8 +173,8 @@
 
                 <div class="row m0">
                     <div class="col-xs-12 col-sm-12 taR ff2">
-                        <a class="bBasic2 rr40 colorfff taC bGray4 bAsistencia" href="">Limpiar Todo</a>
-                        <a class="bBasic2 rr40 colorfff bVerde5 taC bAsistencia" href="">Guardar Asistencia</a>
+                        <a class="bBasic2 rr40 colorfff taC bGray4 bCleanAll" href="">Limpiar Todo</a>
+                        <a class="bBasic2 rr40 colorfff bVerde5 taC" href="">Guardar Asistencia</a>
                     </div>
                 </div>
 
