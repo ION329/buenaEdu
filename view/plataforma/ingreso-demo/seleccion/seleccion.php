@@ -60,14 +60,23 @@
                 <hr />
                 <div class="row">
                 
-                	<div class="col-sm-6 col-xs-6">
+                	<div class="col-sm-4 col-xs-4">
                     	<a href="#/plataforma/oferente" target="_blank">
                             <div class="bGray3 rr40 p10">
                                 <span class="t14 color666 ff2">Oferente</span>
                             </div>
                         </a>
                     </div>
-                    <div class="col-sm-6 col-xs-6">
+
+                    <div class="col-sm-4 col-xs-4">
+                        <a href="#/plataforma/inspector" target="_blank">
+                            <div class="bGray3 rr40 p10">
+                                <span class="t14 color666 ff2">Inspector</span>
+                            </div>
+                        </a>
+                    </div>
+
+                    <div class="col-sm-4 col-xs-4">
                     	<a href="#/plataforma/conductor" target="_blank">
                             <div class="bGray3 rr40 p10">
                                 <span class="t14 color666 ff2">Conductor</span>

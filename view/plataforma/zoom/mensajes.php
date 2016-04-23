@@ -17,13 +17,13 @@
                 </div>
             </div>
         </div><!--
-        --><div class="navBarLog col-sm-6 col-xs-6 vcenter p0 taR dBeycker2">
-            <a href="" class="bBasic3 rr40 ff2 colorfff bVerde taC bBeycker">CREAR NUEVO MENSAJE</a>
+        --><div class="navBarLog col-sm-6 col-xs-6 vcenter p0 taR dMensajes2">
+            <a href="" class="bBasic3 rr40 ff2 colorfff bVerde taC bMensajes">CREAR NUEVO MENSAJE</a>
         </div>
     </div>
 
 
-    <div class="contEstandar bWhite ng-scope dBeycker1">
+    <div class="contEstandar bWhite ng-scope dMensajes1">
         <div class="row m0">
     
             <div class="col-sm-5 col-xs-5 p0">
@@ -137,7 +137,7 @@ Sed egestas, ante et vulputate volutpat, eros pede semper est, vitae luctus metu
         </div>
     </div>
 
-    <div class="row m0 bS1 p20 bWhite dBeycker2 dN" style="margin-bottom:-1px;">
+    <div class="row m0 dMensajes2 dN" style="margin-bottom:-1px;">
         <div class="col-xs-5 col-sm-5 p0">
             <div class="contEstandar">
                 
@@ -255,7 +255,7 @@ Sed egestas, ante et vulputate volutpat, eros pede semper est, vitae luctus metu
                         </div>
                         <div class="tabIn taR">
                             <a class="bBasic2 rr40 colorfff bVerde" style="" href="">Enviar</a>
-                            <a class="bBasic2 rr40 color666 bGray3 taC bBeycker" href="">Cancelar</a>
+                            <a class="bBasic2 rr40 color666 bGray3 taC bMensajes" href="">Cancelar</a>
                         </div>
                     </div>
                 </div>

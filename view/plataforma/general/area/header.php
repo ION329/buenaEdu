@@ -298,7 +298,7 @@
                             </a>
                         </div>
                         <div role="presentation" class="otraSesion leido">
-                            <a role="menuitem" tabindex="-1" class="cP">
+                            <a role="menuitem" tabindex="-1" class="cP" onclick="location.href='#/plataforma/profesor/tabulados'">
                             	<div class="row p10">
                                     <div class="col-sm-3 col-xs-3 vcenter taC">
                                         <img src="resources/img/icons/adm2.png" />
@@ -316,7 +316,7 @@
 
                         <div role="presentation" class="btnsOpc">
                         	<div class="taC p10">
-                            	<a class="cP bBasic2 rr5">Ver todas las notificaciones</a>
+                            	<a class="cP bBasic2 rr5" href="#/plataforma/admin/panel">Panel de control</a>
                             </div>                        
                         </div>
 

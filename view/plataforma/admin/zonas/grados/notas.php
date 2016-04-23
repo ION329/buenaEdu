@@ -40,42 +40,24 @@
 
 	<div class="row m0 mb20 bGray3">
 		<div class="col-xs-8 col-sm-8 bWhite" style="padding-left: 0px; padding-right: 25px">
-			<div class="bGray3 p20">
-				<div class="row m0">
-					<div class="col-xs-6 vcenter">
-						<div class="row m0 mb20">
-							<div class="col-xs-6 vcenter">
-								<span class="t16 ff2 dB taL mb15">Promedio</span>
-							</div><!--
-						--><div class="col-xs-6 vcenter">
-								<div class="colorOrange t40 ff2">3.8</div>
-							</div><!--
-					--></div>
-						
-						<div class="row m0">
-							<div class="col-xs-6">
-								<div class="mb5 color666">Temas Vistos</div>
-							</div><!--
-						--><div class="col-xs-6">
-								<span class="t16 ff2 dB taL mb5">4/5</span>
-							</div><!--
-					--></div>
+			<div id="" class="col-sm-12 col-xs-12">
 
-						<div class="row m0">
-							<div class="col-xs-6">
-								<div class="mb5 color666">Logro evaluados</div>
-							</div><!--
-						--><div class="col-xs-6">
-								<span class="t16 ff2 dB taL">7/8</span>
-							</div>
-						</div>
+                <div class="p20 bGray3">
 
-					</div><!--
-				--><div class="col-xs-6 vcenter">
-						<img src="resources/img/temporal/bolitas.png">
-					</div>
-				</div>
-			</div>
+                    <div class="titSep2 ff2 tU t18 mb20" style="margin-top:0;">
+                        <div class="btn-group" style="width:100px;">
+                            <button type="button" class="btn btn-primary bGray btn-bykr rr20" style="border-color:#ccc;"><img src="resources/img/icons/arR.png" width="10" /></button>
+                            <button type="button" class="btn btn-primary bGray btn-bykr rr20" style="border-color:#ccc;"><img src="resources/img/icons/arL.png" width="10" /></button>
+                        </div>
+                        Promedio por áreas
+                    </div>
+
+                    <div ng-include src=" 'view/plataforma/zoom/circle-progress.php' "></div>
+
+                </div>
+
+
+            </div>
 		</div>
 
 		<div class="col-xs-4 col-sm-4" style="padding-right: 0px">

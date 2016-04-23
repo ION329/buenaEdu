@@ -52,6 +52,16 @@ var Ion = {
 				$('.dActividad2').slideToggle(500);
 		  	});
 
+		  	$(".bAsignaturas").live('click', function() {
+				$('.dAsignaturas1').slideToggle(500);
+				$('.dAsignaturas2').slideToggle(500);
+		  	});
+
+		  	$(".bMensajes").live('click', function() {
+				$('.dMensajes1').slideToggle(500);
+				$('.dMensajes2').slideToggle(500);
+		  	});
+
 			$(".bEmergencia").live('click', function() {
 				$('.dEmergencia1').slideToggle(500);
 				$('.dEmergencia2').slideToggle(500);
@@ -120,8 +130,6 @@ var Ion = {
 				$('.optMenLat').removeClass("selli");
 				$(this).addClass("selli");
 			});
-
-
 
 
 

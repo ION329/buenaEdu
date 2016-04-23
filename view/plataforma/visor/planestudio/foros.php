@@ -32,7 +32,7 @@
 							<a class="accordion-toggle collapsed acordion-bykr acordion-color" data-toggle="collapse" data-parent="#accordion1" href="#onbs1" target="_self">
 								<div class="row m0">
 									<div class="col-xs-1 col-sm-1 vcenter taC">
-										<div class="bVerde p5 rr50">
+										<div class="bVerde rr50" style="padding: 10px 12px">
 											<img src="resources/img/icons/me22.png">
 										</div>
 									</div><!--
@@ -97,7 +97,7 @@
 							<a class="accordion-toggle collapsed acordion-bykr acordion-color" data-toggle="collapse" data-parent="#accordion1" href="#onbs<?= $ee; ?>" target="_self">
 								<div class="row m0">
 									<div class="col-xs-1 col-sm-1 vcenter taC">
-										<div class="bVerde p5 rr50">
+										<div class="bVerde rr50" style="padding: 10px 12px">
 											<img src="resources/img/icons/me22.png">
 										</div>
 									</div><!--

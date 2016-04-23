@@ -258,7 +258,15 @@ var Banco = {
 //////// CREAR CERTIFICADOS
 			}).when('/plataforma/admin/crear-certificados', {
 			templateUrl: 'view/plataforma/admin/certificados/index.php',
-			controller: 'control_init'				
+			controller: 'control_init'	
+//////// CREAR ENCUESTAS
+			}).when('/plataforma/admin/crear-encuestas', {
+			templateUrl: 'view/plataforma/admin/encuestas/index.php',
+			controller: 'control_init'	
+//////// CREAR ACTIVIDAD
+			}).when('/plataforma/admin/crear-actividad', {
+			templateUrl: 'view/plataforma/admin/crearactividad/index.php',
+			controller: 'control_init'									
 
 //PLATAFORMA - BUENA EDUCACIÓN [OFERENTE]	
 //////// PAE
@@ -272,7 +280,13 @@ var Banco = {
 //////// PAE LICITACION
 			}).when('/plataforma/oferente/pae/licitacion', {
 			templateUrl: 'view/plataforma/oferente/pae/licitacion/index.php',
-			controller: 'control_init'				
+			controller: 'control_init'	
+
+//PLATAFORMA - BUENA EDUCACIÓN [INSPECTOR]	
+//////// INGRESO
+			}).when('/plataforma/inspector', {
+			templateUrl: 'view/plataforma/inspector/entrega/index.php',
+			controller: 'control_init'							
 			
 
 //PLATAFORMA - BUENA EDUCACIÓN [CONDUCTOR]	

@@ -1,4 +1,5 @@
-<?php //include "default/modals.php"; ?>
+<?php include "default/modals.php"; ?>
+
 </body>
 </html>
 

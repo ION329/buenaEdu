@@ -9,7 +9,11 @@
         <div ng-include src=" 'view/plataforma/general/menus/menuVisor.php' "></div>
     </div>
     <div class="contSingular bGray col-sm-10 col-xs-10">
-        <div ng-include src=" 'view/plataforma/zoom/mensajes.php' "></div>
+        <div class="contEstandar bWhite rr5" style="margin-top: 20px">
+
+		    <div ng-include src=" 'view/plataforma/zoom/mensajes.php' "></div>
+
+		</div>
         <br /><br /><br />
     </div>
 

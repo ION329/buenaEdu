@@ -109,13 +109,13 @@
 	
 	</div>
 
-	<div class="dCambiar2 taL">
+	<div class="dCambiar2 dN taL">
 		<div class="bS1">
 			<div class="row">
 				<div class="col-xs-12">
 					<div class="row m0 p20" style="border-bottom: 1px solid #ccc">
 						<div class="col-xs-6">
-							<div class="ff2 t30 mb10">Matematicas 8° 1</div>
+							<div class="ff2 t30 mb10"><img class="bGray3 rr50 bCambiar cP" style="padding: 5px 9px" src="resources/img/icons/arR.png"> &nbsp;<span class="vcenter">Matematicas 8° 1</span></div>
 							<div class="mb5">Docente Andrés Ospina</div>
 							<div class="tab">
 								<div class="tabIn">
@@ -200,11 +200,171 @@
 								</div>
 
 								<div class="mb5"><input id="" class="form-control input-bykrF" type="text" name="" placeholder="Titulo del objetivo"></div>
+								<div class="mb10"><textarea id="" class="form-control input-bykrF" style="resize: none; width: 100%" rows="4" name="" placeholder="Descripción"></textarea></div>
+								<div class="mb20"><a class="bBasic2 rr5 bVerde5 taC" href=""><b class="colorfff">Guardar</b></a></div>
+								<div class="p20 mb20 bS1 bGray3">
+									<div class="color66 ff2 mb10">Objetivos Especificos</div>
+									<div class="color666">Realiza operaciones aritmeticas de manera precisa y eficiente. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nemo placeat, enim. At molestias officia, velit perferendis ipsa deserunt. Minima vitae modi mollitia dicta, recusandae, iste labore beatae earum eum ipsa. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsum id nostrum minus eligendi et quam repudiandae in asperiores debitis fugit impedit, ratione doloribus officia magni alias laborum atque quidem beatae!</div>
+								</div>
 							</div>
 		                </div>
 		                <div id="curriculo" class="tab-pane fade">
+		                	<div class="p20">
+		                		<div class="ff2 t24 mb10">Crear Curriculo</div>
+		                		<div class="color666 t16 mb10">Agrega la Unidad con los temas que se verán en el año lectivo</div>
+		                		<div class="row mb10">
+		                			<div class="col-xs-3">
+		                				<select class="selStd5" style="background-color: #fff; border: 2px solid; border-radius: 3px;">
+											<option value="privada">Primer Periodo</option>
+										</select>
+		                			</div>
+		                			<div class="col-xs-9"></div>
+		                		</div>
+		                		<div class="mb10"><a class="bBasic3 rr5 taC bBlue colorfff" href=""><b>Crear Unidad</b></a></div>
+		                		<div class="row">
+		                			<div class="col-xs-9">
+		                				<hr style="border-color: #000; margin-top: 0; margin-bottom: 10px">
+		                				<div class="mb10"><input id="" class="form-control input-bykrF" type="text" name="" placeholder="Unidad 2 Agregue un título a la unidad"></div>
+		                				<div class="mb10">
+		                					<div class="input-group">
+												<span id="basic-addon1" class="input-group-addon" style="padding: 4px; background-color: white">
+													<span style="background-color: #444; border-radius: 5px; color: #fff; padding: 3px 13px" class="ff2">Tema 1</span>
+												</span>
+												<input id="" class="form-control input-bykrF" type="text" name="" style="border-left: 0px solid white !important;">
+											</div>
+		                				</div>
+		                				<div class="row mb10">
+		                					<div class="col-xs-3 vcenter">Intensidad Horaria</div><!--
+		                				--><div class="col-xs-2 vcenter"><input id="" class="form-control input-bykrF" type="text" name=""></div><!--
+		                				--><div class="col-xs-7 vcenter"></div>
+		                				</div>
+		                				<div class="mb10">
+		                					<a href="" class="aSS" style="text-decoration: underline">Agregra Tema</a> &nbsp;&nbsp;&nbsp;&nbsp;
+		                					<a href="" class="aSS" style="text-decoration: underline">Guardar</a>
+		                				</div>
+		                				<hr style="border-color: #000; margin-top: 0; margin-bottom: 10px">
+		                				<div class="mb10">
+		                					
+											<div class="mFuq2">
+						                        <div id="accordion1" class="panel-group">
+						                            <div class="panel panel-default">
+						                                <div class="panel-heading p5">
+						                                    <div class="panel-title">
+						                                        <a class="accordion-toggle collapsed acordion-bykr" data-toggle="collapse" data-parent="#accordion1" href="#onbs1" target="_self">
+						                                            <div class="row m0">
+						                                                <div class="col-xs-10 col-sm-10 vcenter p0">
+						                                                    <div class="bGray5 rr20 dIB color666 p510 t12 ff2">Unidad 1</div>
+						                                                    <strong class="t16 dIB color666">Lenguaje Algebraico</strong>
+						                                                </div><!--
+						                                            --><div class="col-xs-2 col-sm-2 vcenter">
+						                                                   <!--<strong class="t12 dIB taR">6 Temas</strong>-->
+						                                                </div>
+						                                            </div>
+						                                        </a>
+						                                    </div>
+						                                </div>
+
+						                                <div id="onbs1" class="panel-collapse collapse">
+						                                    <!--<div class="panel-body">-->
+						                                        <div class="p10 mb10 row bS1 m0" style="margin-bottom:-1px;">
+						                                            <div class="row m0">
+						                                                <div class="col-sm-1 col-xs-1">
+						                                                    
+						                                                </div>
+						                                                <div class="col-sm-9 col-xs-9">
+						                                                    Suma y resta de monomios
+						                                                </div>
+						                                                <div class="col-sm-2 col-xs-2">
+						                                                    2 Horas
+						                                                </div>
+						                                            </div>
+						                                        </div>
+
+						                                        <div class="p10 mb10 row bS1 m0" style="margin-bottom:-1px;">
+						                                            <div class="row m0">
+						                                                <div class="col-sm-1 col-xs-1">
+						                                                    
+						                                                </div>
+						                                                <div class="col-sm-9 col-xs-9">
+						                                                    Multiplicacion y division de monomios
+						                                                </div>
+						                                                <div class="col-sm-2 col-xs-2">
+						                                                    2 Horas
+						                                                </div>
+						                                            </div>
+						                                        </div>
+
+						                                        <div class="p10 mb10 row bS1 m0" style="margin-bottom:-1px;">
+						                                            <div class="row m0">
+						                                                <div class="col-sm-1 col-xs-1">
+						                                                    
+						                                                </div>
+						                                                <div class="col-sm-9 col-xs-9">
+						                                                    Suma y resta de polinomios
+						                                                </div>
+						                                                <div class="col-sm-2 col-xs-2">
+						                                                    4 Horas
+						                                                </div>
+						                                            </div>
+						                                        </div>
+						                                    <!--</div>-->
+						                                </div>
+
+					                                </div>
+				                                </div>
+			                                </div>
+
+		                				</div>
+
+		                				<div class="mb30">
+		                					<a href="" class="aSS" style="text-decoration: underline">Editar</a>
+		                				</div>
+
+		                				<div class="mb20">
+		                					<a class="bBasic2 rr5 bVerde5 taC" href=""><b class="colorfff">Guardar</b></a>
+		                				</div>
+
+
+		                			</div>
+		                		</div>
+		                	</div>
 		                </div>
 		                <div id="logros" class="tab-pane fade">
+		                	<div class="p20">
+		                		<div class="ff2 t24 mb10">Logros Alcanzados</div>
+								<div class="color666 t16 mb10">Agrega la Unidad con los temas que se verán en el año lectivo</div>
+								<div class="row mb10">
+									<div class="col-xs-3">
+										<select class="selStd5" style="background-color: #fff; border: 2px solid; border-radius: 3px;">
+										<option value="privada">Unidad 1</option>
+										</select>
+									</div>
+									<div class="col-xs-9"></div>
+								</div>
+								<div class="mb10">
+									<a class="bBasic3 rr5 taC bBlue colorfff" href=""><b>Crear Logro</b></a>
+								</div>
+								<div class="row">
+		                			<div class="col-xs-9">
+		                				<hr style="border-color: #000; margin-top: 0; margin-bottom: 10px">
+		                				<div class="mb10 bS1 p5">
+		                					<span style="background-color: #444; border-radius: 5px; color: #fff; padding: 5px 13px" class="ff2 dIB">1.2</span> &nbsp; <span class="color666">Desarrollar habilidades que permitan razonar lógica, crítica y objetivamente</span>
+		                				</div>
+		                				<div class="mb10">
+		                					<a href="" class="aSS" style="text-decoration: underline">Guardar</a> &nbsp;&nbsp;&nbsp;&nbsp;
+		                					<a href="" class="aSS" style="text-decoration: underline">Eliminar</a>
+		                				</div>
+		                				<hr style="border-color: #000; margin-top: 0; margin-bottom: 10px">
+		                				<div class="mb10 p5 bGray3">
+		                					<div class="tab">
+		                						<div class="tabIn"><span style="border-radius: 5px; color: #666; padding: 5px 13px" class="ff2 dIB bGray5">1.1</span> &nbsp; <span class="color666">Permitir la adquisición de independencia en la actividad intelectual</span></div>
+		                						<div class="tabIn"><a href="" class="aSS" style="text-decoration: underline">Guardar</a></div>
+		                					</div>
+											
+		                				</div>
+	                				</div>
+                				</div>
+		                	</div>
 		                </div>
 
 

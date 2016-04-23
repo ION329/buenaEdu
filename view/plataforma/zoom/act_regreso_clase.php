@@ -11,8 +11,8 @@
     </div>
 </div>
 
-<div class="p20">
-    <div class="row bS1 cP p20 bGray dAbre1 dN" style="margin-bottom:-1px;">
+<div class="p1020">
+    <div class="row bS1 cP p20 bGray dAbre1 dN" style="margin-bottom:10px;">
         <div class="col-sm-6 col-xs-6 mb10 p0">
             <div class="col-sm-6 col-xs-6">
                 <label class="ff1 color999">Fecha inicio:</label>

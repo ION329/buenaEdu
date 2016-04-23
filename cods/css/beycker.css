@@ -1,4 +1,4 @@
-.tableHover, .menu-bykr3 a, .menuVisorH {
+.tableHover, .menu-bykr3 a, .menuVisorH, tr.bBeycker, .bykrHober3 {
     transition: all 200ms ease-in 0s;
 }
 
@@ -188,3 +188,27 @@ tr.bBeycker:hover{
 }
 
 .menuVisorH:hover { background-color: #ebebeb; color: #000; font-family: "Open Sans",sans-serif; font-weight: 700; }
+
+.bykrHober3                                 { border: 1px solid transparent; }
+.bykrHober3:hover                           { background-color: #E0ECF8; border: 1px solid #25b76c; }
+
+.menu-bykr li.active > a {
+    background-color: #7f95a3 !important;
+    border-radius: 5px;
+    color: white !important;
+}
+
+.asistencia-bykr label{
+    background-color: #fff !important;
+    color: #888 !important;
+}
+
+.asistencia-bykr label.asistencia-p.active{
+    background-color: #25b76c !important;
+    color: #fff !important;
+}
+
+.asistencia-bykr label.asistencia-a.active{
+    background-color: #FCE434 !important;
+    color: #fff !important;
+}
