@@ -297,14 +297,14 @@
                     </div>
                 </div>
             </div>
-
+            <!--
             <br><br>
 
             <div class="taR">   
                 <a class="bBasic2 rr40 t16 ff2 color999 bGray taC cP">Guardar</a>
                 <a class="bBasic2 rr40 t16 ff2 colorfff bVerde taC bMsiguiente2 cP">Siguiente</a>
             </div>
-
+            -->
         </div>  
 
     </div>

@@ -224,7 +224,8 @@ tr.bBeycker:hover{
 .menuAzul .icon2                        { width: 47px; height: 30px; background-image: url("../../resources/img/icons/iconruta22.png"); }
 .menuAzul .icon3                        { width: 51px; height: 28px; background-image: url("../../resources/img/icons/iconruta33.png"); }
 
-.menuAzul li.active                     { background-color: #fff !important; }
+.menuAzul li.active a                   { background-color: #fff !important; }
+.menuAzul li a:hover                    { background-color: #ddd !important; }
 .menuAzul li.active span                { color: #4d90fe !important; }
 
 .menuAzul li.active .icon1              { width: 49px; height: 28px; background-image: url("../../resources/img/icons/iconruta1.png"); }

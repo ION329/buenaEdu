@@ -18,7 +18,7 @@
 		    			Inspeccion de Entrega
 		    		</div><!--
 		    	--><div class="col-xs-6 col-sm-6 taR vcenter">
-		    			<a class="bBasic2 rr40 colorfff bVerde5 taC" href="#/plataforma/admin/pae/inspector" style="margin: 0px 5px"><b>Crear Inspector</b></a>
+		    			<a class="bBasic2 rr40 colorfff bVerde5 taC" href="#/plataforma/admin/pae/crear-inspector" style="margin: 0px 5px"><b>Crear Inspector</b></a>
 		    		</div>
 
 		    		
@@ -52,11 +52,11 @@
 		                        <tbody class="">
 
 		                            <?php for($aa=0; $aa<2; $aa++){ ?>
-		                            <tr style="background-color: #ddd" class="tableHover cP bCambiar">
+		                            <tr style="background-color: #ddd" class="tableHover cP bCambiar" data-target="#pae-inspeccion" data-toggle="modal">
 		                                <td class="colorAzul ff2">Lunes, 1 de Febrero</td>
 		                                <td class="">Andres Felipe Ospina</td>
 		                            </tr>
-		                            <tr style="background-color: #fff" class="tableHover cP bCambiar">
+		                            <tr style="background-color: #fff" class="tableHover cP bCambiar" data-target="#pae-inspeccion" data-toggle="modal">
 		                                <td class="colorAzul ff2">Martes, 2 de Febrero</td>
 		                                <td class="">Andres Felipe Ospina</td>
 		                            </tr>
@@ -171,14 +171,14 @@
 	        		</div>
 	        	</div>
 	        </div>
-
+			<!--
 	        <br><br>
 
 		    <div class="taR">	
 		        <a class="bBasic2 rr40 t16 ff2 color999 bGray taC cP">Guardar</a>
 		        <a class="bBasic2 rr40 t16 ff2 colorfff bVerde taC bMsiguiente6 cP">Siguiente</a>
 			</div>
-		
+			-->
 		</div>
 
     </div>

@@ -13,10 +13,10 @@
 
 			    	<div class="row">
 			    		<div class="col-xs-6 col-sm-6 t16 ff2 vcenter tU">
-			    			Inspeccion de Entrega
+			    			Inspección de Entrega
 			    		</div><!--
 			    	--><div class="col-xs-6 col-sm-6 taR vcenter">
-			    			<a class="bBasic2 rr40 colorfff bVerde5 taC" href="#/plataforma/inspector/inspeccionentrega" style="margin: 0px 5px"><b>Crear Inspección</b></a>
+			    			<a class="bBasic2 rr40 colorfff bVerde5 taC" href="#/plataforma/inspector/crear-inspeccion" style="margin: 0px 5px"><b>Crear Inspección</b></a>
 			    		</div>
 
 			    		
@@ -50,13 +50,13 @@
 			                        <tbody class="">
 
 			                            <?php for($aa=0; $aa<2; $aa++){ ?>
-			                            <tr style="background-color: #ddd" class="tableHover cP bCambiar">
+			                            <tr style="background-color: #ddd" class="tableHover cP bCambiar" data-toggle="modal" data-target="#pae-inspeccion">
 			                                <td class="colorAzul ff2">Lunes, 1 de Febrero</td>
-			                                <td class="">Andres Felipe Ospina</td>
+			                                <td class="">Andrés Felipe Ospina</td>
 			                            </tr>
-			                            <tr style="background-color: #fff" class="tableHover cP bCambiar">
+			                            <tr style="background-color: #fff" class="tableHover cP bCambiar" data-toggle="modal" data-target="#pae-inspeccion">
 			                                <td class="colorAzul ff2">Martes, 2 de Febrero</td>
-			                                <td class="">Andres Felipe Ospina</td>
+			                                <td class="">Andrés Felipe Ospina</td>
 			                            </tr>
 			                            <?php } ?>
 			                        </tbody>

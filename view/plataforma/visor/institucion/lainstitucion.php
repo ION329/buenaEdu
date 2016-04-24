@@ -85,7 +85,7 @@
         <div class="col-sm-8 col-xs-8">
             <div class="contEstandar rr5 p20 bWhite" style="min-height:220px;">
                 
-                <div class="titSep2 ff2 tU t18" style="margin-top:0;">
+                <div class="titSep2 ff2 tU t18 mb20" style="margin-top:0;">
                     <div class="btn-group" style="width:100px;">
                         <button type="button" class="btn btn-primary bGray btn-bykr rr20" style="border-color:#ccc;"><img src="resources/img/icons/arR.png" width="10" /></button>
                         <button type="button" class="btn btn-primary bGray btn-bykr rr20" style="border-color:#ccc;"><img src="resources/img/icons/arL.png" width="10" /></button>
@@ -142,7 +142,7 @@
 </div>
 -->
 <!-- FINAL CODIGO FERNANDO -->
-<img src="resources/img/temporal/bolitas.png">
+<div ng-include src=" 'view/plataforma/zoom/circle-progress.php' "></div>
 </div>
         </div>
         <div class="col-sm-4 col-xs-4">

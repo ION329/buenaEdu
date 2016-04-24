@@ -56,8 +56,8 @@
                                 <label for="no2"><input type="checkbox" name="hora2" id="no2"> &nbsp;<span class="ff2 t16">NO</span></label>
                             </div>
                         </div><!--
-                    --><div class="col-xs-3 col-sm-3 taR vcenter">
-                            <span>Adjuntar Archivos</span><img class="bGray5 rr5 p5 cP" src="resources/img/icons/clip.png">
+                    --><div class="col-xs-3 col-sm-3 taR vcenter ff2">
+                            <span>Adjuntar Archivos</span>&nbsp;<img class="bGray5 rr5 p5 cP" src="resources/img/icons/clip.png">
                         </div>
                     </div>
 

@@ -200,14 +200,14 @@
                 
 
         	</div>
-
+        <!--
         <br><br>
 
         <div class="taR">   
             <a class="bBasic2 rr40 t16 ff2 color999 bGray taC cP">Guardar</a>
             <a class="bBasic2 rr40 t16 ff2 colorfff bVerde taC cP"  onClick="location.href='#/plataforma/admin/pae'">Finalizar</a>
         </div>
-
+        -->
         </div>
 
     </div>

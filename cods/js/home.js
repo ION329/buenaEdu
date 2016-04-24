@@ -248,7 +248,7 @@ var Banco = {
 			templateUrl: 'view/plataforma/admin/tabuladoscreados/index.php',
 			controller: 'control_init'	
 //////// CREAR INSPECTOR
-			}).when('/plataforma/admin/pae/inspector', {
+			}).when('/plataforma/admin/pae/crear-inspector', {
 			templateUrl: 'view/plataforma/admin/pae/inspector/index.php',
 			controller: 'control_init'	
 //////// CREAR CERTIFICADOS
@@ -292,8 +292,8 @@ var Banco = {
 			templateUrl: 'view/plataforma/inspector/entrega/index.php',
 			controller: 'control_init'	
 //////// CREAR INSPECCION DE ENTREGA
-			}).when('/plataforma/inspector/inspeccionentrega', {
-			templateUrl: 'view/plataforma/inspector/inspeccionentrega/index.php',
+			}).when('/plataforma/inspector/crear-inspeccion', {
+			templateUrl: 'view/plataforma/inspector/crearinspeccion/index.php',
 			controller: 'control_init'										
 			
 

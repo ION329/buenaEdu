@@ -409,11 +409,13 @@
 
                                         <div class="p20">
                                             <div class="tab color333 mb20">
-                                                <div class="tabIn t16">Sube fotos o videos y crea un registro en la entrega de los alimentos</div>
+                                                <div class="tabIn t16">Fotos y videos en la entrega de los alimentos</div>
+                                                <!--
                                                 <div class="tabIn taR ff2">
                                                     <span>Adjuntar Archivos</span>
                                                     <img class="bGray5 rr5 p5 cP" src="resources/img/icons/clip.png">
                                                 </div>
+                                                -->
                                             </div>
 
                                             <div><img src="resources/img/temporal/adjimagenes.png"></div>
@@ -424,10 +426,12 @@
                                         <div class="p20">
                                             <div class="tab color333 ff2 mb20">
                                                 <div class="tabIn tU">Observaciones del día</div>
+                                                <!--
                                                 <div class="tabIn taR">
                                                     <span>Crear Observacion</span>
                                                     <img class="bGray5 rr5 p5 cP" src="resources/img/icons/clip.png">
                                                 </div>
+                                                -->
                                             </div>
 
                                             <div class="p1020 rr5 bAzulL color999 bS1"> Se cambio el jugo de mora por jugo de guayaba </div>
@@ -601,6 +605,130 @@
                         <a class="bBasic2 rr40 bVerde5 taC" href="" style="margin: 0px 5px"><b class="colorfff">Crear Observación</b></a>
                     </div>
                 </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div id="pae-inspeccion" class="modal fade ff5">
+    <div class="modal-dialog modal-lg">
+        <div class="modal-content">
+            <div class="modal-body">
+                <button type="button" class="close" data-dismiss="modal" aria-hidden="true"><strong class="ff5 color666">x</strong></button>
+
+                <div class="bBlue pLR40" style="margin: 0 auto; max-width: 900px; border-radius: 5px 5px 0px 0px">
+                    <div class="limite800 taL" style="padding: 10px 0px">
+                         <img src="resources/img/icons/adm33.png" />
+                         <span class="colorfff t20 vcenter">Jueves, 25 de Febrero de 2016, 8:30 a.m.</span>
+                    </div>
+                </div>
+                <div class="bWhite pLR40 mb20" style="margin: 0 auto; max-width: 900px; border-radius: 0px 0px 5px 5px">
+                    <div class="limite800 taL">
+                        <div class="row m0" style="padding-top:20px">
+                            <div class="col-xs-6 ff2 vcenter">La ración inspeccionada fue</div><!--
+                        --><div class="col-xs-6 vcenter taC">
+                                <img src="resources/img/temporal/loncheras.png" width="120">
+                            </div>
+                        </div>
+                        <hr class="bykrHr">
+                        <div class="row m0 mb20">
+                            <div class="col-xs-6 vcenter">La entrega de los alimentos comenzo a la hora indicada</div><!--
+                        --><div class="col-xs-6 vcenter ff2 t16">
+                                <div class="dIB">
+                                    <span class="ff2 t18">SI</span>
+                                </div> 
+                            </div>
+                        </div>
+
+                        <div class="row m0 bGray3 p10">
+                            <div class="col-xs-3 vcenter">Hora de comienzo</div><!--
+                        --><div class="col-xs-3 vcenter">
+                                <span class="ff2 t18">9:00 a.m.</span>
+                            </div><!--
+                        --><div class="col-xs-6 vcenter"></div>
+                        </div>
+
+                        <hr class="bykrHr">
+
+                        <div class="row m0 mb20">
+                            <div class="col-xs-6 col-sm-6 vcenter">Los alimentos estaban en buen estado</div><!--
+                        --><div class="col-xs-3 col-sm-3 vcenter">
+                                <div class="dIB">
+                                    <span class="ff2 t18">SI</span>
+                                </div>
+                            </div><!--
+                        --><div class="col-xs-3 col-sm-3 taR vcenter">
+                            </div>
+                        </div>
+
+                        <div class="row mb20">
+                            <div class="col-xs-12"><img src="resources/img/temporal/adjimagenes.png"></div>
+                        </div>
+
+                        <div class="row m0 mb20">
+                            <div class="col-xs-6 col-sm-6">El aseo de las cocineras fue ideal</div><!--
+                        --><div class="col-xs-3 col-sm-3">
+                                <div class="dIB">
+                                    <span class="ff2 t18">SI</span>
+                                </div>    
+                            </div><!--
+                        --><div class="col-xs-3 col-sm-3 taR">
+                            </div>
+                        </div>
+                        
+                        <div class="row m0 mb20">
+                            <div class="col-xs-12"><div class="ff2 mb20">OBSERVACIONES</div></div>
+                            <div class="col-xs-12"><div class="p1020 rr5 bAzulL color999 bS1"> Ninguna </div></div>
+                        </div>
+
+                        <hr class="bykrHr">
+
+                        <div class="row m0 mb20">
+                            <div class="col-xs-6 col-sm-6">La entrega se realizo de forma rapida y adecuada</div><!--
+                        --><div class="col-xs-3 col-sm-3">
+                                <div class="dIB">
+                                    <span class="ff2 t18">SI</span>
+                                </div>
+                            </div><!--
+                        --><div class="col-xs-3 col-sm-3 taR">
+                            </div>
+                        </div>
+
+                        <hr class="bykrHr">
+
+                        <div class="row m0 mb20">
+                            <div class="col-xs-6 col-sm-6">Los alimentos fueron consumidos con satisacción por los estudiantes</div><!--
+                        --><div class="col-xs-3 col-sm-3">
+                                <div class="dIB">
+                                    <span class="ff2 t18">SI</span>
+                                </div>
+                            </div><!--
+                        --><div class="col-xs-3 col-sm-3 taR">
+                            </div>
+                        </div>
+
+                        <hr class="bykrHr">
+
+                        <div class="row m0 mb20">
+                            <div class="col-xs-12">
+                                <div class="tab color333 ff2">
+                                    <div class="tabIn tU">Observaciones del día</div>
+                                    <div class="tabIn taR">
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="row m0">
+                            <div class="col-xs-12 col-sm-12 mb20">
+                                <div class="p1020 rr5 bAzulL color999 bS1"> Se cambio el jugo de mora por jugo de guayaba </div>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+
+
             </div>
         </div>
     </div>

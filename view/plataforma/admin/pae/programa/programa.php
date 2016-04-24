@@ -20,7 +20,7 @@
                     <li><a data-toggle="tab" href="#om5" target="_self" class="bMM5">Reporte de alimentos</a></li>
                     <li><a data-toggle="tab" href="#om6" target="_self" class="bMM6">Inspección de entrega</a></li>
                     <li><a data-toggle="tab" href="#om7" target="_self" class="bMM7">Capacitación</a></li>
-                    <li><a data-toggle="tab" href="#om8" target="_self" class="bMM8"><img src="resources/img/temporal/pae/c.jpg" /></a></li>
+                    <li><a data-toggle="tab" href="#om8" target="_self" class="bMM8 taC"><img src="resources/img/temporal/pae/c.jpg" style="max-width: 180px" /></a></li>
                     
                 </ul>
         	</div>
