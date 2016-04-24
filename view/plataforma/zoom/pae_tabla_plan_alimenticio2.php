@@ -33,13 +33,13 @@
                 <tbody class="pTable">
 
                     <?php for($tt=0; $tt<7; $tt++){ ?>
-                    <tr style="background-color: #ddd" class="tableHover cP bCambiar" data-toggle="modal" data-target="#aviso-contrasena"> 
+                    <tr style="background-color: #ddd" class="tableHover cP bCambiar" data-toggle="modal" data-target="#visor-pae"> 
                         <td class="colorAzul ff2">Lunes, 1 de Febrero</td>
                         <td class="ff2 taC">150</td>
                         <td class="ff2 taC">145</td>
                         <td class="taC"> <div class="dIB bOrange colorfff rr50" style="padding: 3px 9px">1</div></td>
                     </tr>
-                    <tr style="background-color: #fff" class="tableHover cP bCambiar">
+                    <tr style="background-color: #fff" class="tableHover cP bCambiar" data-toggle="modal" data-target="#visor-pae">
                         <td class="colorAzul ff2">Martes, 2 de Febrero</td>
                         <td class="ff2 taC">142</td>
                         <td class="ff2 taC">150</td>

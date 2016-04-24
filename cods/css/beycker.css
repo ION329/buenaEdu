@@ -212,3 +212,21 @@ tr.bBeycker:hover{
     background-color: #FCE434 !important;
     color: #fff !important;
 }
+
+.bFondoMapa{
+    background-image: url("../../resources/img/temporal/fondomapa.png");
+    background-position: center center;
+}
+
+.menuAzul                               { background-color: #4d90fe; color: #fff; }
+
+.menuAzul .icon1                        { width: 49px; height: 28px; background-image: url("../../resources/img/icons/iconruta11.png"); }
+.menuAzul .icon2                        { width: 47px; height: 30px; background-image: url("../../resources/img/icons/iconruta22.png"); }
+.menuAzul .icon3                        { width: 51px; height: 28px; background-image: url("../../resources/img/icons/iconruta33.png"); }
+
+.menuAzul li.active                     { background-color: #fff !important; }
+.menuAzul li.active span                { color: #4d90fe !important; }
+
+.menuAzul li.active .icon1              { width: 49px; height: 28px; background-image: url("../../resources/img/icons/iconruta1.png"); }
+.menuAzul li.active .icon2              { width: 47px; height: 30px; background-image: url("../../resources/img/icons/iconruta2.png"); }
+.menuAzul li.active .icon3              { width: 51px; height: 28px; background-image: url("../../resources/img/icons/iconruta3.png"); }

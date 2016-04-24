@@ -161,7 +161,7 @@
                     </div>
 
                     <div class="taR">
-                        <a class="bBasic2 rr40 bGray3 taC" href="" style="margin: 0px 5px"><b class="color666"></b>Cancelar</a>
+                        <a class="bBasic2 rr40 bGray3 taC" href="" style="margin: 0px 5px"><b class="color666">Cancelar</b></a>
                         <a class="bBasic2 rr40 bVerde5 taC bCambiar" href="" style="margin: 0px 5px"><b class="colorfff">Crear Licitación</b></a>
                     </div>
                 </div>

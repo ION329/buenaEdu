@@ -23,7 +23,7 @@
             <div class="col-xs-12 col-sm-12">
             	<div class="row">
             		<div class="col-xs-6 col-sm-6 ff2 t16 tU vcenter">Observaciones del día</div><!--
-            	--><div class="col-xs-6 col-sm-6 taR vcenter"><a class="bBasic2 rr40 bVerde5 taC" href="" style="margin: 0px 5px"><b class="colorfff">Crear Nota</b></a></div>
+            	--><div class="col-xs-6 col-sm-6 taR vcenter"><a class="bBasic2 rr40 bVerde5 taC" href="" data-target="#pae-notas" data-toggle="modal" style="margin: 0px 5px"><b class="colorfff">Crear Nota</b></a></div>
             	</div>
                 
                 <hr class="bykrHr">

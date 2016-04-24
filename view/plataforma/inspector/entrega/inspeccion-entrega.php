@@ -16,7 +16,7 @@
 			    			Inspeccion de Entrega
 			    		</div><!--
 			    	--><div class="col-xs-6 col-sm-6 taR vcenter">
-			    			<a class="bBasic2 rr40 colorfff bVerde5 taC" href="#/plataforma/admin/pae/inspeccionentrega" style="margin: 0px 5px"><b>Crear Inspección</b></a>
+			    			<a class="bBasic2 rr40 colorfff bVerde5 taC" href="#/plataforma/inspector/inspeccionentrega" style="margin: 0px 5px"><b>Crear Inspección</b></a>
 			    		</div>
 
 			    		

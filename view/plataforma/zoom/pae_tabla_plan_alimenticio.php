@@ -39,7 +39,7 @@
                         <td class="ff2 taC"><img src="resources/img/icons/ok.png" /></td>
                         <td class="taC"></td>
                     </tr>
-                    <tr style="background-color: #fff" class="tableHover cP bCambiar">
+                    <tr style="background-color: #fff" class="tableHover cP bCambiar" data-target="#pae-observaciones" data-toggle="modal">
                         <td class="colorAzul ff2">Martes, 2 de Febrero</td>
                         <td class="ff2 taC"><img src="resources/img/icons/ok.png" /></td>
                         <td class="taC"><span class="ff2 t18 bRed colorfff rr50" style="padding: 0px 7px">X</span></td>

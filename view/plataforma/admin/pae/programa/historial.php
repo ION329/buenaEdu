@@ -22,7 +22,7 @@
                                 REGISTRO DE EJECUCCION <span class="ff1 colorVerde5">24%</span>
                             </div><!--
                         --><div class="col-xs-6 col-sm-6 p0 taR vcenter">
-                                <a class="bBasic2 rr40 bVerde5 taC" style="margin: 0px 5px" href=""><b class="colorfff">Nuevo Registro</b></a>
+                                <a class="bBasic2 rr40 bVerde5 taC" style="margin: 0px 5px" data-target="#nuevo-registro" href="" data-toggle="modal"><b class="colorfff">Nuevo Registro</b></a>
                             </div>      
                         </div>
                     </div>
@@ -244,14 +244,14 @@
                                         </thead>
                                         <tbody class="pTable">
                                             <?php for($yy=0; $yy<6; $yy++){ ?>
-                                            <tr class="tableHover cP" style="background-color: #ddd">
+                                            <tr class="tableHover cP" style="background-color: #ddd" data-target="#estudiantes-ausentes" data-toggle="modal">
                                                 <td>2016536622</td>
                                                 <td class="colorAzul ff2">Ospina Perlaza Mariana</td>
                                                 <td class="ff2 taC">1°-A</td>
                                                 <td class="taC"><img src="resources/img/icons/ok.png" /></td>
                                                 <td class="taC"><img src="resources/img/icons/ok.png" /></td>
                                             </tr>
-                                            <tr class="tableHover cP" style="background-color: #fff">
+                                            <tr class="tableHover cP" style="background-color: #fff" data-target="#estudiantes-ausentes" data-toggle="modal">
                                                 <td>2016598277</td>
                                                 <td class="colorAzul ff2">Ospina Sanchez Julieth Andrea</td>
                                                 <td class="ff2 taC">1°-A</td>
@@ -268,6 +268,11 @@
                     <div id="notas" class="tab-pane fade">
                         <div class="row">
                             <div class="col-xs-12 col-sm-12">
+                                <div class="tab">
+                                    <div class="tabIn tU ff2 t16">Observaciones del día</div>
+                                    <div class="tabIn taR"><span class="ff2">Crear Observación</span> &nbsp;<div class="dIB cP" data-toggle="modal" data-target="#pae-notas"><img src="resources/img/icons/mE4.png" /></div></div>
+                                </div>
+                                <hr class="bykrHr">
                                 <div class="p1025 bAzulComida">
                                     <div class="tab">
                                         <div class="tabIn">

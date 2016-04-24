@@ -247,10 +247,6 @@ var Banco = {
 			}).when('/plataforma/admin/tabuladoscreados', {
 			templateUrl: 'view/plataforma/admin/tabuladoscreados/index.php',
 			controller: 'control_init'	
-//////// CREAR INSPECCION DE ENTREGA
-			}).when('/plataforma/admin/pae/inspeccionentrega', {
-			templateUrl: 'view/plataforma/admin/pae/inspeccionentrega/index.php',
-			controller: 'control_init'	
 //////// CREAR INSPECTOR
 			}).when('/plataforma/admin/pae/inspector', {
 			templateUrl: 'view/plataforma/admin/pae/inspector/index.php',
@@ -266,7 +262,15 @@ var Banco = {
 //////// CREAR ACTIVIDAD
 			}).when('/plataforma/admin/crear-actividad', {
 			templateUrl: 'view/plataforma/admin/crearactividad/index.php',
-			controller: 'control_init'									
+			controller: 'control_init'		
+//////// REGISTRO RUTA
+			}).when('/plataforma/admin/rutas/registro-ruta', {
+			templateUrl: 'view/plataforma/admin/rutas/registroruta/index.php',
+			controller: 'control_init'			
+//////// CREANDO RUTA
+			}).when('/plataforma/admin/rutas/creando-ruta', {
+			templateUrl: 'view/plataforma/admin/rutas/creandoruta/index.php',
+			controller: 'control_init'												
 
 //PLATAFORMA - BUENA EDUCACIÓN [OFERENTE]	
 //////// PAE
@@ -286,7 +290,11 @@ var Banco = {
 //////// INGRESO
 			}).when('/plataforma/inspector', {
 			templateUrl: 'view/plataforma/inspector/entrega/index.php',
-			controller: 'control_init'							
+			controller: 'control_init'	
+//////// CREAR INSPECCION DE ENTREGA
+			}).when('/plataforma/inspector/inspeccionentrega', {
+			templateUrl: 'view/plataforma/inspector/inspeccionentrega/index.php',
+			controller: 'control_init'										
 			
 
 //PLATAFORMA - BUENA EDUCACIÓN [CONDUCTOR]	
