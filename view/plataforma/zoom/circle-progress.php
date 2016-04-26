@@ -46,9 +46,11 @@ $('.responsive').slick({
   	<?php for($hh=0; $hh<6; $hh++){ ?>
           <div class="taC">
   			
-              <?php $varRandPor = rand(1,9).rand(0,9); ?>
+              <?php
+              	$varRandPor = rand(1,9).rand(0,9);
+			  ?>
               <div class="c100 green p<?= $varRandPor ?> mb10">
-                  <span><?= $varRandPor ?>%</span>
+                  <span><?= rand(1,4).".".rand(0,9) ?></span>
                   <div class="slice">
                       <div class="bar"></div>
                       <div class="fill"></div>

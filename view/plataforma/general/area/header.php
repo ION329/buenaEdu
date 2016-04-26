@@ -3,12 +3,14 @@
     <div class="col-sm-7 col-xs-7 hH">
     	<div class="tabAll">
         	<div class="tabIn taC" style="width:180px;">
-            	<img src="resources/img/important/buena-educacion.png" />
+            	<!--<img src="resources/img/important/buena-educacion.png" />-->
+                <img src="resources/img/demo/logo-colegio-off.png" />
         	</div>
             <div class="tabIn" style="padding-left:30px;">
-            	<span class="t16 dB ff2">BUENA EDUCACIÓN</span>
-                <span class="t16 dB">Los mejores resultados</span>
-                
+            	<!--<span class="t16 dB ff2">BUENA EDUCACIÓN</span>
+                <span class="t16 dB">Los mejores resultados</span>-->
+                <span class="t16 dB ff2">INSTITUCIÓN EDUCATIVA PRIMITIVO CRESPO</span>
+                <span class="t16 dB">Riofrío, Valle</span>
         	</div>
         </div>
     </div>
