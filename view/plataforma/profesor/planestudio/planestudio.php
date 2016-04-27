@@ -1,121 +1,17 @@
-<div class="taC color333 limite1000">
+<div class="color333 limite1000">
 
-	<div class="dCambiar1">
-		<div class="ff2 t40 mb10">Plan de Estudios 2016 - 2017</div>
-		<div class="t16 color666 ff2 mb10">Bienvenido Andres Ospina</div>
-		<div class="color666 mb20">Asigna o edita actividades y objetivos para generar un plan de estudio detallado, <br> con el que abordaremos durante todo el año este proceso educativo</div>
-		
-		<div class="taL">
-			<div class="ff2 tU">Materias Asignadas (3)</div>
-			<hr class="bykrHr" style="margin: 10px 0px">	
-			<div class="row mb20">
-				<div class="col-xs-6">
-					<div class="bS1 bWhite rr10 cP bCambiar">
-		                <div class="p20">
-		                                     
-		                    <div class="col-sm-8 col-xs-8 vcenter">
-		                        <div class="ff2 mb10">
-		                            <div class="dIB bOrange p10 rr50"></div> &nbsp;
-		                            <strong class="t24">Matemáticas</strong>
-		                        </div>
-		                        <div class="dB">
-		                            <img src="resources/img/icons/tarde.png" style="margin:-3px 10px 0 3px" />
-		                            <div class="dIB">
-		                                <span class="ff2">Martes</span> 7:00 am - 8:30 am
-		                            </div>
-		                        </div>
-		                    </div><!--
-		                    --><div class="col-sm-4 col-xs-4 vcenter taR">
-		                        <strong class="t50">8º 1</strong>
-		                    </div>
-		                    <br /><br />
-		                    <div class="color999 p20" style="min-height:80px">
-		                        Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat.
-		                        Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus.
-		                    </div>
-		                </div>
-		                <div class="bOrange p20 rr10D	">
-		                    <div class="col-sm-8 col-xs-8 vcenter">
-		                        <strong class="t16">5 unidades</strong>
-		                    </div><!--
-		                    --><div class="col-sm-4 col-xs-4 vcenter taR">
-		                        <strong class="t16">16 temas</strong>
-		                    </div>
-		                </div>
-		                
-		            </div>
-				</div>
 
-				<div class="col-xs-6">
-					<div class="bS1 bWhite rr10 cP">
-		                <div class="p20">
-		                                     
-		                    <div class="col-sm-8 col-xs-8 vcenter">
-		                        <div class="ff2 mb10">
-		                            <div class="dIB bOrange p10 rr50"></div> &nbsp;
-		                            <strong class="t24">Matemáticas</strong>
-		                        </div>
-		                        <div class="dB">
-		                            <img src="resources/img/icons/tarde.png" style="margin:-3px 10px 0 3px" />
-		                            <div class="dIB">
-		                                <span class="ff2">Martes</span> 7:00 am - 8:30 am
-		                            </div>
-		                        </div>
-		                    </div><!--
-		                    --><div class="col-sm-4 col-xs-4 vcenter taR">
-		                        <strong class="t50">7°</strong>
-		                    </div>
-		                    <br /><br />
-		                    <div class="color999 p20 ff2 taC color333" style="min-height:152px">
-		                        No haz ingresado el plan de estudio
-		                    </div>
-		                </div>
-		                
-		            </div>
-				</div>
-
-			</div>
-
-			<div class="row">
-				<div class="col-xs-6">
-					<div class="bS1 bWhite rr10 cP">
-		                <div class="p20">
-		                                     
-		                    <div class="col-sm-8 col-xs-8 vcenter">
-		                        <div class="ff2 mb10">
-		                            <div class="dIB bOrange p10 rr50"></div> &nbsp;
-		                            <strong class="t24">Matemáticas</strong>
-		                        </div>
-		                        <div class="dB">
-		                            <img src="resources/img/icons/tarde.png" style="margin:-3px 10px 0 3px" />
-		                            <div class="dIB">
-		                                <span class="ff2">Martes</span> 7:00 am - 8:30 am
-		                            </div>
-		                        </div>
-		                    </div><!--
-		                    --><div class="col-sm-4 col-xs-4 vcenter taR">
-		                        <strong class="t50">7°</strong>
-		                    </div>
-		                    <br /><br />
-		                    <div class="color999 p20 ff2 taC color333" style="min-height:152px">
-		                        No haz ingresado el plan de estudio
-		                    </div>
-		                </div>
-		                
-		            </div>
-				</div>
-			</div>
+		<div class="taC">
+			<div class="ff2 t40 mb10">Plan de Estudios 2016 - 2017</div>
+			<div class="t16 color666 ff2 mb10">Bienvenido Andres Ospina</div>
+			<div class="color666 mb20">Asigna o edita actividades y objetivos para generar un plan de estudio detallado, <br> con el que abordaremos durante todo el año este proceso educativo</div>
 		</div>
-	
-	</div>
-
-	<div class="dCambiar2 dN taL">
 		<div class="bS1">
 			<div class="row">
 				<div class="col-xs-12">
 					<div class="row m0 p20" style="border-bottom: 1px solid #ccc">
 						<div class="col-xs-6">
-							<div class="ff2 t30 mb10"><img class="bGray3 rr50 bCambiar cP" style="padding: 5px 9px" src="resources/img/icons/arR.png"> &nbsp;<span class="vcenter">Matematicas 8° 1</span></div>
+							<div class="ff2 t30 mb10"><a href="#/plataforma/profesor/asignaturas"><img class="bGray3 rr50 cP" style="padding: 5px 9px" src="resources/img/icons/arR.png"></a> &nbsp;<span class="vcenter">Matematicas 8° 1</span></div>
 							<div class="mb5">Docente Andrés Ospina</div>
 							<div class="tab">
 								<div class="tabIn">
@@ -153,7 +49,7 @@
 	                        
 	                        <li><a data-toggle="tab" href="#objetivos" target="_self" class="colorVerde2 pMenu">Objetivos</a></li>
 	                        
-	                        <li><a data-toggle="tab" href="#curriculo" target="_self" class="colorVerde2 pMenu">Curriculo</a></li>
+	                        <li><a data-toggle="tab" href="#curriculo" target="_self" class="colorVerde2 pMenu">Currículo</a></li>
 
 	                        <li><a data-toggle="tab" href="#logros" target="_self" class="colorVerde2 pMenu">Logros Alcanzados</a></li>   
 	                        
@@ -210,11 +106,11 @@
 		                </div>
 		                <div id="curriculo" class="tab-pane fade">
 		                	<div class="p20">
-		                		<div class="ff2 t24 mb10">Crear Curriculo</div>
+		                		<div class="ff2 t24 mb10">Crear Currículo</div>
 		                		<div class="color666 t16 mb10">Agrega la Unidad con los temas que se verán en el año lectivo</div>
 		                		<div class="row mb10">
 		                			<div class="col-xs-3">
-		                				<select class="selStd5" style="background-color: #fff; border: 2px solid; border-radius: 3px;">
+		                				<select class="selStd5" style="background-color: #fff; border-radius: 3px;">
 											<option value="privada">Primer Periodo</option>
 										</select>
 		                			</div>
@@ -375,7 +271,6 @@
                 
             </div>
 		</div>
-	</div>
 	
 
 </div>
