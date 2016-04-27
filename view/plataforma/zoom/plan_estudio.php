@@ -12,17 +12,20 @@
                             <div class="dIB bOrange p10 rr50"></div> &nbsp;
                             <strong class="t24">Matemáticas</strong>
                         </div>
-                        <div class="dB">
+                        <!--
+                        <div class="mb10">
                             <img src="resources/img/icons/tarde.png" style="margin:-3px 10px 0 3px" />
                             <div class="dIB">
                                 <span class="ff2">Martes</span> 7:00 am - 8:30 am
                             </div>
                         </div>
+                        -->
+                        <div><b>Grados asignados:</b> A - B - C</div>
                         
                          
                     </div><!--
                     --><div class="col-sm-4 col-xs-4 vcenter taR">
-                        <strong class="t50">8º <?= $ww+1; ?></strong>
+                        <strong class="t50"><?= $ww+5; ?>°</strong>
                     </div>
                     <br /><br />
                     <div class="color999 p20" style="min-height:80px">
