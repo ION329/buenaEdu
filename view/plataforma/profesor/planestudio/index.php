@@ -2,7 +2,7 @@
 
 <div class="rol_estudiante bodBuddy">
 
-    <div class="contSingular bGray p20">
+    <div class="contSingular bGray pAA40">
         <div ng-include src=" 'view/plataforma/profesor/planestudio/planestudio.php' "></div>
     </div>
 
