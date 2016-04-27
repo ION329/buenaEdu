@@ -23,7 +23,7 @@
 		<div class="row">
 			<div class="col-xs-12 col-sm-12">
 				<div class="table-responsive">
-					<table class="table">
+					<table class="table bpointBlue">
 						<thead class="liSemana">
 							<tr class="color666 tU">
 								<th><span style="color: transparent">Dia semana</span></th>
@@ -37,26 +37,26 @@
 								<td class="ff2 t16 bordeTabla">Lunes</td>
 								<td class="bordeTabla">
 									<ul class="lH13">
-										<li>Milo / Jugo de Naramja</li>
-										<li>Pan tostado con Mantequilla</li>
-										<li>Fruta</li>
+										<li><span class="color333">Milo / Jugo de Naranja</span></li>
+										<li><span class="color333">Pan tostado con Mantequilla</span></li>
+										<li><span class="color333">Fruta</span></li>
 									</ul>
 								</td>
 								<td class="bordeTabla">
 									<ul class="lH13">
-										<li>Crema de Zanahoria</li>
-										<li>Pollo en salsa de Mostaza</li>
-										<li>Arroz Blanco</li>
-										<li>Ensalada</li>
-										<li>Jugo de mora</li>
+										<li><span class="color333">Crema de Zanahoria</span></li>
+										<li><span class="color333">Pollo en salsa de Mostaza</span></li>
+										<li><span class="color333">Arroz Blanco</span></li>
+										<li><span class="color333">Ensalada</span></li>
+										<li><span class="color333">Jugo de mora</span></li>
 									</ul>
 								</td>
 								<td class="">
 									<ul class="lH13">
-										<li><b>762,2</b> Kcal</li>
-										<li><b>28,9 g</b> Proteinas</li>
-										<li><b>20,7 g</b> Lipidos</li>
-										<li><b>96,8 g</b> Glúcidos</li>
+										<li><span class="color333"><b>762,2</b> Kcal</span></li>
+										<li><span class="color333"><b>28,9 g</b> Proteinas</span></li>
+										<li><span class="color333"><b>20,7 g</b> Lipidos</span></li>
+										<li><span class="color333"><b>96,8 g</b> Glúcidos</span></li>
 									</ul>
 								</td>
 							</tr>
@@ -65,26 +65,26 @@
 								<td class="ff2 t16 bordeTabla">Martes</td>
 								<td class="bordeTabla">
 									<ul class="lH13">
-										<li>Milo / Jugo de Naramja</li>
-										<li>Pan tostado con Mantequilla</li>
-										<li>Fruta</li>
+										<li><span class="color333">Milo / Jugo de Naramja</span></li>
+										<li><span class="color333">Pan tostado con Mantequilla</span></li>
+										<li><span class="color333">Fruta</span></li>
 									</ul>
 								</td>
 								<td class="bordeTabla">
 									<ul class="lH13">
-										<li>Crema de Zanahoria</li>
-										<li>Pollo en salsa de Mostaza</li>
-										<li>Arroz Blanco</li>
-										<li>Ensalada</li>
-										<li>Jugo de mora</li>
+										<li><span class="color333">Crema de Zanahoria</span></li>
+										<li><span class="color333">Pollo en salsa de Mostaza</span></li>
+										<li><span class="color333">Arroz Blanco</span></li>
+										<li><span class="color333">Ensalada</span></li>
+										<li><span class="color333">Jugo de mora</span></li>
 									</ul>
 								</td>
 								<td class="">
 									<ul class="lH13">
-										<li><b>762,2</b> Kcal</li>
-										<li><b>28,9 g</b> Proteinas</li>
-										<li><b>20,7 g</b> Lipidos</li>
-										<li><b>96,8 g</b> Glúcidos</li>
+										<li><span class="color333"><b>762,2</b> Kcal</span></li>
+										<li><span class="color333"><b>28,9 g</b> Proteinas</span></li>
+										<li><span class="color333"><b>20,7 g</b> Lipidos</span></li>
+										<li><span class="color333"><b>96,8 g</b> Glúcidos</span></li>
 									</ul>
 								</td>
 							</tr>
@@ -93,26 +93,26 @@
 								<td class="ff2 t16 bordeTabla">Miercoles</td>
 								<td class="bordeTabla">
 									<ul class="lH13">
-										<li>Milo / Jugo de Naramja</li>
-										<li>Pan tostado con Mantequilla</li>
-										<li>Fruta</li>
+										<li><span class="color333">Milo / Jugo de Naramja</span></li>
+										<li><span class="color333">Pan tostado con Mantequilla</span></li>
+										<li><span class="color333">Fruta</span></li>
 									</ul>
 								</td>
 								<td class="bordeTabla">
 									<ul class="lH13">
-										<li>Crema de Zanahoria</li>
-										<li>Pollo en salsa de Mostaza</li>
-										<li>Arroz Blanco</li>
-										<li>Ensalada</li>
-										<li>Jugo de mora</li>
+										<li><span class="color333">Crema de Zanahoria</span></li>
+										<li><span class="color333">Pollo en salsa de Mostaza</span></li>
+										<li><span class="color333">Arroz Blanco</span></li>
+										<li><span class="color333">Ensalada</span></li>
+										<li><span class="color333">Jugo de mora</span></li>
 									</ul>
 								</td>
 								<td class="">
 									<ul class="lH13">
-										<li><b>762,2</b> Kcal</li>
-										<li><b>28,9 g</b> Proteinas</li>
-										<li><b>20,7 g</b> Lipidos</li>
-										<li><b>96,8 g</b> Glúcidos</li>
+										<li><span class="color333"><b>762,2</b> Kcal</span></li>
+										<li><span class="color333"><b>28,9 g</b> Proteinas</span></li>
+										<li><span class="color333"><b>20,7 g</b> Lipidos</span></li>
+										<li><span class="color333"><b>96,8 g</b> Glúcidos</span></li>
 									</ul>
 								</td>
 							</tr>
@@ -121,26 +121,26 @@
 								<td class="ff2 t16 bordeTabla">Jueves</td>
 								<td class="bordeTabla">
 									<ul class="lH13">
-										<li>Milo / Jugo de Naramja</li>
-										<li>Pan tostado con Mantequilla</li>
-										<li>Fruta</li>
+										<li><span class="color333">Milo / Jugo de Naramja</span></li>
+										<li><span class="color333">Pan tostado con Mantequilla</span></li>
+										<li><span class="color333">Fruta</span></li>
 									</ul>
 								</td>
 								<td class="bordeTabla">
 									<ul class="lH13">
-										<li>Crema de Zanahoria</li>
-										<li>Pollo en salsa de Mostaza</li>
-										<li>Arroz Blanco</li>
-										<li>Ensalada</li>
-										<li>Jugo de mora</li>
+										<li><span class="color333">Crema de Zanahoria</span></li>
+										<li><span class="color333">Pollo en salsa de Mostaza</span></li>
+										<li><span class="color333">Arroz Blanco</span></li>
+										<li><span class="color333">Ensalada</span></li>
+										<li><span class="color333">Jugo de mora</span></li>
 									</ul>
 								</td>
 								<td class="">
 									<ul class="lH13">
-										<li><b>762,2</b> Kcal</li>
-										<li><b>28,9 g</b> Proteinas</li>
-										<li><b>20,7 g</b> Lipidos</li>
-										<li><b>96,8 g</b> Glúcidos</li>
+										<li><span class="color333"><b>762,2</b> Kcal</span></li>
+										<li><span class="color333"><b>28,9 g</b> Proteinas</span></li>
+										<li><span class="color333"><b>20,7 g</b> Lipidos</span></li>
+										<li><span class="color333"><b>96,8 g</b> Glúcidos</span></li>
 									</ul>
 								</td>
 							</tr>
@@ -149,26 +149,26 @@
 								<td class="ff2 t16 bordeTabla">Viernes</td>
 								<td class="bordeTabla">
 									<ul class="lH13">
-										<li>Milo / Jugo de Naramja</li>
-										<li>Pan tostado con Mantequilla</li>
-										<li>Fruta</li>
+										<li><span class="color333">Milo / Jugo de Naranja</span></li>
+										<li><span class="color333">Pan tostado con Mantequilla</span></li>
+										<li><span class="color333">Fruta</span></li>
 									</ul>
 								</td>
 								<td class="bordeTabla">
 									<ul class="lH13">
-										<li>Crema de Zanahoria</li>
-										<li>Pollo en salsa de Mostaza</li>
-										<li>Arroz Blanco</li>
-										<li>Ensalada</li>
-										<li>Jugo de mora</li>
+										<li><span class="color333">Crema de Zanahoria</span></li>
+										<li><span class="color333">Pollo en salsa de Mostaza</span></li>
+										<li><span class="color333">Arroz Blanco</span></li>
+										<li><span class="color333">Ensalada</span></li>
+										<li><span class="color333">Jugo de mora</span></li>
 									</ul>
 								</td>
 								<td class="">
 									<ul class="lH13">
-										<li><b>762,2</b> Kcal</li>
-										<li><b>28,9 g</b> Proteinas</li>
-										<li><b>20,7 g</b> Lipidos</li>
-										<li><b>96,8 g</b> Glúcidos</li>
+										<li><span class="color333"><b>762,2</b> Kcal</span></li>
+										<li><span class="color333"><b>28,9 g</b> Proteinas</span></li>
+										<li><span class="color333"><b>20,7 g</b> Lipidos</span></li>
+										<li><span class="color333"><b>96,8 g</b> Glúcidos</span></li>
 									</ul>
 								</td>
 							</tr>

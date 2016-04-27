@@ -170,7 +170,7 @@
             <div class="col-sm-2 col-xs-2 colorVirde vcenter">Enero 11 2016</div><!--
             --><div class="col-sm-2 col-xs-2 colorVirde vcenter">Justificada</div><!--
             --><div class="col-sm-5 col-xs-5 colorVirde vcenter ff2">Incapacidad Médica enviada por el acudiente</div><!--
-            --><div class="col-sm-3 col-xs-3 colorVirde taR vcenter"><a href="" class="bBasic2 rr40 taC dB">Archivo adjunto</a></div>
+            --><div class="col-sm-3 col-xs-3 colorVirde taR vcenter"><a href="" class="bBasic2 rr40 taC dB bVerde colorfff" data-toggle="modal" data-target="#justificar-ausencia">Justiicar asistencia</a></div>
         </div>
         <div class="row p10 m0 mb3 bGray">
             <div class="col-sm-2 col-xs-2 colorVirde vcenter">Noviembre 29 2015</div><!--

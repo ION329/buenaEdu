@@ -15,7 +15,7 @@
                     <div class="col-xs-12">
                         <div class="mb10 color999 t16">Asignatura</div>
                         <div>
-                            <select class="selSt rr5 input-lg ff2">
+                            <select class="selSt rr5">
                                 <option>Matemáticas</option>
                             </select>
                         </div>

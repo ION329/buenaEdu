@@ -62,5 +62,5 @@
     <span class="t14 colorVirde ff1 dB mb15 taL">Multiplicación y división de polinomios</span>
     <!-- El boton Plan de estudio va en Visor / el perfil de Personal Academico y el de Gestinar Grado en Visor / en Horario de Plan de Estudio -->
     <a class="bBasic5 rr40 t16 ff2 colorfff bVerde5 taC" href="" style="padding: 10px 20px">Gestionar Grado</a>
-    <a class="bBasic5 rr40 t16 ff2 colorfff bVerde5 taC" href="" style="padding: 10px 20px">Plan de Estudio</a>
+    <!--<a class="bBasic5 rr40 t16 ff2 colorfff bVerde5 taC" href="" style="padding: 10px 20px">Plan de Estudio</a>-->
 </div>

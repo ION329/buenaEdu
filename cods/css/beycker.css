@@ -210,8 +210,13 @@ tr.bBeycker:hover{
     color: #fff !important;
 }
 
+.asistencia-bykr label.asistencia-t.active{
+    background-color: #FF8000 !important;
+    color: #fff !important;
+}
+
 .asistencia-bykr label.asistencia-a.active{
-    background-color: #FCE434 !important;
+    background-color: #DF0101 !important;
     color: #fff !important;
 }
 
@@ -285,4 +290,8 @@ li.active .iconrecorrido3               { width: 42px; height: 24px; background-
     background-image: url("../../resources/img/temporal/mapa-recorrido.png");
     background-position: right center;
     height: 557px;
+}
+
+.bpointBlue li {
+    color: #58D3F7;
 }

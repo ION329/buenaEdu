@@ -16,10 +16,12 @@
                 <div class="t18 mb5 color999">Licenciada de Matemáticas, egresada de la Universidad del Valle</div>
                 
                 <br><br>
+                <!--
                 <a href="" class="bBasic4 dB rr40 t16 ff2 colorVirde mb10">
                     Llamar al profesor
                     <img src="resources/img/icons/phone.png" class="iconBrrn" />
                 </a>
+                -->
                 <a href="" class="bBasic5 dB rr40 t16 ff2 colorVirde mb10">
                     Crear mensaje
                     <img src="resources/img/icons/mailer.png" class="iconBrrn" />

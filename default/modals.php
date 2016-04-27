@@ -126,6 +126,9 @@
                                     <label class="btn btn-primary asistencia-p indice-1" for="test2_t" style="border-radius: 0; padding: 11px 40px" >
                                         <input type="radio" name="test2" id="test2_t" value="true" class="ff2" /> P
                                     </label>
+                                    <label class="btn btn-primary asistencia-t indice-1" for="test2_t" style="border-radius: 0; padding: 11px 40px" >
+                                        <input type="radio" name="test2" id="test2_t" value="true" class="ff2" /> T
+                                    </label>
                                     <label class="btn btn-primary asistencia-a indice-1" for="test2_f" style="border-radius: 0; padding: 11px 40px" >
                                         <input type="radio" name="test2" id="test2_f" value="false" class="ff2" /> A
                                     </label>
@@ -140,6 +143,9 @@
                                 <div class="btn-group btn-group-lg asistencia-bykr" data-toggle="buttons">
                                     <label class="btn btn-primary asistencia-p indice-2" for="test2_t" style="border-radius: 0; padding: 11px 40px" >
                                         <input type="radio" name="test2" id="test2_t" value="true" class="ff2" /> P
+                                    </label>
+                                    <label class="btn btn-primary asistencia-t indice-2" for="test2_t" style="border-radius: 0; padding: 11px 40px" >
+                                        <input type="radio" name="test2" id="test2_t" value="true" class="ff2" /> T
                                     </label>
                                     <label class="btn btn-primary asistencia-a indice-2" for="test2_f" style="border-radius: 0; padding: 11px 40px" >
                                         <input type="radio" name="test2" id="test2_f" value="false" class="ff2" /> A
@@ -157,6 +163,9 @@
                                 <div class="btn-group btn-group-lg asistencia-bykr" data-toggle="buttons">
                                     <label class="btn btn-primary asistencia-p" for="test2_t" style="border-radius: 0; padding: 11px 40px" >
                                         <input type="radio" name="test2" id="test2_t" value="true" class="ff2" /> P
+                                    </label>
+                                    <label class="btn btn-primary asistencia-t" for="test2_t" style="border-radius: 0; padding: 11px 40px" >
+                                        <input type="radio" name="test2" id="test2_t" value="true" class="ff2" /> T
                                     </label>
                                     <label class="btn btn-primary asistencia-a" for="test2_f" style="border-radius: 0; padding: 11px 40px" >
                                         <input type="radio" name="test2" id="test2_f" value="false" class="ff2" /> A
@@ -298,6 +307,46 @@
                     --><div class="col-xs-2 taC vcenter"><img src="resources/img/icons/ok.png"></div>
                     </div>
                     <div class="mb10"><img src="resources/img/icons/mE4.png"> &nbsp;<span class="aSS colorVerde2 cP bAbrir1" style="text-decoration: underline;">Crear Nota</span></div>
+                    <div class="dAbre1 dN">
+                        <div class="mb10"><textarea id="" class="form-control input-bykrF" style="resize: none; width: 100%" rows="6" name=""></textarea></div>
+                    </div>
+                    <div class="mb20"><label for="chk-ausentes"><input type="checkbox" name="" id="chk-ausentes"> &nbsp;<span class="ff1">Notificar al acudientes</span></label></div>
+                    <div class="taC">
+                        <a class="bBasic2 rr40 bGray3 taC" style="margin: 0px 5px" href=""><b class="color666">Cancelar</b></a>
+                        <a class="bBasic2 rr40 bVerde5 taC" style="margin: 0px 5px" href=""><b class="colorfff">Guardar</b></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div id="justificar-ausencia" class="modal fade ff5">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-body">
+                <button type="button" class="close" data-dismiss="modal" aria-hidden="true"><strong class="ff5 color666">x</strong></button>
+                <div class="p10">
+                    <div class="row">
+                        <div class="col-xs-2 vcenter"><img width="70" src="resources/img/demo/user4.png"></div><!--
+                    --><div class="col-xs-9 vcenter">
+                            <div class="colorAzul ff2 mb5 t16">Ospina Perlaza Mariana</div>
+                            <div class="mb5">Codigo 2016536622</div>
+                            <div class="ff2">1°-A</div>
+                        </div>
+                    </div>
+                    <hr>
+                    <div class="row m0 p5">
+                        <div class="col-xs-8"></div>
+                        <div class="col-xs-2 color999 taC">DESAYUNO</div>
+                        <div class="col-xs-2 color999 taC">ALMUERZO</div>
+                    </div>
+                    <div class="row m0 p5 bS1 bGray3 mb20">
+                        <div class="col-xs-8 vcenter"><span class="ff2">Martes, Feb 10/2016</span></div><!--
+                    --><div class="col-xs-2 taC vcenter"><img src="resources/img/icons/ok.png"></div><!--
+                    --><div class="col-xs-2 taC vcenter"><img src="resources/img/icons/ok.png"></div>
+                    </div>
+                    <div class="mb10"><img src="resources/img/icons/mE4.png"> &nbsp;<span class="aSS colorVerde2 cP bAbrir1" style="text-decoration: underline;">Justificar ausencia</span></div>
                     <div class="dAbre1 dN">
                         <div class="mb10"><textarea id="" class="form-control input-bykrF" style="resize: none; width: 100%" rows="6" name=""></textarea></div>
                     </div>
