@@ -473,10 +473,10 @@
                 <div class="contEstandar rr5 p20 bVerde2">
                     <div class="titSep2 colorfff ff2 tU t14" style="margin-top:0; border-color:#fff;">Nota promedio</div>
                     <div class="row">
-                        <div class="col-sm-7 col-xs-7 colorVirde vcenter">
+                        <div class="col-sm-6 col-xs-6 colorVirde vcenter">
                             <div class="colorfff t60 ff2">3.8</div>
                         </div><!--
-                        --><div class="col-sm-5 col-xs-5 vcenter">
+                        --><div class="col-sm-6 col-xs-6 vcenter">
                             <div class="t16 ff2 colorfff taC bVirde p20"><img src="resources/img/icons/up.png"> &nbsp;40%</div>
                         </div>
                     </div>
