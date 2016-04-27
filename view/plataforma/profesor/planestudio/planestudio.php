@@ -29,10 +29,11 @@
 						<div class="col-xs-4 taR">
 							<!--<div class="mb10">
 								<span class="colorVerde2">Tu plan de estudios </span> <span class="colorRed">no se ha publicado</span>
-							</div>-->
+							</div>
 							<div>
 								<a class="bBasic1 rr5 bAzulBE taC p1020 cP" style="border: 1px solid;"><b class="colorfff">Guardar y Finalizar</b></a>	
 							</div>
+							-->
 							
 						</div>
 					</div>
@@ -51,7 +52,7 @@
 	                        
 	                        <li><a data-toggle="tab" href="#curriculo" target="_self" class="colorVerde2 pMenu">Contenido</a></li>
 
-	                        <li><a data-toggle="tab" href="#logros" target="_self" class="colorVerde2 pMenu">Logros Alcanzados</a></li>   
+	                        <li><a data-toggle="tab" href="#logros" target="_self" class="colorVerde2 pMenu">Competencias</a></li>   
 	                        
 	                    </ul>  	
 					</div>
@@ -73,14 +74,19 @@
                 				</div>
 								<div class="color666 ff2 mb20">GRADOS ASIGNADOS</div>
 								<?php for($hh=0; $hh<3; $hh++){ ?>
-								<div class="row m0 bS1 rr5 mb10" style="padding: 15px">
+								<div class="row m0 bS1 rr5 mb40" style="padding: 15px">
 									<div class="col-xs-3 ff2 vcenter">Grado 6°A</div><!--
 								--><div class="col-xs-3 vcenter">Matematicas</div><!--
 								--><div class="col-xs-3 vcenter">45 Estudiantes</div><!--
 								--><div class="col-xs-3 vcenter ff2 colorVerde5">Andrés Mauricio Ospina</div>
 								</div>
 								<?php } ?>
-		                	</div>		
+								<div class="taR mb10">
+									<a class="bBasic2 rr40 bGray3 taC t16" href="" style=""><b class="color666">Cancelar</b></a>
+									<a class="bBasic2 rr40 bVerde5 taC t16" href="" style=""><b class="colorfff">Siguiente</b></a>
+								</div>	
+		                	</div>	
+		                	
                 		</div>
 
                 		<div id="objetivos" class="tab-pane fade">
@@ -98,15 +104,26 @@
 								</div>
 								
 								<div class="dAbre1 dN">
-									<div class="mb5"><input id="" class="form-control input-bykrF" type="text" name="" placeholder="Título del objetivo"></div>
+									<div class="mb5">
+										<!--<input id="" class="form-control input-bykrF" type="text" name="" placeholder="Título del objetivo">-->
+										<select class="selStd5" style="background-color: #fff; border-radius: 3px;">
+											<option value="nulo">Seleccione el tipo de objetivo</option>
+											<option value="general">Objetivo general</option>
+											<option value="especifico">Objetivo especifico</option>
+										</select>
+									</div>
 									<div class="mb10"><textarea id="" class="form-control input-bykrF" style="resize: none; width: 100%" rows="4" name="" placeholder="Descripción"></textarea></div>
 									<div class="mb20"><a class="bBasic2 rr5 bVerde5 taC bAbrir1" href=""><b class="colorfff">Guardar</b></a></div>	
 								</div>
 								
-								<div class="p20 mb20 bS1 bGray3">
+								<div class="p20 mb40 bS1 bGray3">
 									<div class="color66 ff2 mb10">Objetivos Especificos</div>
 									<div class="color666">Realiza operaciones aritmeticas de manera precisa y eficiente. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nemo placeat, enim. At molestias officia, velit perferendis ipsa deserunt. Minima vitae modi mollitia dicta, recusandae, iste labore beatae earum eum ipsa. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsum id nostrum minus eligendi et quam repudiandae in asperiores debitis fugit impedit, ratione doloribus officia magni alias laborum atque quidem beatae!</div>
 								</div>
+								<div class="taR mb10">
+									<a class="bBasic2 rr40 bGray3 taC t16" href="" style=""><b class="color666">Cancelar</b></a>
+									<a class="bBasic2 rr40 bVerde5 taC t16" href="" style=""><b class="colorfff">Siguiente</b></a>
+								</div>	
 							</div>
 		                </div>
 		                <div id="curriculo" class="tab-pane fade">
@@ -124,7 +141,7 @@
 		                		</div>
 		                		-->
 		                		<div class="mb10"><a class="bBasic3 rr5 taC bBlue colorfff bAbrir2" href=""><b>Crear Unidad</b></a>&nbsp;&nbsp;<a class="bBasic3 rr5 taC bBlue colorfff bAbrir3" href=""><b>Agregar Tema</b></a></div>
-		                		<div class="row">
+		                		<div class="row mb40">
 		                			<div class="col-xs-9">
 		                				<!--<hr style="border-color: #000; margin-top: 0; margin-bottom: 10px">-->
 		                				
@@ -190,8 +207,9 @@
 						                                                    <div class="bGray5 rr20 dIB color666 p510 t12 ff2">Unidad 1</div>
 						                                                    <strong class="t16 dIB color666">Lenguaje Algebraico</strong>
 						                                                </div><!--
-						                                             --><div class="col-xs-3 col-sm-3 vcenter p0 taR aSS">
-						                                                    Editar
+						                                             --><div class="col-xs-3 col-sm-3 vcenter p0 taR">
+																			<div class="dIB cP rr5 p3" style="background-color: #81BFDE"><img class="" src="resources/img/icons/editar.png"></div>&nbsp;
+						                                                    <div class="dIB cP bGray5 rr5" style="padding: 4px	"><img class="" src="resources/img/icons/eliminarB.png"></div>
 						                                                </div><!--
 						                                            --><div class="col-xs-2 col-sm-2 vcenter">
 						                                                   <!--<strong class="t12 dIB taR">6 Temas</strong>-->
@@ -212,7 +230,8 @@
 						                                                    Suma y resta de monomios
 						                                                </div>
 						                                                <div class="col-sm-2 col-xs-2 taR">
-						                                                	<a href="" class="aSS ff1">Editar</a>
+						                                                	<div class="dIB cP rr5 p3" style="background-color: #81BFDE"><img class="" src="resources/img/icons/editar.png"></div>&nbsp;
+						                                                    <div class="dIB cP bGray5 rr5" style="padding: 4px	"><img class="" src="resources/img/icons/eliminarB.png"></div>
 						                                                </div>
 						                                                <div class="col-sm-2 col-xs-2">
 						                                                    2 Horas
@@ -229,7 +248,8 @@
 						                                                    Multiplicacion y division de monomios
 						                                                </div>
 						                                                <div class="col-sm-2 col-xs-2 taR">
-						                                                	<a href="" class="aSS ff1">Editar</a>
+						                                                	<div class="dIB cP rr5 p3" style="background-color: #81BFDE"><img class="" src="resources/img/icons/editar.png"></div>&nbsp;
+						                                                    <div class="dIB cP bGray5 rr5" style="padding: 4px	"><img class="" src="resources/img/icons/eliminarB.png"></div>
 						                                                </div>
 						                                                <div class="col-sm-2 col-xs-2">
 						                                                    2 Horas
@@ -246,7 +266,8 @@
 						                                                    Suma y resta de polinomios
 						                                                </div>
 						                                                <div class="col-sm-2 col-xs-2 taR">
-						                                                	<a href="" class="aSS ff1">Editar</a>
+						                                                	<div class="dIB cP rr5 p3" style="background-color: #81BFDE"><img class="" src="resources/img/icons/editar.png"></div>&nbsp;
+						                                                    <div class="dIB cP bGray5 rr5" style="padding: 4px	"><img class="" src="resources/img/icons/eliminarB.png"></div>
 						                                                </div>
 						                                                <div class="col-sm-2 col-xs-2">
 						                                                    4 Horas
@@ -265,11 +286,15 @@
 
 		                			</div>
 		                		</div>
+		                		<div class="taR mb10">
+									<a class="bBasic2 rr40 bGray3 taC t16" href="" style=""><b class="color666">Cancelar</b></a>
+									<a class="bBasic2 rr40 bVerde5 taC t16" href="" style=""><b class="colorfff">Siguiente</b></a>
+								</div>	
 		                	</div>
 		                </div>
 		                <div id="logros" class="tab-pane fade">
 		                	<div class="p20">
-		                		<div class="ff2 t24 mb10">Logros Alcanzados</div>
+		                		<div class="ff2 t24 mb10">Competencias</div>
 								<div class="color666 t16 mb10">Agrega la Unidad con los temas que se verán en el año lectivo</div>
 								<div class="row mb10">
 									<div class="col-xs-3">
@@ -280,9 +305,9 @@
 									<div class="col-xs-9"></div>
 								</div>
 								<div class="mb10">
-									<a class="bBasic3 rr5 taC bBlue colorfff" href=""><b>Crear Logro</b></a>
+									<a class="bBasic3 rr5 taC bBlue colorfff" href=""><b>Crear Competencia</b></a>
 								</div>
-								<div class="row">
+								<div class="row mb40">
 		                			<div class="col-xs-9">
 		                				<hr style="border-color: #000; margin-top: 0; margin-bottom: 10px">
 		                				<div class="mb10 bS1 p5">
@@ -302,6 +327,10 @@
 		                				</div>
 	                				</div>
                 				</div>
+                				<div class="taR mb10">
+									<a class="bBasic2 rr40 bGray3 taC t16" href="" style=""><b class="color666">Cancelar</b></a>
+									<a class="bBasic2 rr40 bVerde5 taC t16" href="" style=""><b class="colorfff">Siguiente</b></a>
+								</div>	
 		                	</div>
 		                </div>
 
