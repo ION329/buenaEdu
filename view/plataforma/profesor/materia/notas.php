@@ -45,10 +45,11 @@
                 <div class="p20 bGray3">
 
                     <div class="titSep2 ff2 tU t18 mb20" style="margin-top:0;">
-                        <div class="btn-group" style="width:100px;">
+                        <!--<div class="btn-group" style="width:100px;">
                             <button type="button" class="btn btn-primary bGray btn-bykr rr20" style="border-color:#ccc;"><img src="resources/img/icons/arR.png" width="10" /></button>
                             <button type="button" class="btn btn-primary bGray btn-bykr rr20" style="border-color:#ccc;"><img src="resources/img/icons/arL.png" width="10" /></button>
                         </div>
+                        -->
                         Promedio por áreas
                     </div>
 

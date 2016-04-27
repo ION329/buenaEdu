@@ -1,5 +1,5 @@
 <div class="contEstandar p20 bWhite mb20">
-
+    <div ng-include src=" 'view/plataforma/visor/institucion/reportes-1.php' "></div>
 	<div class="row">
     	<div class="col-sm-4 col-xs-4 mb30">
 
@@ -52,7 +52,7 @@
         <div class="col-sm-4 col-xs-4 mb30">
     
             <div class="contEstandar rr5 p20 bVerde2">
-                <div class="titSep2 colorfff ff2 tU t14" style="margin-top:0; border-color:#fff;">Nota final</div>
+                <div class="titSep2 colorfff ff2 tU t14" style="margin-top:0; border-color:#fff;">Nota Promedio</div>
                 <div class="row">
                     <div class="col-sm-7 col-xs-7 colorVirde vcenter">
                         <div class="colorfff t60 ff2">3.8</div>
@@ -80,97 +80,17 @@
         </div>
         
         
+        <!-- Aqui va todo -->
         
         
-        <div class="col-sm-8 col-xs-8">
-            <div class="contEstandar rr5 p20 bWhite" style="min-height:220px;">
-                
-                <div class="titSep2 ff2 tU t18 mb20" style="margin-top:0;">
-                    <div class="btn-group" style="width:100px;">
-                        <button type="button" class="btn btn-primary bGray btn-bykr rr20" style="border-color:#ccc;"><img src="resources/img/icons/arR.png" width="10" /></button>
-                        <button type="button" class="btn btn-primary bGray btn-bykr rr20" style="border-color:#ccc;"><img src="resources/img/icons/arL.png" width="10" /></button>
-                    </div>
-                    Promedio por áreas
-                </div>
-                
-<!-- <center><img src="resources/img/demo/notas.png" /></center> -->
-
-<!-- INICIO CODIGO FERNANDO -->
-<!--
-<div class="materia_con">
-
-<div class="materia" data-progress="50">
-    <div class="circle">
-        <div class="mask">
-            <div class="fill"></div>
-        </div>
-        <div class="mask">
-            <div class="fill"></div>
-            <div class="fill"></div>
-        </div>
-        <div class="shadow"></div>
-    </div>
-    <div class="inset">
-        <div class="percentage">
-            <div class="numbers"><span>1.5</span></div>
-        </div>
-    </div>
-    <br>
-    <div class="materia_x">Matemáticas</div>
-</div>
-
-<div class="materia" data-progress="50">
-    <div class="circle">
-        <div class="mask">
-            <div class="fill"></div>
-        </div>
-        <div class="mask">
-            <div class="fill"></div>
-            <div class="fill"></div>
-        </div>
-        <div class="shadow"></div>
-    </div>
-    <div class="inset">
-        <div class="percentage">
-            <div class="numbers"><span>3.9</span></div>
-        </div>
-    </div>
-    <br>
-    <div class="materia_x">Lengua Extranjera</div>
-</div>
-
-</div>
--->
-<!-- FINAL CODIGO FERNANDO -->
-<div ng-include src=" 'view/plataforma/zoom/circle-progress.php' "></div>
-</div>
-        </div>
-        <div class="col-sm-4 col-xs-4">
-            <div class="contEstandar tab rr5 p20 bWhite" style="min-height:220px;">
-            	<div class="tabIn">
-                
-                	<div class="col-sm-4 col-xs-4 p0" taC>
-                    	<img src="resources/img/demo/user4.png" style="margin-right:15px;" />
-                    </div>
-                    
-                    <div class="col-sm-8 col-xs-8">
-                    	
-                        <div class="tU ff2 mb5">Rector</div>     
-                        <div class="ff2 t16 colorAzulBE mb10">Lidia Margoth Muñoz Muñoz</div>                    
-                    	<a href="" class="bBasic5 p10 dB rr40 ff2 colorVirde taC">
-                            <span>Ver directorio</span>&nbsp;
-                            <img class="iconBrrn2" src="resources/img/icons/mailerid.png" width="35">
-                        </a>
-                    
-                    </div>
-                    
-               	</div>
-            </div>
-        </div>
         
 	</div>
+    <div class="p20">
+        <div ng-include src=" 'view/plataforma/visor/institucion/reportes-2.php' "></div>
+        <div ng-include src=" 'view/plataforma/visor/institucion/reportes-4.php' "></div>
+        <div ng-include src=" 'view/plataforma/visor/institucion/reportes-5.php' "></div>    
+    </div>
 </div>
 
-<div ng-include src=" 'view/plataforma/zoom/eventos_destacados.php' "></div>
 
 
