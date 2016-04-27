@@ -76,6 +76,14 @@ var Ion = {
 				$('.dAbre1').slideToggle(500);
 		  	});
 
+		  	$(".bAbrir2").live('click', function() {
+				$('.dAbre2').slideToggle(500);
+		  	});
+
+		  	$(".bAbrir3").live('click', function() {
+				$('.dAbre3').slideToggle(500);
+		  	});
+
 		  	$(".bAbrir-bykr").live('click', function() {
 				$('.dAbre-bykr1').slideToggle(500);
 		  	});

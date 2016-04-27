@@ -94,8 +94,8 @@
 					
 				--><div class="col-xs-4 col-sm-4 p0 vcenter taR">
 	        			<a class="bBasic3 rr40 color666 bGray3 taC" href="#/plataforma/profesor/planestudio" style="text-transform: capitalize;">
-							Editar
-							<img width="23" src="resources/img/icons/notif2.png">
+							<span class="vcenter">Editar</span>&nbsp;
+							<img src="resources/img/icons/excel.png">
 						</a>
 	        		</div><!--
 	        --></div>
