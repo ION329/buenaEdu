@@ -47,7 +47,7 @@
                 <div class="bTipo2 bTipoB"></div>
             </div>
             <div class="tabIn ff2 t16">
-                Plan de estudios
+                Grados / Grupos
             </div>
         </div>
     </div>

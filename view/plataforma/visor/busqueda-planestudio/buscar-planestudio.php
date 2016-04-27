@@ -1,13 +1,13 @@
 <div class="contEspecial bWhite rr5 p30" style="max-width:600px; margin-left:auto; margin-right:auto;">
         
-    <div class="logoZona rr50"><img src="resources/img/icons/panel1.png"></div>
+    <div class="logoZona rr50 taC"><img src="resources/img/icons/panel1.png"></div>
 
 	<br /><br />
 
     <div class="row">
         <div class="col-sm-12 col-xs-12">
         
-        	<div class="ff2 t20 taC mb30">Búsqueda de Plan de Estudios</div>
+        	<div class="ff2 t20 taC mb30">Búsqueda de Grados / Grupos</div>
         
             <div class="col-sm-6 col-xs-6 mb20">
                 <select class="selSt rr5">
