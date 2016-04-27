@@ -4,15 +4,15 @@
 	<div class="bWhite rr5 mb20" style="border: 2px solid #ccc">
 		<div class="row">
 			<div class="col-xs-12">
-				<ul class="nav ff2 bGray t16 menu-bykr2" style="width: 100%; border-bottom: 1px solid #ccc">
+				<ul class="nav ff2 bGray t16 menuAzulC" style="width: 100%; border-bottom: 1px solid #ccc">
 					<li class="active">
-						<a class="color666 taC" style="padding-top: 10px; padding-bottom: 10px;" target="_self" href="#descripcion" data-toggle="tab"><img src="resources/img/icons/mE4.png" /><span class="vcenter">Descripción</span></a>
+						<a class="color666 taC" style="padding-top: 10px; padding-bottom: 10px;" target="_self" href="#descripcion" data-toggle="tab"><div class="dIB vcenter iconencuesta1"></div> &nbsp; <span class="vcenter">Descripción</span></a>
 					</li>
 					<li>
-						<a class="color666 taC" style="padding-top: 8px; padding-bottom: 8px;" target="_self" href="#configuracion" data-toggle="tab"><img src="resources/img/icons/tools.png" /><span class="vcenter">Configuración</span></a>
+						<a class="color666 taC" style="padding-top: 11px; padding-bottom: 11px;" target="_self" href="#configuracion" data-toggle="tab"><div class="dIB vcenter iconencuesta2"></div> &nbsp; <span class="vcenter">Configuración</span></a>
 					</li>
 					<li>
-						<a class="color666 taC" style="padding-top: 10px; padding-bottom: 10px;" target="_self" href="#vista" data-toggle="tab"><img src="resources/img/icons/mE1.png" /><span class="vcenter">Vista Previa</span></a>
+						<a class="color666 taC" style="padding-top: 14px; padding-bottom: 14px;" target="_self" href="#vista" data-toggle="tab"><div class="dIB vcenter iconencuesta3"></div> &nbsp; <span class="vcenter">Vista Previa</span></a>
 					</li>
 				</ul>
 			</div>

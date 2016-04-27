@@ -1,4 +1,5 @@
-.tableHover, .menu-bykr3 a, .menuVisorH, tr.bBeycker, .bykrHober3 {
+.tableHover, .menu-bykr3 a, .menuVisorH, .menuDetalle span, tr.bBeycker, .bykrHober3, .menuAzul a, .menuAzul2 a, 
+.menuAzul3 a, .menuAzulC a  {
     transition: all 200ms ease-in 0s;
 }
 
@@ -187,7 +188,8 @@ tr.bBeycker:hover{
     background-color: #d8ecfc;
 }
 
-.menuVisorH:hover { background-color: #ebebeb; color: #000; font-family: "Open Sans",sans-serif; font-weight: 700; }
+.menuVisorH:hover                           { background-color: #ebebeb; color: #000; font-family: "Open Sans",sans-serif; font-weight: 700; }
+.menuDetalle span:hover                     { color: #000; font-family: "Open Sans",sans-serif; font-weight: 700; }
 
 .bykrHober3                                 { border: 1px solid transparent; }
 .bykrHober3:hover                           { background-color: #E0ECF8; border: 1px solid #25b76c; }
@@ -219,15 +221,68 @@ tr.bBeycker:hover{
 }
 
 .menuAzul                               { background-color: #4d90fe; color: #fff; }
+.menuAzul2                              { background-color: #4d90fe; color: #fff; }
 
-.menuAzul .icon1                        { width: 49px; height: 28px; background-image: url("../../resources/img/icons/iconruta11.png"); }
-.menuAzul .icon2                        { width: 47px; height: 30px; background-image: url("../../resources/img/icons/iconruta22.png"); }
-.menuAzul .icon3                        { width: 51px; height: 28px; background-image: url("../../resources/img/icons/iconruta33.png"); }
+.iconruta1                              { width: 49px; height: 28px; background-image: url("../../resources/img/icons/iconruta11.png"); }
+.iconruta2                              { width: 47px; height: 30px; background-image: url("../../resources/img/icons/iconruta22.png"); }
+.iconruta3                              { width: 51px; height: 28px; background-image: url("../../resources/img/icons/iconruta33.png"); }
+.iconruta4                              { width: 32px; height: 29px; background-image: url("../../resources/img/icons/iconruta44.png"); }
+.iconruta5                              { width: 31px; height: 27px; background-image: url("../../resources/img/icons/iconruta55.png"); }
 
 .menuAzul li.active a                   { background-color: #fff !important; }
 .menuAzul li a:hover                    { background-color: #ddd !important; }
 .menuAzul li.active span                { color: #4d90fe !important; }
 
-.menuAzul li.active .icon1              { width: 49px; height: 28px; background-image: url("../../resources/img/icons/iconruta1.png"); }
-.menuAzul li.active .icon2              { width: 47px; height: 30px; background-image: url("../../resources/img/icons/iconruta2.png"); }
-.menuAzul li.active .icon3              { width: 51px; height: 28px; background-image: url("../../resources/img/icons/iconruta3.png"); }
+.menuAzul2 li.active                    { background-color: #ebebeb !important; }
+.menuAzul2 li a:hover                   { background-color: #ccc !important; }
+
+li.active .iconruta1                    { width: 49px; height: 28px; background-image: url("../../resources/img/icons/iconruta1.png"); }
+li.active .iconruta2                    { width: 47px; height: 30px; background-image: url("../../resources/img/icons/iconruta2.png"); }
+li.active .iconruta3                    { width: 51px; height: 28px; background-image: url("../../resources/img/icons/iconruta3.png"); }
+li.active .iconruta4                    { width: 32px; height: 29px; background-image: url("../../resources/img/icons/iconruta4.png"); }
+li.active .iconruta5                    { width: 31px; height: 27px; background-image: url("../../resources/img/icons/iconruta5.png"); }
+
+.iconencuesta1                          { width: 30px; height: 29px; background-image: url("../../resources/img/icons/iconencuesta11.png"); }
+.iconencuesta2                          { width: 27px; height: 27px; background-image: url("../../resources/img/icons/iconencuesta22.png"); }
+.iconencuesta3                          { width: 31px; height: 20px; background-image: url("../../resources/img/icons/iconencuesta33.png"); }
+
+li.active .iconencuesta1                { width: 30px; height: 29px; background-image: url("../../resources/img/icons/iconencuesta1.png"); }
+li.active .iconencuesta2                { width: 27px; height: 27px; background-image: url("../../resources/img/icons/iconencuesta2.png"); }
+li.active .iconencuesta3                { width: 31px; height: 20px; background-image: url("../../resources/img/icons/iconencuesta3.png"); }
+
+.iconrecorrido1                         { width: 28px; height: 26px; background-image: url("../../resources/img/icons/iconrecorrido11.png"); }
+.iconrecorrido2                         { width: 27px; height: 30px; background-image: url("../../resources/img/icons/iconrecorrido22.png"); }
+.iconrecorrido3                         { width: 42px; height: 24px; background-image: url("../../resources/img/icons/iconrecorrido33.png"); }
+
+li.active .iconrecorrido1               { width: 28px; height: 26px; background-image: url("../../resources/img/icons/iconrecorrido1.png"); }
+li.active .iconrecorrido2               { width: 27px; height: 30px; background-image: url("../../resources/img/icons/iconrecorrido2.png"); }
+li.active .iconrecorrido3               { width: 42px; height: 24px; background-image: url("../../resources/img/icons/iconrecorrido3.png"); }
+
+.menuAzulC li.active a                  { color: #6FB8D7 !important; background-color: #fff !important; }
+.menuAzul3 li.active a                  { color: #4d90fe !important; background-color: #fff !important; }
+
+
+
+.fondomapa{
+    background-image: url("../../resources/img/temporal/mapatab1.png");
+    background-position: center center;
+    height: 693px;
+}
+
+.fondomapa2{
+    background-image: url("../../resources/img/temporal/detalle-mapa.png");
+    background-position: center center;
+    height: 557px;
+}
+
+.fondomapa3{
+    background-image: url("../../resources/img/temporal/mapa-det-est.png");
+    background-position: right center;
+    height: 557px;
+}
+
+.fondomapa4{
+    background-image: url("../../resources/img/temporal/mapa-recorrido.png");
+    background-position: right center;
+    height: 557px;
+}

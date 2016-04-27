@@ -733,3 +733,58 @@
         </div>
     </div>
 </div>
+
+<div id="encuesta" class="modal fade ff5">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-body">
+                <button type="button" class="close" data-dismiss="modal" aria-hidden="true"><strong class="ff5 color666">x</strong></button>
+                <div class="bVerde5 ff2 t18 colorfff" style="padding: 30px 20px">Ayudanos a mejorar el aseo en la institucion</div>
+                <div style="border-bottom:1px solid #ccc; padding: 20px 20px 45px">Familia Claretina, en nuestro colegio, contamos con grandes zonas verdes que queremos cuidar, por eso solicitamos de su ayuda completando esta pequeña encuesta de tan solo 3 preguntas.</div>	
+	                
+	            <div class="pLR20">    
+	                <div class="mb30 taC" style="margin-top: -10px">
+						<div class="dIB">
+							<a href=""><span class="bAzulBE ff2 colorfff t18" style="margin: 0px 2px; padding: 0px 8px">1</span></a>
+							<a href=""><span class="bGray4 ff2 colorfff t18" style="margin: 0px 2px; padding: 0px 8px">2</span></a>
+							<a href=""><span class="bGray4 ff2 colorfff t18" style="margin: 0px 2px; padding: 0px 8px">3</span></a>
+						</div>
+					</div>
+					<div class="ff2 t18 mb20">¿Que le parecen nuestras zonas verdes?</div>
+					<div class="row mb10">
+						<div class="col-xs-8">
+							<div class="mb10">
+								<label for="radio1">
+									<input id="radio1" type="radio" name="rdb">
+									<span class="ff1">Respuesta 1</span>
+								</label>
+							</div>
+							<div class="mb10">
+								<label for="radio2">
+									<input id="radio2" type="radio" name="rdb">
+									<span class="ff1">Respuesta 2</span>
+								</label>
+							</div>
+							<div class="mb10">
+								<label for="radio3">
+									<input id="radio3" type="radio" name="rdb">
+									<span class="ff1">Respuesta 3</span>
+								</label>
+							</div>
+							<div class="mb10">
+								<label for="radio4">
+									<input id="radio4" type="radio" name="rdb">
+									<span class="ff1">Respuesta 4</span>
+								</label>
+							</div>
+						</div>
+						<div class="col-xs-4">
+							<img src="resources/img/temporal/paisaje.png">
+						</div>
+					</div>
+				</div>
+
+            </div>
+        </div>
+    </div>
+</div>

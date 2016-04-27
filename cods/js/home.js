@@ -270,7 +270,31 @@ var Banco = {
 //////// CREANDO RUTA
 			}).when('/plataforma/admin/rutas/creando-ruta', {
 			templateUrl: 'view/plataforma/admin/rutas/creandoruta/index.php',
-			controller: 'control_init'												
+			controller: 'control_init'		
+//////// PERFIL COORDINADOR
+			}).when('/plataforma/admin/rutas/perfil-coordinador', {
+			templateUrl: 'view/plataforma/admin/rutas/control/index.php',
+			controller: 'control_init'	
+//////// INICIO RUTA
+			}).when('/plataforma/admin/rutas/inicio', {
+			templateUrl: 'view/plataforma/admin/rutas/detalle/inicio/index.php',
+			controller: 'control_init'						
+//////// DETALLE RUTA
+			}).when('/plataforma/admin/rutas/historial-recorridos', {
+			templateUrl: 'view/plataforma/admin/rutas/detalle/historial/index.php',
+			controller: 'control_init'			
+//////// ESTUDIANTES ASIGNADOS
+			}).when('/plataforma/admin/rutas/estudiantes-asignados', {
+			templateUrl: 'view/plataforma/admin/rutas/detalle/asignados/index.php',
+			controller: 'control_init'				
+//////// INFORMACION DE LA RUTA
+			}).when('/plataforma/admin/rutas/informacion-ruta', {
+			templateUrl: 'view/plataforma/admin/rutas/detalle/informacion/index.php',
+			controller: 'control_init'		
+//////// CREAR NUEVO RECORRIDO
+			}).when('/plataforma/admin/rutas/crear-recorrido', {
+			templateUrl: 'view/plataforma/admin/rutas/crearrecorrido/index.php',
+			controller: 'control_init'																						
 
 //PLATAFORMA - BUENA EDUCACIÓN [OFERENTE]	
 //////// PAE

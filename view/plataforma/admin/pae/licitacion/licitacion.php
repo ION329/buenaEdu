@@ -189,7 +189,7 @@
                                 Logo de la empresa
                             </div><!--
                         --><div class="col-xs-8 col-sm-8">
-                                 <img src="resources/img/temporal/elegirImagen.png" />
+                                <img src="resources/img/temporal/elegirImagen.png" />
                             </div>
                         </div>
 

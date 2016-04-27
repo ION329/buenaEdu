@@ -166,7 +166,7 @@
                         </div><!--
                     --><div class="col-xs-5 taR vcenter">
                             <div class="dIB p510 color666 bGray bS1 cP rr5">
-                                <img width="35" src="resources/img/icons/mE6.png">
+                                <img src="resources/img/icons/print.png">&nbsp;
                                 <span class="vcenter">Imprimir</span>
                             </div>
                         </div>

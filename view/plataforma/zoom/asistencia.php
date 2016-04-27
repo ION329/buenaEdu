@@ -138,17 +138,17 @@
             </li>
             <li role="presentation" class="taC">
                 <a href="#asis2" target="_self" aria-controls="p2" role="tab" data-toggle="tab" class="btn-radius-bykr">
-                    Justificadas
+                    Justificadas&nbsp;<span>(2)</span>
                 </a>
             </li>
             <li role="presentation" class="taC">
                 <a href="#asis3" target="_self" aria-controls="p3" role="tab" data-toggle="tab" class="btn-radius-bykr">
-                    Sin justificar
+                    Sin justificar&nbsp;<span>(0)</span>
                 </a>
             </li>
             <li role="presentation" class="taC">
                 <a href="#asis4" target="_self" aria-controls="p3" role="tab" data-toggle="tab" class="btn-radius-bykr">
-                    Llegadas tarde
+                    Llegadas tarde&nbsp;<span>(1)</span>
                 </a>
             </li>
         </ul>
@@ -166,13 +166,13 @@
             --><div class="col-sm-3 col-xs-3 vcenter">Recurso/aplicación</div>
         </div>
         
-        <div class="row p10 mb5 bGray" style="margin:0;">
+        <div class="row p10 m0 mb3 bGray">
             <div class="col-sm-2 col-xs-2 colorVirde vcenter">Enero 11 2016</div><!--
             --><div class="col-sm-2 col-xs-2 colorVirde vcenter">Justificada</div><!--
             --><div class="col-sm-5 col-xs-5 colorVirde vcenter ff2">Incapacidad Médica enviada por el acudiente</div><!--
             --><div class="col-sm-3 col-xs-3 colorVirde taR vcenter"><a href="" class="bBasic2 rr40 taC dB">Archivo adjunto</a></div>
         </div>
-        <div class="row p10 mb5 bGray" style="margin:0;">
+        <div class="row p10 m0 mb3 bGray">
             <div class="col-sm-2 col-xs-2 colorVirde vcenter">Noviembre 29 2015</div><!--
             --><div class="col-sm-2 col-xs-2 colorVirde vcenter">Justificada</div><!--
             --><div class="col-sm-5 col-xs-5 colorVirde vcenter ff2">Carta enviada y firmada por el acudiente</div><!--
@@ -188,6 +188,3 @@
         <br><img src="resources/img/icons/block.png" /><br /><br />
     </div>
 </div>
-
-
-
