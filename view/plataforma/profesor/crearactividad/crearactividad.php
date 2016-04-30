@@ -75,13 +75,13 @@
             <div class="col-xs-8 col-xs-offset-2">
                 <ul class="nav ff2 bGray t16" style="width: 100%;">
                     <li class="active">
-                        <a class="color666 taC" style="padding-top: 10px; padding-bottom: 10px;" target="_self" href="#descripcion" data-toggle="tab"><span class="vcenter">Descripción</span></a>
+                        <a class="color666 taC bPE1" style="padding-top: 10px; padding-bottom: 10px;" target="_self" href="#descripcion" data-toggle="tab"><span class="vcenter">Descripción</span></a>
                     </li>
                     <li>
-                        <a class="color666 taC" style="padding-top: 10px; padding-bottom: 10px;" target="_self" href="#logros" data-toggle="tab"><span class="vcenter">Logros Evaluados</span></a>
+                        <a class="color666 taC bPE2" style="padding-top: 10px; padding-bottom: 10px;" target="_self" href="#logros" data-toggle="tab"><span class="vcenter">Logros Evaluados</span></a>
                     </li>
                     <li>
-                        <a class="color666 taC" style="padding-top: 10px; padding-bottom: 10px;" target="_self" href="#notificaciones" data-toggle="tab"><span class="vcenter">Notificaciones</span></a>
+                        <a class="color666 taC bPE3" style="padding-top: 10px; padding-bottom: 10px;" target="_self" href="#notificaciones" data-toggle="tab"><span class="vcenter">Notificaciones</span></a>
                     </li>
                 </ul>
             </div>
@@ -125,6 +125,11 @@
                         </div>
                     </form>
 
+                    <div class="taC" style="margin-top: 50px">
+                        <a class="bBasic2 rr40 bGray3 taC t16 bCambiar" style="padding: 20px 60px; margin: 0px 5px" href=""><b class="color666">Cancelar</b></a>
+                        <a class="bBasic2 rr40 bVerde5 taC t16 bPEsiguiente1" style="padding: 20px 60px; margin: 0px 5px" href=""><b class="colorfff">Siguiente</b></a>
+                    </div>
+
                 </div>
             </div>
 
@@ -149,6 +154,10 @@
                     </div>
                     <?php } ?>
                 </div>
+                <div class="taC" style="margin-top: 50px">
+                    <a class="bBasic2 rr40 bGray3 taC t16" style="padding: 20px 60px; margin: 0px 5px" href=""><b class="color666">Cancelar</b></a>
+                    <a class="bBasic2 rr40 bVerde5 taC t16 bPEsiguiente2" style="padding: 20px 60px; margin: 0px 5px" href=""><b class="colorfff">Siguiente</b></a>
+                </div>
             </div>
 
             <div id="notificaciones" class="tab-pane fade">
@@ -166,13 +175,14 @@
                             <div><input type="checkbox" name="chkcalif" id="chk-na" class="stramboticCheck"><label for="chk-na"><span></span>&nbsp;&nbsp;<div class="dIB t16">Notificar con copia a acudientes</div></label></div>        
                         </div>
                     </div>
+                    <div class="taC" style="margin-top: 50px">
+                        <a class="bBasic2 rr40 bGray3 taC t16 bCambiar" style="padding: 20px 60px; margin: 0px 5px" href=""><b class="color666">Cancelar</b></a>
+                        <a class="bBasic2 rr40 bVerde5 taC t16 bPEsiguiente3" style="padding: 20px 60px; margin: 0px 5px" href=""><b class="colorfff">Siguiente</b></a>
+                    </div>
                 </div>
             </div>
 
-            <div class="taC" style="margin-top: 50px">
-                <a class="bBasic2 rr40 bGray3 taC t16 bCambiar" style="padding: 20px 60px; margin: 0px 5px" href=""><b class="color666">Cancelar</b></a>
-                <a class="bBasic2 rr40 bVerde5 taC t16" style="padding: 20px 60px; margin: 0px 5px" href=""><b class="colorfff">Siguiente</b></a>
-            </div>
+            
         </div>
 
    </div>
