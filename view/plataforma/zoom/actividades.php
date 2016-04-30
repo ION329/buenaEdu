@@ -1,7 +1,6 @@
 
 <div class="row m0 mb15">
 	<div class="col-xs-6 col-sm-6 p0 vcenter">
-		<!--
 		<div class="colorVirde ff2 tU t14" style="margin-top:0;">
 			<div class="navBarLog ff5 taC col-sm-12 col-xs-12 vcenter p0">
 				<ul class="nav nav-tabs" role="tablist">
@@ -17,11 +16,11 @@
 				</ul>
 			</div>
 		</div>
-		-->
-		<div class="input-group">
+		<!--<div class="input-group">
 			<input id="" class="form-control" type="text">
 			<div class="input-group-addon cP">Buscar</div>
 		</div>
+		-->
 	</div><!--
 
 --><div class="col-xs-6 col-sm-6 p0 taR vcenter">
@@ -31,8 +30,15 @@
 
 <div class="row m0">
 	<div class="col-xs-4 col-sm-4 p0 bGray3">
+		
+		<div class="t18 ff2 p10 bWhite bS1" style="border-right: 1px solid #fff;">
+			<div class="input-group">
+				<input id="" class="form-control" type="text">
+				<div class="input-group-addon cP">Buscar</div>
+			</div>
+		</div>
 
-		<div class="p20 bS1 minMensaje leyendoMensaje cP">
+		<div class="p20 bS1 minMensaje leyendoMensaje cP" style="margin-top:-1px;">
 
             <div class="bAzul2 p510 rr20 dIB colorfff mb10">AS 3</div>&nbsp;&nbsp;
             <div class="color666 dIB">Nov 10 - 15</div>
