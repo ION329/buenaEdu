@@ -63,38 +63,38 @@
 		<div class="col-xs-4 col-sm-4" style="padding-right: 0px">
 			<div class="bGray3 p20">
 
-				<div class="row m0 mb10">
-					<div class="col-xs-2 col-sm-2">
-						<img src="resources/img/icons/mE4.png" width="30">
-					</div>
-					<div class="col-xs-10 col-sm-10">
-						<span class="t16 ff2 dB taL">Actividades realizadas</span>
-					</div>
-				</div>
-				<div class="row m0">
-					<div class="col-xs-2 col-sm-2">
-						<span class="bAzul2 rr10 dIB colorfff" style="padding: 1px 11px;">TC</span>
-					</div>
-					<div class="col-xs-10 col-sm-10">
-						<span class="mb5 color666 dIB">Talleres en casa</span>&nbsp;<span class="t16 ff2 taL">(2)</span>
-					</div>
-				</div>
-				<div class="row m0">
-					<div class="col-xs-2 col-sm-2">
-						<span class="bAzul2 p5 rr10 dIB colorfff" style="padding: 1px 11px;">AS</span>
-					</div>
-					<div class="col-xs-10 col-sm-10">
-						<span class="mb5 color666 dIB">Actividades en Clase</span>&nbsp;<span class="t16 ff2 taL">(3)</span>
-					</div>
-				</div>
-				<div class="row m0">
-					<div class="col-xs-2 col-sm-2">
-						<span class="bAzul2 p5 rr10 dIB colorfff" style="padding: 1px 11px;">E</span>
-					</div>
-					<div class="col-xs-10 col-sm-10">
-						<span class="mb5 color666 dIB">Evaluaciones</span>&nbsp;<span class="t16 ff2 taL">(2)</span>
-					</div>
-				</div>
+				<div class="row mb10">
+                    <div class="col-xs-2 col-sm-2 p0 taC vcenter">
+                        <img src="resources/img/icons/mE4.png">
+                    </div><!--
+                --><div class="col-xs-10 col-sm-10 vcenter">
+                        <span class="t16 ff2 dB taL">Actividades realizadas</span>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-xs-2 col-sm-2 p0 taC">
+                        <span class="bAzul2 rr10 dIB colorfff" style="padding: 1px 11px;">TC</span>
+                    </div>
+                    <div class="col-xs-10 col-sm-10">
+                        <span class="mb5 color666 dIB">Talleres en casa</span>&nbsp;<span class="t16 ff2 taL">(2)</span>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-xs-2 col-sm-2 p0 taC">
+                        <span class="bAzul2 p5 rr10 dIB colorfff" style="padding: 1px 11px;">AS</span>
+                    </div>
+                    <div class="col-xs-10 col-sm-10">
+                        <span class="mb5 color666 dIB">Actividades en Clase</span>&nbsp;<span class="t16 ff2 taL">(3)</span>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-xs-2 col-sm-2 p0 taC">
+                        <span class="bAzul2 p5 rr10 dIB colorfff" style="padding: 1px 16px;">E</span>
+                    </div>
+                    <div class="col-xs-10 col-sm-10">
+                        <span class="mb5 color666 dIB">Evaluaciones</span>&nbsp;<span class="t16 ff2 taL">(2)</span>
+                    </div>
+                </div>
 
 			</div>
 		</div>

@@ -117,7 +117,7 @@
 							<div class="row mb30">
 								<div class="col-xs-12 col-sm-12">
 									<a href="" class="mb20">
-										<div class="bBlue rr5 taC ff2 colorfff p20">Inscribirme ahora</div>
+										<div class="bBlue bBasic6 rr5 taC ff2 colorfff p20" style="display: block">Inscribirme ahora</div>
 									</a>
 								</div>
 							</div>
