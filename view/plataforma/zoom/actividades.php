@@ -1,6 +1,7 @@
 
 <div class="row m0 mb15">
-	<div class="col-xs-6 col-sm-6">
+	<div class="col-xs-6 col-sm-6 p0 vcenter">
+		<!--
 		<div class="colorVirde ff2 tU t14" style="margin-top:0;">
 			<div class="navBarLog ff5 taC col-sm-12 col-xs-12 vcenter p0">
 				<ul class="nav nav-tabs" role="tablist">
@@ -16,9 +17,14 @@
 				</ul>
 			</div>
 		</div>
-	</div>
+		-->
+		<div class="input-group">
+			<input id="" class="form-control" type="text">
+			<div class="input-group-addon cP">Buscar</div>
+		</div>
+	</div><!--
 
-	<div class="col-xs-6 col-sm-6 taR">
+--><div class="col-xs-6 col-sm-6 p0 taR vcenter">
 		<a class="bBasic3 rr40 colorfff bVerde5 ff2" href="#/plataforma/profesor/crear-actividad">Crear Actividad</a>
 	</div>
 </div>
