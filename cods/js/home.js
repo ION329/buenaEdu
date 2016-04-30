@@ -73,6 +73,9 @@ var Banco = {
 			}).when('/plataforma/profesor/planestudio', {
 			templateUrl: 'view/plataforma/profesor/planestudio/index.php',
 			controller: 'control_init'
+			}).when('/plataforma/profesor/crear-actividad', {
+			templateUrl: 'view/plataforma/profesor/crearactividad/index.php',
+			controller: 'control_init'
 			
 //////// ACUDIENTE
 			}).when('/plataforma/acudiente', {
