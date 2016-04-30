@@ -8,13 +8,13 @@
                 <div>
                     <ul class="nav menuAzul3" style="width: 100%; background-color: #f5f5f5">
                         <li class="active">
-                            <a class="color999 taC tU bS1" style="padding-top: 16px; padding-bottom: 12px; margin-left: -1px" target="_self" href="#recorrido" data-toggle="tab"><center><div class="iconrecorrido1 mb5"></div><div class="">EL RECORRIDO</div></center></a>
+                            <a class="color999 taC tU bS1" style="padding-top: 12px; padding-bottom: 12px; margin-left: -1px" target="_self" href="#recorrido" data-toggle="tab"><center><div class="iconrecorrido1 mb5"></div><div class="">EL RECORRIDO</div></center></a>
                         </li>
                         <li>
                             <a class="color999 taC tU bS1" style="padding-top: 12px; padding-bottom: 12px; margin-left: -1px" target="_self" href="#addrutas" data-toggle="tab"><center><div class="iconrecorrido2 mb5"></div><div class="">AGREGAR RUTAS</div></center></a>
                         </li>
                         <li>
-                            <a class="color999 taC tU bS1" style="padding-top: 18px; padding-bottom: 12px; margin-left: -1px; border-right: 0px;" target="_self" href="#detalle" data-toggle="tab"><center><div class="iconrecorrido3 mb5"></div><div class="">DETALLE PARADAS</div></center></a>
+                            <a class="color999 taC tU bS1" style="padding-top: 12px; padding-bottom: 12px; margin-left: -1px; border-right: 0px;" target="_self" href="#detalle" data-toggle="tab"><center><div class="iconrecorrido3 mb5"></div><div class="">DETALLE PARADAS</div></center></a>
                         </li>
                     </ul>
                 </div>

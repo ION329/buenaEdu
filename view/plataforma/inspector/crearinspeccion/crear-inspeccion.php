@@ -143,7 +143,7 @@
             
             <div class="row" style="margin-top:20px">
                 <div class="col-xs-12">
-                    <a class="bBasic2 rr40 bVerde5 taC t20" style="margin: 0px 5px" href="">
+                    <a class="bBasic2 rr40 bVerde5 taC t20" style="margin: 0px 5px" href="#/plataforma/inspector">
                         <b class="colorfff">Crear Inspección</b>
                     </a>    
                 </div>

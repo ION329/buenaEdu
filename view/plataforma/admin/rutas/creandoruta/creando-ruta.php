@@ -44,7 +44,7 @@
                                         <a class="color666 taC tU" style="padding-top: 11px; padding-bottom: 11px;" target="_self" href="#dvehiculo" data-toggle="tab"><div class="dIB iconruta1 vcenter"></div> &nbsp;<span class="vcenter colorfff"> Datos del Vehículo </span></a>
                                     </li>
                                     <li>
-                                        <a class="color666 taC tU" style="padding-top: 10px; padding-bottom: 10px;" target="_self" href="#dconductor" data-toggle="tab"><div class="dIB iconruta2 vcenter"></div> &nbsp;<span class="vcenter colorfff"> Datos del Conductor </span></a>
+                                        <a class="color666 taC tU" style="padding-top: 11px; padding-bottom: 11px;" target="_self" href="#dconductor" data-toggle="tab"><div class="dIB iconruta2 vcenter"></div> &nbsp;<span class="vcenter colorfff"> Datos del Conductor </span></a>
                                     </li>
                                     <li>
                                         <a class="color666 taC tU" style="padding-top: 11px; padding-bottom: 11px;" target="_self" href="#estuasig" data-toggle="tab"><div class="dIB iconruta3 vcenter"></div> &nbsp;<span class="vcenter colorfff"> Estudiantes Asignados </span></a>
@@ -65,7 +65,7 @@
                                                 <div class="input-group date" data-provide="datepicker">
                                                     <input type="text" class="form-control input-bykrF" placeholder="Vencimiento SOAT" style="height: 40px">
                                                     <div class="input-group-addon cP">
-                                                        <img src="resources/img/icons/adm3.png" width="26">
+                                                        <div class="dIB" style="width: 22px"><img src="resources/img/icons/r-historial.png" width="26"></div>
                                                     </div>
                                                 </div>
                                             </div>
@@ -75,7 +75,7 @@
                                                 <div class="input-group date" data-provide="datepicker">
                                                     <input type="text" class="form-control input-bykrF" placeholder="Vencimiento Tecno-Mecánica" style="height: 40px">
                                                     <div class="input-group-addon cP">
-                                                        <img src="resources/img/icons/adm3.png" width="26">
+                                                        <div class="dIB" style="width: 22px"><img src="resources/img/icons/r-historial.png" width="26"></div>
                                                     </div>
                                                 </div>
                                             </div>
@@ -97,7 +97,7 @@
                                                             <span class="color999">Ningun archivo seleccionado</span>
                                                         </div>
                                                         <div class="tabIn taR">
-                                                            <a class="bBasic1 rr5 bAzulBE taC p1020 cP" style="border: 1px solid;"><b class="colorfff">Subir firma</b></a>
+                                                            <!--<a class="bBasic1 rr5 bAzulBE taC p1020 cP" style="border: 1px solid;"><b class="colorfff">Subir firma</b></a>-->
                                                         </div>
                                                     </div>
                                                 </div>
@@ -214,7 +214,7 @@
                                                             <span class="color999">Ningun archivo seleccionado</span>
                                                         </div>
                                                         <div class="tabIn taR">
-                                                            <a class="bBasic1 rr5 bAzulBE taC p1020 cP" style="border: 1px solid;"><b class="colorfff">Subir firma</b></a>
+                                                            <!--<a class="bBasic1 rr5 bAzulBE taC p1020 cP" style="border: 1px solid;"><b class="colorfff">Subir firma</b></a>-->
                                                         </div>
                                                     </div>
                                                 </div>
@@ -241,7 +241,7 @@
                                         <table class="table">
                                             <thead>
                                                 <tr class="ff1 colorVerde2">
-                                                    <th style="width: 0" class="taC">
+                                                    <th style="width: 50px" class="taC">
                                                         <a href=""><div class="dIB bGray3 rr5" style="padding: 4px 8px"><img src="resources/img/icons/eliminar.png"></div></a>
                                                     </th>
                                                     <th>CODIGO</th>

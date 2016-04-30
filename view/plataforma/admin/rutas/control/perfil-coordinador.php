@@ -5,13 +5,13 @@
                 <div>
                     <ul class="nav ff2 t16 menuAzul2" style="width: 100%;">
                         <li class="active">
-                            <a class="color666 taC tU" style="padding-top: 11.5px; padding-bottom: 11px;" target="_self" href="#resumen" data-toggle="tab"><div class="dIB iconruta4 vcenter"></div></a>
+                            <a class="color666 taC tU" style="padding-top: 11px; padding-bottom: 11px;" target="_self" href="#resumen" data-toggle="tab"><div class="dIB iconruta4 vcenter"></div></a>
                         </li>
                         <li>
-                            <a class="color666 taC tU" style="padding-top: 12px; padding-bottom: 12px;" target="_self" href="#rutas" data-toggle="tab"><div class="dIB iconruta1 vcenter"></div></a>
+                            <a class="color666 taC tU" style="padding-top: 11px; padding-bottom: 11px;" target="_self" href="#rutas" data-toggle="tab"><div class="dIB iconruta1 vcenter"></div></a>
                         </li>
                         <li>
-                            <a class="color666 taC tU" style="padding-top: 12.5px; padding-bottom: 12px;" target="_self" href="#notificaciones" data-toggle="tab"><div class="dIB iconruta5 vcenter"></div></a>
+                            <a class="color666 taC tU" style="padding-top: 11px; padding-bottom: 11px;" target="_self" href="#notificaciones" data-toggle="tab"><div class="dIB iconruta5 vcenter"></div></a>
                         </li>
                     </ul>
                 </div>

@@ -121,6 +121,11 @@ var Ion = {
 			$(".bMsiguiente6").live('click', function() { $('.bMM7').trigger('click'); });
 			$(".bMsiguiente7").live('click', function() { $('.bMM8').trigger('click'); });
 
+			$(".bPEsiguiente1").live('click', function() { $('.bPE2').trigger('click'); });
+			$(".bPEsiguiente2").live('click', function() { $('.bPE3').trigger('click'); });
+			$(".bPEsiguiente3").live('click', function() { $('.bPE4').trigger('click'); });
+			$(".bPEsiguiente4").live('click', function() { $('.bPE5').trigger('click'); });
+
 
 			$(".bMsiguiente11").live('click', function() {
 				console.log("1");
@@ -132,6 +137,11 @@ var Ion = {
 			$(".minMensaje").live('click', function() {
 				$('.minMensaje').removeClass("leyendoMensaje");
 				$(this).addClass("leyendoMensaje");
+			});
+
+			$(".unidadD").live('click', function() {
+				$('.unidadD').removeClass("unidadA");
+				$(this).addClass("unidadA");
 			});
 
 			$(".optMenLat").live('click', function() {

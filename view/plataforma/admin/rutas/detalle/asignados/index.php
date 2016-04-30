@@ -6,7 +6,7 @@
 	        <div class="col-xs-4 p0">
 	        	<div ng-include src=" 'view/plataforma/admin/rutas/detalle/menu/menu.php' "></div>
 	        </div>
-	        <div class="col-xs-8 p0">
+	        <div class="col-xs-8 p0" style="border-left: 1px solid #ccc; margin-left: -1px">
 	        	<div ng-include src=" 'view/plataforma/admin/rutas/detalle/asignados/estudiantes-asignados.php' "></div>
 	        </div>
         </div>

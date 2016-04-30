@@ -1,5 +1,5 @@
 <div class="taL color333" style="margin: 0 auto; max-width:700px">
-	<div class="ff2 t24 mb20 colorVerde2">Crear una encuesta</div>
+	<div class="ff2 t24 mb20 colorVerdeTi">Crear una encuesta</div>
 	
 	<div class="bWhite rr5 mb20" style="border: 2px solid #ccc">
 		<div class="row">
@@ -40,8 +40,8 @@
 									</select>
 								</div>
 								<div class="mb10">
-									<div class="mb10"><label for="r1"><input type="radio" name="respuesta" id="r1"> <span>Respuesta 1</span></label></div>
-									<div class=""><label for="r2"><input type="radio" name="respuesta" id="r2"> <span>Respuesta 2</span></label></div>
+									<div class="mb10"><label for="r1"><input type="radio" name="respuesta" id="r1"> <span class="ff1">Respuesta 1</span></label></div>
+									<div class=""><label for="r2"><input type="radio" name="respuesta" id="r2"> <span class="ff1">Respuesta 2</span></label></div>
 								</div>
 								<div class="mb10"><a href="" class="aSS" style="text-decoration: underline">Añadir otra respuesta</a></div>
 							</div>
@@ -55,7 +55,7 @@
 
 				<div class="p20">
 					<div class="pLR20">
-						<a class="bBasic3 rr5 taC bBlue colorfff" href=""><b>Agregar Pregunta</b></a>
+						<a class="bBasic3 rr5 taC bBlue colorfff vWhite" href=""><b>Agregar Pregunta</b></a>
 					</div>
 				</div>
 
@@ -74,6 +74,12 @@
 	            				<img src="resources/img/temporal/fechavigencia.png">
 	            			</div>
 	            			<div class="col-xs-4"></div>
+	            		</div>
+	            		<div class="mb10">
+	            			<input id="chk-t" class="stramboticCheck" type="checkbox" name="chkcalif"><label for="chk-t"><span></span>&nbsp;&nbsp;<div class="dIB t16">Enviar a todos los integrantes del Colegio</div></label>
+	            		</div>
+	            		<div class="mb30">
+							<input id="chk-oblig" class="stramboticCheck" type="checkbox" name="chkcalif"><label for="chk-oblig"><span></span>&nbsp;&nbsp;<div class="dIB t16">La encuesta es obligatoria</div></label>
 	            		</div>
             		</div>
             	</div>
@@ -114,8 +120,8 @@
 	</div>
 
 	<div class="taR">
-		<a class="bBasic2 rr40 bGray3 taC t16" style="" href=""><b class="color666">Cancelar</b></a>
-		<a class="bBasic2 rr40 bVerde5 taC t16" style="" href=""><b class="colorfff">Siguiente</b></a>
+		<a class="bBasic2 rr40 bGray3 taC t16" style="padding: 12px 40px" href=""><b class="color666">Cancelar</b></a>
+		<a class="bBasic2 rr40 bVerde5 taC t16" style="padding: 12px 40px" href=""><b class="colorfff">Siguiente</b></a>
 	</div>
 
 

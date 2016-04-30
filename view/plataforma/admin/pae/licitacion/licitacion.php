@@ -337,7 +337,7 @@
                                 Presupuesto Mensual 
                             </div><!--
                         --><div class="col-xs-8 col-sm-8">
-                                <input type="number" name="" id="" class="form-control input-bykrF">
+                                <input type="number" name="" id="" min="0" class="form-control input-bykrF">
                             </div>
                         </div>
 
@@ -346,7 +346,7 @@
                                 Valor total del Convenio
                             </div><!--
                         --><div class="col-xs-8 col-sm-8">
-                                <input type="number" name="" id="" class="form-control input-bykrF">
+                                <input type="number" name="" id="" min="0" class="form-control input-bykrF">
                             </div>
                         </div>
 

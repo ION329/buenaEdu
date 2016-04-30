@@ -194,6 +194,9 @@ tr.bBeycker:hover{
 .bykrHober3                                 { border: 1px solid transparent; }
 .bykrHober3:hover                           { background-color: #E0ECF8; border: 1px solid #25b76c; }
 
+.unidadD                                    { border: 1px solid transparent; }
+.unidadA                                    { background-color: #E0ECF8; border: 1px solid #25b76c; }
+
 .menu-bykr li.active > a {
     background-color: #7f95a3 !important;
     border-radius: 5px;
@@ -228,11 +231,11 @@ tr.bBeycker:hover{
 .menuAzul                               { background-color: #4d90fe; color: #fff; }
 .menuAzul2                              { background-color: #4d90fe; color: #fff; }
 
-.iconruta1                              { width: 49px; height: 28px; background-image: url("../../resources/img/icons/iconruta11.png"); }
-.iconruta2                              { width: 47px; height: 30px; background-image: url("../../resources/img/icons/iconruta22.png"); }
-.iconruta3                              { width: 51px; height: 28px; background-image: url("../../resources/img/icons/iconruta33.png"); }
-.iconruta4                              { width: 32px; height: 29px; background-image: url("../../resources/img/icons/iconruta44.png"); }
-.iconruta5                              { width: 31px; height: 27px; background-image: url("../../resources/img/icons/iconruta55.png"); }
+.iconruta1                              { width: 49px; height: 30px; background-image: url("../../resources/img/icons/iconruta11.png"); background-repeat: no-repeat; }
+.iconruta2                              { width: 47px; height: 30px; background-image: url("../../resources/img/icons/iconruta22.png"); background-repeat: no-repeat; }
+.iconruta3                              { width: 51px; height: 30px; background-image: url("../../resources/img/icons/iconruta33.png"); background-repeat: no-repeat; }
+.iconruta4                              { width: 32px; height: 30px; background-image: url("../../resources/img/icons/iconruta44.png"); background-repeat: no-repeat; }
+.iconruta5                              { width: 31px; height: 30px; background-image: url("../../resources/img/icons/iconruta55.png"); background-repeat: no-repeat; }
 
 .menuAzul li.active a                   { background-color: #fff !important; }
 .menuAzul li a:hover                    { background-color: #ddd !important; }
@@ -241,11 +244,11 @@ tr.bBeycker:hover{
 .menuAzul2 li.active                    { background-color: #ebebeb !important; }
 .menuAzul2 li a:hover                   { background-color: #ccc !important; }
 
-li.active .iconruta1                    { width: 49px; height: 28px; background-image: url("../../resources/img/icons/iconruta1.png"); }
-li.active .iconruta2                    { width: 47px; height: 30px; background-image: url("../../resources/img/icons/iconruta2.png"); }
-li.active .iconruta3                    { width: 51px; height: 28px; background-image: url("../../resources/img/icons/iconruta3.png"); }
-li.active .iconruta4                    { width: 32px; height: 29px; background-image: url("../../resources/img/icons/iconruta4.png"); }
-li.active .iconruta5                    { width: 31px; height: 27px; background-image: url("../../resources/img/icons/iconruta5.png"); }
+li.active .iconruta1                    { width: 49px; height: 30px; background-image: url("../../resources/img/icons/iconruta1.png"); background-repeat: no-repeat; }
+li.active .iconruta2                    { width: 47px; height: 30px; background-image: url("../../resources/img/icons/iconruta2.png"); background-repeat: no-repeat; }
+li.active .iconruta3                    { width: 51px; height: 30px; background-image: url("../../resources/img/icons/iconruta3.png"); background-repeat: no-repeat; }
+li.active .iconruta4                    { width: 32px; height: 30px; background-image: url("../../resources/img/icons/iconruta4.png"); background-repeat: no-repeat; }
+li.active .iconruta5                    { width: 31px; height: 30px; background-image: url("../../resources/img/icons/iconruta5.png"); background-repeat: no-repeat; }
 
 .iconencuesta1                          { width: 30px; height: 29px; background-image: url("../../resources/img/icons/iconencuesta11.png"); }
 .iconencuesta2                          { width: 27px; height: 27px; background-image: url("../../resources/img/icons/iconencuesta22.png"); }
@@ -255,15 +258,15 @@ li.active .iconencuesta1                { width: 30px; height: 29px; background-
 li.active .iconencuesta2                { width: 27px; height: 27px; background-image: url("../../resources/img/icons/iconencuesta2.png"); }
 li.active .iconencuesta3                { width: 31px; height: 20px; background-image: url("../../resources/img/icons/iconencuesta3.png"); }
 
-.iconrecorrido1                         { width: 28px; height: 26px; background-image: url("../../resources/img/icons/iconrecorrido11.png"); }
-.iconrecorrido2                         { width: 27px; height: 30px; background-image: url("../../resources/img/icons/iconrecorrido22.png"); }
-.iconrecorrido3                         { width: 42px; height: 24px; background-image: url("../../resources/img/icons/iconrecorrido33.png"); }
+.iconrecorrido1                         { width: 28px; height: 30px; background-image: url("../../resources/img/icons/iconrecorrido11.png"); background-repeat: no-repeat; }
+.iconrecorrido2                         { width: 27px; height: 30px; background-image: url("../../resources/img/icons/iconrecorrido22.png"); background-repeat: no-repeat; }
+.iconrecorrido3                         { width: 42px; height: 30px; background-image: url("../../resources/img/icons/iconrecorrido33.png"); background-repeat: no-repeat; }
 
-li.active .iconrecorrido1               { width: 28px; height: 26px; background-image: url("../../resources/img/icons/iconrecorrido1.png"); }
-li.active .iconrecorrido2               { width: 27px; height: 30px; background-image: url("../../resources/img/icons/iconrecorrido2.png"); }
-li.active .iconrecorrido3               { width: 42px; height: 24px; background-image: url("../../resources/img/icons/iconrecorrido3.png"); }
+li.active .iconrecorrido1               { width: 28px; height: 30px; background-image: url("../../resources/img/icons/iconrecorrido1.png"); background-repeat: no-repeat; }
+li.active .iconrecorrido2               { width: 27px; height: 30px; background-image: url("../../resources/img/icons/iconrecorrido2.png"); background-repeat: no-repeat; }
+li.active .iconrecorrido3               { width: 42px; height: 30px; background-image: url("../../resources/img/icons/iconrecorrido3.png"); background-repeat: no-repeat; }
 
-.menuAzulC li.active a                  { color: #6FB8D7 !important; background-color: #fff !important; }
+.menuAzulC li.active a                  { color: #48a8b8 !important; background-color: #fff !important; }
 .menuAzul3 li.active a                  { color: #4d90fe !important; background-color: #fff !important; }
 
 
@@ -294,4 +297,209 @@ li.active .iconrecorrido3               { width: 42px; height: 24px; background-
 
 .bpointBlue li {
     color: #58D3F7;
+}
+
+a.vWhite:hover {
+    color: #333 !important;
+}
+
+a.vWhite:visited {
+    color: #fff;
+}
+
+.colorVerdeTi{
+    color: #48a8b8;
+}
+
+/* Estilos del input range */
+
+input[type=range].stramboticRange {
+  -webkit-appearance: none; /* Hides the slider so that custom slider can be made */
+  width: 100%; /* Specific width is required for Firefox. */
+}
+
+input[type=range].stramboticRange::-webkit-slider-thumb {
+  -webkit-appearance: none;
+}
+
+input[type=range].stramboticRange:focus {
+  outline: none; /* Removes the blue border. You should probably do some kind of focus styling for accessibility reasons though. */
+}
+
+input[type=range].stramboticRange::-ms-track {
+  width: 100%;
+  cursor: pointer;
+  background: transparent; /* Hides the slider so custom styles can be added */
+  border-color: transparent;
+  color: transparent;
+}
+
+/* Special styling for WebKit/Blink */
+input[type=range].stramboticRange::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  border: 3px solid #567d86;
+  height: 36px;
+  width: 36px;
+  border-radius: 50px;
+  background: #0b3740;
+  cursor: pointer;
+  margin-top: -14px; /* You need to specify a margin in Chrome, but in Firefox and IE it is automatic */
+  /*box-shadow: 1px 1px 1px #000000, 0px 0px 1px #0d0d0d; /* Add cool effects to your sliders! */
+}
+
+/* All the same stuff for Firefox */
+input[type=range].stramboticRange::-moz-range-thumb {
+  /*box-shadow: 1px 1px 1px #000000, 0px 0px 1px #0d0d0d;*/
+  border: 3px solid #567d86;
+  height: 36px;
+  width: 36px;
+  border-radius: 50px;
+  background: #0b3740;
+  cursor: pointer;
+}
+
+/* All the same stuff for IE */
+input[type=range].stramboticRange::-ms-thumb {
+  /*box-shadow: 1px 1px 1px #000000, 0px 0px 1px #0d0d0d;*/
+  border: 3px solid #567d86;
+  height: 36px;
+  width: 36px;
+  border-radius: 50px;
+  background: #0b3740;
+  cursor: pointer;
+}
+
+input[type=range].stramboticRange::-webkit-slider-runnable-track {
+  width: 100%;
+  height: 15.4px;
+  cursor: pointer;
+  /*box-shadow: 1px 1px 1px #000000, 0px 0px 1px #0d0d0d;*/
+  background: #6cadbb;
+  border-radius: 5px;
+  /*border: 0.2px solid #010101;*/
+}
+
+input[type=range].stramboticRange:focus::-webkit-slider-runnable-track {
+  background: #6cadbb;
+}
+
+input[type=range].stramboticRange::-moz-range-track {
+  width: 100%;
+  height: 15.4px;
+  cursor: pointer;
+  /*box-shadow: 1px 1px 1px #000000, 0px 0px 1px #0d0d0d;*/
+  background: #6cadbb;
+  border-radius: 5px;
+  /*border: 0.2px solid #010101;*/
+}
+
+input[type=range].stramboticRange::-ms-track {
+  width: 100%;
+  height: 15.4px;
+  cursor: pointer;
+  background: transparent;
+  border-color: transparent;
+  border-width: 16px 0;
+  color: transparent;
+}
+input[type=range].stramboticRange::-ms-fill-lower {
+  background: #6cadbb;
+  /*border: 0.2px solid #010101;*/
+  border-radius: 5px;
+  /*box-shadow: 1px 1px 1px #000000, 0px 0px 1px #0d0d0d;*/
+}
+input[type=range].stramboticRange:focus::-ms-fill-lower {
+  background: #6cadbb;
+}
+input[type=range]::-ms-fill-upper {
+  background: #6cadbb;
+  /*border: 0.2px solid #010101;*/
+  border-radius: 5px;
+  /*box-shadow: 1px 1px 1px #000000, 0px 0px 1px #0d0d0d;*/
+}
+input[type=range].stramboticRange:focus::-ms-fill-upper {
+  background: #6cadbb;
+}
+
+/* Fin de Estilos del input range */
+
+/* Estilos del checkbox*/
+
+input[type=checkbox].stramboticCheck:not(old),
+input[type=radio   ].stramboticCheck:not(old){
+  width     : 2em;
+  margin    : 0;
+  padding   : 0;
+  font-size : 1em;
+  opacity   : 0;
+}
+
+input[type=checkbox].stramboticCheck:not(old) + label,
+input[type=radio   ].stramboticCheck:not(old) + label{
+  display      : inline-block;
+  margin-left  : -2em;
+  line-height  : 1.5em;
+   -ms-transform: scale(0.98); /* IE */
+  -moz-transform: scale(0.98); /* FF */
+  -webkit-transform: scale(0.98); /* Safari and Chrome */
+  -o-transform: scale(0.98); /* Opera */
+  padding: 5px;
+}
+
+input[type=checkbox].stramboticCheck:not(old) + label > span,
+input[type=radio   ].stramboticCheck:not(old) + label > span{
+  display          : inline-block;
+  width            : 1.745em;
+  height           : 1.745em;
+  /*margin           : 0.25em 0.5em 0.25em 0.25em;*/
+  border           : 1px solid rgb(120,120,120);
+  border-radius    : 0;
+  background       : rgb(224,224,224);
+  background-image :    -moz-linear-gradient(rgb(240,240,240),rgb(224,224,224));
+  background-image :     -ms-linear-gradient(rgb(240,240,240),rgb(224,224,224));
+  background-image :      -o-linear-gradient(rgb(240,240,240),rgb(224,224,224));
+  background-image : -webkit-linear-gradient(rgb(240,240,240),rgb(224,224,224));
+  background-image :         linear-gradient(rgb(240,240,240),rgb(224,224,224));
+  vertical-align   : bottom;
+  -ms-transform: scale(0.98); /* IE */
+  -moz-transform: scale(0.98); /* FF */
+  -webkit-transform: scale(0.98); /* Safari and Chrome */
+  -o-transform: scale(0.98); /* Opera */
+  padding: 5px;
+}
+
+input[type=checkbox].stramboticCheck:not(old):checked + label > span,
+input[type=radio   ].stramboticCheck:not(old):checked + label > span{
+  background-image :    -moz-linear-gradient(rgb(224,224,224),rgb(240,240,240));
+  background-image :     -ms-linear-gradient(rgb(224,224,224),rgb(240,240,240));
+  background-image :      -o-linear-gradient(rgb(224,224,224),rgb(240,240,240));
+  background-image : -webkit-linear-gradient(rgb(224,224,224),rgb(240,240,240));
+  background-image :         linear-gradient(rgb(224,224,224),rgb(240,240,240));
+}
+
+input[type=checkbox].stramboticCheck:not(old):checked + label > span:before{
+  content     : '✓';
+  display     : block;
+  width       : 1em;
+  color       : rgb(153,204,102);
+  font-size   : 1.3em;
+  line-height : 0.8em;
+  text-align  : top;
+  text-shadow : 0 0 0.015em rgb(115,153,77);
+  font-weight : bold;
+}
+
+input[type=radio].stramboticCheck:not(old):checked +  label > span > span{
+  display          : block;
+  width            : 0.5em;
+  height           : 0.5em;
+  margin           : 0.125em;
+  border           : 0.0625em solid rgb(115,153,77);
+  border-radius    : 0.125em;
+  background       : rgb(153,204,102);
+  background-image :    -moz-linear-gradient(rgb(179,217,140),rgb(153,204,102));
+  background-image :     -ms-linear-gradient(rgb(179,217,140),rgb(153,204,102));
+  background-image :      -o-linear-gradient(rgb(179,217,140),rgb(153,204,102));
+  background-image : -webkit-linear-gradient(rgb(179,217,140),rgb(153,204,102));
+  background-image :         linear-gradient(rgb(179,217,140),rgb(153,204,102));
 }

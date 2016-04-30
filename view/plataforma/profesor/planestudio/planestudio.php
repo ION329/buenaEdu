@@ -46,13 +46,13 @@
 					<div class="bWhite p10">
 						<ul class="nav ff2 menu-bykr">
                                         
-	                        <li class="active"><a data-toggle="tab" href="#informacion" target="_self" class="colorVerde2 pMenu">Informacion Básica</a></li>
+	                        <li class="active"><a data-toggle="tab" href="#informacion" target="_self" class="colorVerde2 pMenu bPE1">Informacion Básica</a></li>
 	                        
-	                        <li><a data-toggle="tab" href="#objetivos" target="_self" class="colorVerde2 pMenu">Objetivos</a></li>
+	                        <li><a data-toggle="tab" href="#objetivos" target="_self" class="colorVerde2 pMenu bPE2">Objetivos</a></li>
 	                        
-	                        <li><a data-toggle="tab" href="#curriculo" target="_self" class="colorVerde2 pMenu">Contenido</a></li>
+	                        <li><a data-toggle="tab" href="#curriculo" target="_self" class="colorVerde2 pMenu bPE3">Contenido</a></li>
 
-	                        <li><a data-toggle="tab" href="#logros" target="_self" class="colorVerde2 pMenu">Competencias</a></li>   
+	                        <li><a data-toggle="tab" href="#logros" target="_self" class="colorVerde2 pMenu bPE4">Competencias</a></li>   
 	                        
 	                    </ul>  	
 					</div>
@@ -65,7 +65,7 @@
         		<div class="col-xs-12">
         			<div class="tab-content">
 		                <div id="informacion" class="tab-pane fade in active">
-                			<div class="p20">
+                			<div class="p30">
 		                		<div class="t24 ff2 mb10">Informacion Básica</div>
 								<div class="t16 mb20">Cuentales algo a los estudiantes y acudientes sobre lo que van a aprender.</div>
 								<div class="mb20"><textarea id="" class="form-control input-bykrF" style="resize: none; width: 100%" rows="4" name=""></textarea></div>
@@ -73,33 +73,35 @@
                 					<a class="bBasic2 rr5 bVerde5 taC" href=""><b class="colorfff">Guardar</b></a>
                 				</div>
 								<div class="color666 ff2 mb20">GRADOS ASIGNADOS</div>
-								<?php for($hh=0; $hh<3; $hh++){ ?>
-								<div class="row m0 bS1 rr5 mb40" style="padding: 15px">
-									<div class="col-xs-3 ff2 vcenter">Grado 6°A</div><!--
-								--><div class="col-xs-3 vcenter">Matematicas</div><!--
-								--><div class="col-xs-3 vcenter">45 Estudiantes</div><!--
-								--><div class="col-xs-3 vcenter ff2 colorVerde5">Andrés Mauricio Ospina</div>
+								<div class="mb40">
+									<?php for($hh=0; $hh<3; $hh++){ ?>
+									<div class="row m0 bS1 rr5 mb10" style="padding: 15px">
+										<div class="col-xs-3 ff2 vcenter">Grado 6°A</div><!--
+									--><div class="col-xs-3 vcenter">Matematicas</div><!--
+									--><div class="col-xs-3 vcenter">45 Estudiantes</div><!--
+									--><div class="col-xs-3 vcenter ff2 colorVerde5">Andrés Mauricio Ospina</div>
+									</div>
+									<?php } ?>
 								</div>
-								<?php } ?>
 								<div class="taR mb10">
 									<a class="bBasic2 rr40 bGray3 taC t16" href="" style=""><b class="color666">Cancelar</b></a>
-									<a class="bBasic2 rr40 bVerde5 taC t16" href="" style=""><b class="colorfff">Siguiente</b></a>
+									<a class="bBasic2 rr40 bVerde5 taC t16 bPEsiguiente1" href="" style=""><b class="colorfff">Siguiente</b></a>
 								</div>	
 		                	</div>	
 		                	
                 		</div>
 
                 		<div id="objetivos" class="tab-pane fade">
-							<div class="p20">
+							<div class="p30">
 		                		<div class="t24 ff2 mb10">Objetivos del Plan de Estudio</div>
 								<div class="t16 mb20">Establece lo que aprenderán los estudiantes y lo que necesitaran para lograr los objetivos.</div>
 								<div class="tab mb20">
 									<div class="tabIn">
-										<div class="colorVerde2 ff2 mb5">Al finalizar el curso, los estudiantes podrán...</div>
+										<div class="colorVerde2 ff2 mb10">Al finalizar el curso, los estudiantes podrán...</div>
 										<div>Incluye detalles sobre las destrezas especificas que aprenderán los estudiantes.</div>
 									</div>
-									<div class="tabIn taR">
-										<a class="bBasic3 rr5 taC bBlue colorfff bAbrir1" href=""><b>Nuevo Objetivo</b></a>
+									<div class="tabIn taR" style="vertical-align: bottom">
+										<a class="bBasic3 rr5 taC bBlue colorfff bAbrir1 vWhite" href=""><b>Nuevo Objetivo</b></a>
 									</div>
 								</div>
 								
@@ -113,7 +115,7 @@
 										</select>
 									</div>
 									<div class="mb10"><textarea id="" class="form-control input-bykrF" style="resize: none; width: 100%" rows="4" name="" placeholder="Descripción"></textarea></div>
-									<div class="mb20"><a class="bBasic2 rr5 bVerde5 taC bAbrir1" href=""><b class="colorfff">Guardar</b></a></div>	
+									<div class="mb40"><a class="bBasic2 rr5 bVerde5 taC bAbrir1" href=""><b class="colorfff">Guardar</b></a></div>	
 								</div>
 								
 								<div class="p20 mb40 bS1 bGray3">
@@ -122,12 +124,12 @@
 								</div>
 								<div class="taR mb10">
 									<a class="bBasic2 rr40 bGray3 taC t16" href="" style=""><b class="color666">Cancelar</b></a>
-									<a class="bBasic2 rr40 bVerde5 taC t16" href="" style=""><b class="colorfff">Siguiente</b></a>
+									<a class="bBasic2 rr40 bVerde5 taC t16 bPEsiguiente2" href="" style=""><b class="colorfff">Siguiente</b></a>
 								</div>	
 							</div>
 		                </div>
 		                <div id="curriculo" class="tab-pane fade">
-		                	<div class="p20">
+		                	<div class="p30">
 		                		<div class="ff2 t24 mb10">Crear Contenido</div>
 		                		<div class="color666 t16 mb10">Agrega la Unidad con los temas que se verán en el año lectivo</div>
 		                		<!--
@@ -140,7 +142,7 @@
 		                			<div class="col-xs-9"></div>
 		                		</div>
 		                		-->
-		                		<div class="mb10"><a class="bBasic3 rr5 taC bBlue colorfff bAbrir2" href=""><b>Crear Unidad</b></a>&nbsp;&nbsp;<a class="bBasic3 rr5 taC bBlue colorfff bAbrir3" href=""><b>Agregar Tema</b></a></div>
+		                		<div class="mb10"><a class="bBasic3 rr5 taC bBlue colorfff bAbrir2 vWhite" href=""><b>Crear Unidad</b></a>&nbsp;&nbsp;<a class="bBasic3 rr5 taC bBlue colorfff bAbrir3 vWhite" href=""><b>Agregar Tema</b></a></div>
 		                		<div class="row mb40">
 		                			<div class="col-xs-9">
 		                				<!--<hr style="border-color: #000; margin-top: 0; margin-bottom: 10px">-->
@@ -288,12 +290,12 @@
 		                		</div>
 		                		<div class="taR mb10">
 									<a class="bBasic2 rr40 bGray3 taC t16" href="" style=""><b class="color666">Cancelar</b></a>
-									<a class="bBasic2 rr40 bVerde5 taC t16" href="" style=""><b class="colorfff">Siguiente</b></a>
+									<a class="bBasic2 rr40 bVerde5 taC t16 bPEsiguiente3" href="" style=""><b class="colorfff">Siguiente</b></a>
 								</div>	
 		                	</div>
 		                </div>
 		                <div id="logros" class="tab-pane fade">
-		                	<div class="p20">
+		                	<div class="p30">
 		                		<div class="ff2 t24 mb10">Competencias</div>
 								<div class="color666 t16 mb10">Agrega la Unidad con los temas que se verán en el año lectivo</div>
 								<div class="row mb10">
@@ -305,7 +307,7 @@
 									<div class="col-xs-9"></div>
 								</div>
 								<div class="mb10">
-									<a class="bBasic3 rr5 taC bBlue colorfff" href=""><b>Crear Competencia</b></a>
+									<a class="bBasic3 rr5 taC bBlue colorfff vWhite" href=""><b>Crear Competencia</b></a>
 								</div>
 								<div class="row mb40">
 		                			<div class="col-xs-9">
@@ -329,7 +331,7 @@
                 				</div>
                 				<div class="taR mb10">
 									<a class="bBasic2 rr40 bGray3 taC t16" href="" style=""><b class="color666">Cancelar</b></a>
-									<a class="bBasic2 rr40 bVerde5 taC t16" href="" style=""><b class="colorfff">Siguiente</b></a>
+									<a class="bBasic2 rr40 bVerde5 taC t16 bPEsiguiente4" href="" style=""><b class="colorfff">Siguiente</b></a>
 								</div>	
 		                	</div>
 		                </div>
