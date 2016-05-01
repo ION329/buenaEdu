@@ -57,7 +57,7 @@
                                 <div class="mb10 ff2 ">
                                     <label for="">La institución ya cuenta con un menú escolar</label> &nbsp;
                                     <div class="btn-group" style="width:117px;">
-                                        <button class="btn btn-primary bGray3 btn-bykr rr20 color666 ff2" style="border-color:#ccc; padding: 5px 21px;" type="button">
+                                        <button class="btn btn-primary bGray3 btn-bykr rr20 color666 ff2 bAbrir2" style="border-color:#ccc; padding: 5px 21px;" type="button">
                                             SI        
                                         </button>
                                         <button class="btn btn-primary bGray3 btn-bykr rr20 color666 ff2" style="border-color:#ccc;" type="button">
@@ -67,11 +67,8 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="row m0">
-                            <div class="col-sm-3 col-xs-3 vcenter">
-                                <img src="resources/img/icons/logoInstit.jpg">
-                            </div><!--
-                        --><div class="col-sm-9 col-xs-9 vcenter">
+                        <div class="row m0 dAbre2 dN">
+                            <div class="col-sm-12 col-xs-12 vcenter">
                                 <input class="inpSt2" type="file" placeholder="Nombre de la Sede">
                                 <div class="bGray3 color999 t12 p10">La foto debe ser en formato PDF, Word o Excell, y menor a 200 Kb.</div>
                             </div>
@@ -81,8 +78,8 @@
                     <div class="contEstandar p30 bWhite mb20">   
                         <div class="row m0 mb20">
                             <div class="col-xs-12 col-sm-12">
-                                <span class="ff2 t16">PROVEDORES OFERENTES</span><br><br>
-                                <span class="color999">Ingresa ahora los probedores con los que desees licitar</span>
+                                <span class="ff2 t16">PROVEEDORES OFERENTES</span><br><br>
+                                <span class="color999">Ingresa ahora los proveedores con los que desees licitar</span>
                             </div>
                         </div>
                         
@@ -115,47 +112,51 @@
                         </div>
 
                         <div class="row m0 mb20">
-                            <div class="col-xs-12 col-sm-12 mb20">
-                                <a class="bBasic2 rr40 color666 bGray3 taC" href=""><img src="resources/img/temporal/cubiertos.png">Nuevo Oferente</a>
-                            </div>
-                            <div class="col-xs-12 col-sm-12 ff2">Creando Provedor Oferente</div>
-                        </div>
-
-                        <div class="row m0 mb20">
                             <div class="col-xs-12 col-sm-12">
-                                <label for="" class="color999 ff1 mb10">Nombre o Razón Social</label>
-                                <input type="text" name="" id="" class="form-control input-bykrF">
+                                <a class="bBasic2 rr40 color666 bGray3 taC bAbrir3" href=""><img src="resources/img/icons/cubiertospae.png">&nbsp;<span class="vcenter">Nuevo Oferente</span></a>
                             </div>
                         </div>
 
-                        <div class="row m0">
-                            <div class="col-xs-6 col-sm-6 mb20">
-                                <label for="" class="color999 ff1 mb10">Tipo de Razón Social</label>
-                                <select class="selStd5 rr5">
-                                    <option value="privada">Empresa Privada</option>
-                                    <option value="publica">Empresa Publica</option>
-                                </select>
-                            </div>
-                            <div class="col-xs-6 col-sm-6 mb20">
-                                <label for="" class="color999 ff1 mb10">Número</label>
-                                <input type="text" name="" id="" class="form-control input-bykrF">
-                            </div>
-                            <div class="col-xs-6 col-sm-6 mb20">
-                                <label for="" class="color999 ff1 mb10">Persona que contacta</label>
-                                <input type="text" name="" id="" class="form-control input-bykrF">
-                            </div>
-                            <div class="col-xs-6 col-sm-6 mb20">
-                                <label for="" class="color999 ff1 mb10">Email</label>
-                                <input type="text" name="" id="" class="form-control input-bykrF">
+                        <div class="dAbre3 dN">
+
+                            <div class="col-xs-12 col-sm-12 ff2 mb20">Creando Proveedor Oferente</div>
+
+                            <div class="row m0 mb20">
+                                <div class="col-xs-12 col-sm-12">
+                                    <label for="" class="color999 ff1 mb10">Nombre o Razón Social</label>
+                                    <input type="text" name="" id="" class="form-control input-bykrF">
+                                </div>
                             </div>
 
-                            <div class="col-xs-12 col-sm-12 mb20">
-                                <label for="notificaciones" class="ff1 color999"><input type="checkbox" name="raciones" id="notificaciones"> &nbsp;Enviar Notificación al email</label>
-                            </div>
+                            <div class="row m0">
+                                <div class="col-xs-6 col-sm-6 mb20">
+                                    <label for="" class="color999 ff1 mb10">Tipo de Razón Social</label>
+                                    <select class="selStd5 rr5">
+                                        <option value="privada">Empresa Privada</option>
+                                        <option value="publica">Empresa Publica</option>
+                                    </select>
+                                </div>
+                                <div class="col-xs-6 col-sm-6 mb20">
+                                    <label for="" class="color999 ff1 mb10">Número</label>
+                                    <input type="text" name="" id="" class="form-control input-bykrF">
+                                </div>
+                                <div class="col-xs-6 col-sm-6 mb20">
+                                    <label for="" class="color999 ff1 mb10">Persona que contacta</label>
+                                    <input type="text" name="" id="" class="form-control input-bykrF">
+                                </div>
+                                <div class="col-xs-6 col-sm-6 mb20">
+                                    <label for="" class="color999 ff1 mb10">Email</label>
+                                    <input type="text" name="" id="" class="form-control input-bykrF">
+                                </div>
 
-                            <div class="col-xs-12 col-sm-12">
-                                <a class="bBasic6 rr40 bBlue colorfff taC cP p1025">Confirmar</a> &nbsp;
-                                <a class="bBasic7 rr40 color666 taC cP p1025">Cancelar</a>
+                                <div class="col-xs-12 col-sm-12 mb20">
+                                    <label for="notificaciones" class="ff1 color999"><input type="checkbox" name="raciones" id="notificaciones"> &nbsp;Enviar Notificación al email</label>
+                                </div>
+
+                                <div class="col-xs-12 col-sm-12">
+                                    <a class="bBasic6 rr40 bBlue colorfff taC cP p1025">Confirmar</a> &nbsp;
+                                    <a class="bBasic7 rr40 color666 taC cP p1025">Cancelar</a>
+                                </div>
                             </div>
                         </div>
                     </div>
