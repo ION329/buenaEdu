@@ -325,9 +325,13 @@ var Banco = {
 			
 
 //PLATAFORMA - BUENA EDUCACIÓN [CONDUCTOR]	
-//////// PAE
 			}).when('/plataforma/conductor', {
 			templateUrl: 'view/plataforma/conductor/conductor.php',
+			controller: 'control_init'	
+			
+//PLATAFORMA - BUENA EDUCACIÓN [CONDUCTOR]	
+			}).when('/plataforma/visor-app', {
+			templateUrl: 'view/plataforma/visor-app/visor.php',
 			controller: 'control_init'	
 			
 			
