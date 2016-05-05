@@ -10,7 +10,7 @@
                     <div class="ff2 colorfff t30">Año Lectivo 2015 - 2016</div>
                 </div>
                 <div class="col-xs-6 taR">
-                    <a class="bBasic2 rr40 bVerde5 taC dAsignaturas1 dN" data-toggle="modal" href="" data-target="#nuevo-registro" style="margin: 0px 5px"><b class="colorfff">Finalizar y Guardar</b></a>
+                    <a class="bBasic2 rr40 bVerde5 taC cP dAsignaturas1 dN" style="margin: 0px 5px"><b class="colorfff">Finalizar y Guardar</b></a>
                 </div>
             </div>
         </div>
