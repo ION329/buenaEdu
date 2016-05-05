@@ -12,10 +12,11 @@ var Ion = {
 
 			var alto = $(window).height();
 			var ancho = $(window).width();
-
-
-
-
+			
+			$(".buttonH").live('click', function() {
+				var altDerecha = $(".hDerecha").height();
+				$(".hIzquierda").height(altDerecha);
+			});
 
 			$(".closeModalion").live('click', function() {
 				$('.modal').modal('hide');
@@ -87,6 +88,8 @@ var Ion = {
 		  	$(".bAbrir-bykr").live('click', function() {
 				$('.dAbre-bykr1').slideToggle(500);
 		  	});
+
+
 			
 			$(".next1").live('click', function() { $(this).slideUp(500); $('.next2').slideDown(500); });
 			$(".next2").live('click', function() { $(this).slideUp(500); $('.next3').slideDown(500); });
@@ -152,14 +155,6 @@ var Ion = {
 
 			$("a.bCleanAll").live('click', function() {
 			    $("label").removeClass("active");
-			});
-
-			$("a.clean-1").live('click', function() {
-			    $("label.indice-1").removeClass("active");
-			});
-
-			$("a.clean-2").live('click', function() {
-			    $("label.indice-2").removeClass("active");
 			});
 
 			$(".bAdd1").live('click', function() {

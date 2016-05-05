@@ -1,17 +1,17 @@
 <div class="ionix">
     <div class="row m0">
         <div class="col-xs-4 p0">
-            <div class="contEstandar bGray3">
+            <div class="contEstandar bGray3 hIzquierda">
                 <div>
                     <ul class="nav ff2 t16 menuAzul2" style="width: 100%;">
                         <li class="active">
-                            <a class="color666 taC tU" style="padding-top: 11px; padding-bottom: 11px;" target="_self" href="#resumen" data-toggle="tab"><div class="dIB iconruta4 vcenter"></div></a>
+                            <a class="color666 taC tU buttonH" style="padding-top: 11px; padding-bottom: 11px;" target="_self" href="#resumen" data-toggle="tab"><div class="dIB iconruta4 vcenter"></div></a>
                         </li>
                         <li>
-                            <a class="color666 taC tU" style="padding-top: 11px; padding-bottom: 11px;" target="_self" href="#rutas" data-toggle="tab"><div class="dIB iconruta1 vcenter"></div></a>
+                            <a class="color666 taC tU buttonH" style="padding-top: 11px; padding-bottom: 11px;" target="_self" href="#rutas" data-toggle="tab"><div class="dIB iconruta1 vcenter"></div></a>
                         </li>
                         <li>
-                            <a class="color666 taC tU" style="padding-top: 11px; padding-bottom: 11px;" target="_self" href="#notificaciones" data-toggle="tab"><div class="dIB iconruta5 vcenter"></div></a>
+                            <a class="color666 taC tU buttonH" style="padding-top: 11px; padding-bottom: 11px;" target="_self" href="#notificaciones" data-toggle="tab"><div class="dIB iconruta5 vcenter"></div></a>
                         </li>
                     </ul>
                 </div>
@@ -128,7 +128,7 @@
                         
             </div>
         </div>
-        <div class="col-xs-8 p0 fondomapa"></div>
+        <div class="col-xs-8 p0 fondomapa hDerecha"></div>
     </div>
 </div>
 
