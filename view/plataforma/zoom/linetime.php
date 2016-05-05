@@ -24,8 +24,19 @@
                                     <div class="horaFinalMateria color666 ff1">9:30</div>
                                 </div>
                             </div>
+
+                            <div class="tabAll materiaEst bSR BSL" style="left:210px; width:112px;" ><!-- WIDTH = cada 30 mins * 24px ;  TOP = #horaInicial - 6 * 24 + #horas - 6 -->
+                                <div class="tabIn">
+                                    <div class="taC color333 colorHH ff2"></div>
+                                    <div class="taC colorVerde3 colorHH t40 mb10"><img src="resources/img/icons/loncheralt.png"></div>
+                                    <div class="taC color333 ff2 mb30 colorHH">LONCHERA</div>
+                                    <div class="taC color333 colorHH"><span class="p310 bS1 rr20 cP" data-target="#aprobacion-menu" data-toggle="modal">ver menú</span></div>
+                                    <div class="horaIniciaMateria color666 ff1"></div>
+                                    <div class="horaFinalMateria color666 ff1"></div>
+                                </div>
+                            </div>
                             
-                            <div class="tabAll materiaEst materiactual bSR BSL" style="left:280px; width:280px;" ><!-- WIDTH = cada 30 mins * 24px ;  TOP = #horaInicial - 6 * 24 + #horas - 6 -->
+                            <div class="tabAll materiaEst materiactual bSR BSL" style="left:314px; width:246px;" ><!-- WIDTH = cada 30 mins * 24px ;  TOP = #horaInicial - 6 * 24 + #horas - 6 -->
                                 <div class="tabIn">
                                     <div class="taC color333 color ff2 mb30 colorHH">Lengua y literatura</div>
                                     <div class="taC colorOrange t40 mb10 colorHH">3.2</div>

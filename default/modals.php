@@ -837,3 +837,118 @@
         </div>
     </div>
 </div>
+
+<div id="aprobacion-menu" class="modal fade ff5">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header" style="background-color: #fdf7cd">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close" style="opacity: unset; background-color: #fff; border-radius: 50px; padding: 4px 10px"><span aria-hidden="true" class="t18 colorRed">&times;</span></button>
+                <h3 class="modal-title" style="padding-left: 10px"><span class="ff2">Menú Semana 1</span></h3>
+            </div>
+            <div class="modal-body">
+                <div class="p10">
+                    <div class="ff2 t16 mb20">Lunes, 24 de Marzo 2016</div>    
+                    <div class="bS1 p20">
+                        <div class="row">
+                            <div class="col-xs-3 col-sm-3">
+                                <img src="resources/img/icons/loncheralt.png">
+                            </div>
+                            <div class="col-xs-9 col-sm-9">
+                                <div class="t16 ff2 mb10">LONCHERA</div>
+                                <ul class="bpointBlue" style="margin-left: 13px">
+                                    <li><span class="color333">Milo / Jugo de Naranja</span></li>
+                                    <li><span class="color333">Pan tostado con Mantequilla</span></li>
+                                    <li><span class="color333">Fruta</span></li>   
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            
+            </div>
+            <div class="modal-footer taL" style="background-color: #dedede">
+                <div class="p10">
+                    <div class="tab">
+                        <div class="tabIn"><div class="ff2 t18">¿Te gusta el menú?</div></div>
+                        <div class="tabIn taR">
+                            <a class="bBasic1 rr5 bVerde5 taC p1020 cP t16" style="border: 1px solid transparent; padding: 10px 40px"><b class="colorfff">SI</b></a>
+                            <a class="bBasic1 rr5 bRojoBoton taC p1020 cP t16" style="border: 1px solid transparent; padding: 10px 40px"><b class="colorfff">NO</b></a>
+                        </div>
+                    </div>
+                    
+                    
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div id="calificar-menu" class="modal fade ff5">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header" style="background-color: #dedede">
+                <button type="button" class="close mb5" data-dismiss="modal" aria-label="Close" style="opacity: unset; background-color: #fff; border-radius: 50px; padding: 0px 6px"><span aria-hidden="true" class="t18 colorRed">&times;</span></button>
+                <div class="tab">
+                    <div class="tabIn"><span class="ff2 t16 mb20">Lunes, 24 de Marzo 2016</span></div>
+                    <div class="tabIn taR"><a href="" class="aSS" style="text-decoration: underline">Responder despues</a></div>
+                </div>
+                
+            </div>
+            <div class="modal-body">
+                <div class="p10">
+                    <div class="ff2 t16 mb20">¿Se recibio a satisfacción el menú propuesto por el oferente en el día de hoy?</div>    
+                    
+                    <div class="row">
+                        <div class="col-xs-6 pR0" style="padding-right: 5px">
+                            <div class="bS1 p20">
+                                <div class="mb10"><img src="resources/img/icons/loncheralt.png"></div>
+                                <div class="t16 ff2 mb10">LONCHERA</div>
+                                <ul class="bpointBlue" style="margin-left: 13px">
+                                    <li><span class="color333">Milo / Jugo de Naranja</span></li>
+                                    <li><span class="color333">Pan tostado con Mantequilla</span></li>
+                                    <li><span class="color333">Fruta</span></li>   
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="col-xs-6 pL0" style="padding-left: 5px">
+                            <div class="bS1 p20">
+                                <div class="mb10"><img src="resources/img/icons/almuerzolt.png" style="margin-bottom: 8px"></div>
+                                <div class="t16 ff2 mb10">ALMUERZO</div>
+                                <ul class="bpointBlue" style="margin-left: 13px">
+                                    <li><span class="color333">Milo / Jugo de Naranja</span></li>
+                                    <li><span class="color333">Pan tostado con Mantequilla</span></li>
+                                    <li><span class="color333">Fruta</span></li>   
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!--
+                    <div class="bS1 p20">
+                        <div class="row">
+                            <div class="col-xs-3 col-sm-3">
+                                <img src="resources/img/icons/loncheralt.png">
+                            </div>
+                            <div class="col-xs-9 col-sm-9">
+                                <div class="t16 ff2 mb10">LONCHERA</div>
+                                <ul class="bpointBlue" style="margin-left: 13px">
+                                    <li><span class="color333">Milo / Jugo de Naranja</span></li>
+                                    <li><span class="color333">Pan tostado con Mantequilla</span></li>
+                                    <li><span class="color333">Fruta</span></li>   
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    -->
+                </div>
+            
+            </div>
+            <div class="modal-footer taC" style="background-color: #dedede">
+                <div class="p10">                
+                    <a class="bBasic1 rr5 bVerde5 taC p1020 cP t16" style="border: 1px solid transparent; padding: 10px 40px"><b class="colorfff">SI</b></a>
+                    <a class="bBasic1 rr5 bRojoBoton taC p1020 cP t16" style="border: 1px solid transparent; padding: 10px 40px"><b class="colorfff">NO</b></a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

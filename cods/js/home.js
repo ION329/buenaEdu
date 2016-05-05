@@ -297,7 +297,11 @@ var Banco = {
 //////// CREAR NUEVO RECORRIDO
 			}).when('/plataforma/admin/rutas/crear-recorrido', {
 			templateUrl: 'view/plataforma/admin/rutas/crearrecorrido/index.php',
-			controller: 'control_init'																						
+			controller: 'control_init'	
+//////// CREAR INSPECCION DE ENTREGA
+			}).when('/plataforma/admin/pae/inspeccionentrega', {
+			templateUrl: 'view/plataforma/admin/pae/crearinspeccion/index.php',
+			controller: 'control_init'																									
 
 //PLATAFORMA - BUENA EDUCACIÓN [OFERENTE]	
 //////// PAE
@@ -333,6 +337,11 @@ var Banco = {
 			}).when('/plataforma/visor-app', {
 			templateUrl: 'view/plataforma/visor-app/visor.php',
 			controller: 'control_init'	
+
+//PLATAFORMA - BUENA EDUCACIÓN [PAE ADMIN]	
+			}).when('/plataforma/pae-admin', {
+			templateUrl: 'view/plataforma/pae-admin/programa/index.php',
+			controller: 'control_init'				
 			
 			
 			

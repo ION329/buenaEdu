@@ -8,6 +8,9 @@
             
             <div class="limite600">
                 <hr />
+
+                
+
                 <div class="row mb30">
                 
                     <div class="col-sm-6 col-xs-6">
@@ -33,7 +36,7 @@
                 </div>
                 
                 <div class="row">
-                
+
                 	<div class="col-sm-4 col-xs-4">
                     	<a href="#/plataforma/estudiante" target="_blank">
                             <div class="bGray3 rr20 p20">
@@ -58,9 +61,9 @@
                 
                 </div>
                 <hr />
-                <div class="row">
+                <div class="row mb30">
                 
-                	<div class="col-sm-3 col-xs-3">
+                	<div class="col-sm-4 col-xs-4">
                     	<a href="#/plataforma/oferente" target="_blank">
                             <div class="bGray3 rr40 p10">
                                 <span class="t14 color666 ff2">Oferente</span>
@@ -68,7 +71,7 @@
                         </a>
                     </div>
 
-                    <div class="col-sm-3 col-xs-3">
+                    <div class="col-sm-4 col-xs-4">
                         <a href="#/plataforma/inspector" target="_blank">
                             <div class="bGray3 rr40 p10">
                                 <span class="t14 color666 ff2">Inspector</span>
@@ -76,21 +79,35 @@
                         </a>
                     </div>
 
-                    <div class="col-sm-3 col-xs-3">
+                    <div class="col-sm-4 col-xs-4">
                     	<a href="#/plataforma/conductor" target="_blank">
                             <div class="bGray3 rr40 p10">
                                 <span class="t14 color666 ff2">Conductor</span>
                             </div>
                         </a>
                     </div>
-                    <div class="col-sm-3 col-xs-3">
-                    	<a href="#/plataforma/visor-app" target="_blank">
+                    
+                
+                </div>
+
+                <div class="row mb30">
+
+                    <div class="col-sm-6 col-xs-6">
+                        <a href="#/plataforma/visor-app" target="_blank">
                             <div class="bGray3 rr40 p10">
                                 <span class="t14 color666 ff2">VisorApp</span>
                             </div>
                         </a>
                     </div>
-                
+
+                    <div class="col-sm-6 col-xs-6">
+                        <a href="#/plataforma/pae-admin" target="_blank">
+                            <div class="bGray3 rr40 p10">
+                                <span class="t14 color666 ff2">PAE Admin</span>
+                            </div>
+                        </a>
+                    </div>
+                    
                 </div>
                 
 			</div>
