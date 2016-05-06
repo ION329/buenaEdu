@@ -474,7 +474,7 @@
                 <div class="bS1" style="background-color: #e0e7f3; border-radius: 5px 5px 0 0;">
                     <div class="pLR40">
                         <div class="p20">
-                            <div class="colorAzulBE ff2 t16">Day Foof Alimentación Inteligente</div>
+                            <div class="colorAzulBE ff2 t16">Day Food Alimentación Inteligente</div>
                         </div>
                     </div>
                 </div>  
@@ -495,7 +495,7 @@
                             <div class="row m0">
                                 <div class="col-xs-8 col-sm-8 pL0">
                                     <div class="mb30">
-                                        <img src="resources/img/temporal/dayfood.png" />
+                                        <img src="resources/img/temporal/dayfood2.png" />
                                     </div>
                                     <div class="colorVerde2 mb30">
                                         Servicios especializados en alimentacion con mas de 7 años de experiencia. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ullam nam, ab velit eveniet eligendi perferendis quod! Porro ex enim voluptatibus, voluptate reiciendis facilis, asperiores quisquam maiores laboriosam ullam quo sit?... Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iure rerum aperiam voluptatem, dolorum vel corporis.
@@ -517,7 +517,8 @@
                                         <div class="color333 mb5">Duracion del convenio</div>
                                         <div class="ff2 mb20 t16">150 Días</div>
                                         <div class="color333 mb10">Valor del Convenio</div>
-                                        <div class="ff2 mb30 t16">$360.000.000</div>
+                                        <div class="ff2 mb20 t16">$360.000.000</div>
+                                        <div class="mb30 t16"><a href="" class="aSS" style="text-decoration: underline">Finalizar Convenio</a></div>
                                     </div>
                                 </div>
                             </div>
