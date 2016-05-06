@@ -85,8 +85,27 @@
                     
                     <div class="row m0">
                         <div class="col-xs-6 color666 ff2 vcenter">Especifique una fecha de inicio y finalización del programa</div><!--
-                    --><div class="col-xs-3 vcenter"><input id="" class="form-control input-bykrF" type="text" name="" placeholder="Inicio del Programa"></div><!--
-                    --><div class="col-xs-3 vcenter"><input id="" class="form-control input-bykrF" type="text" name="" placeholder="Finaliza"></div>
+                    --><div class="col-xs-3 vcenter pR0">
+                            <div class="input-group date" data-provide="datepicker">
+                                <input id="" class="form-control input-bykrF" type="text" name="" placeholder="Inicio del Programa" style="border-right: 0px solid white !important;">
+                                <div class="input-group-addon cP" style="padding: 2px; background-color: white">
+                                    <div class="dIB bGray5" style="width: 26px; padding: 5px 2px; border-radius: 3px">
+                                        <img src="resources/img/icons/calwhite.png">
+                                    </div>
+                                </div>    
+                            </div>
+                            
+                        </div><!--
+                    --><div class="col-xs-3 vcenter">
+                            <div class="input-group date" data-provide="datepicker">
+                                <input id="" class="form-control input-bykrF" type="text" name="" placeholder="Finaliza" style="border-right: 0px solid white !important;">
+                                <div class="input-group-addon cP" style="padding: 2px; background-color: white">
+                                    <div class="dIB bGray5" style="width: 26px; padding: 5px 2px; border-radius: 3px">
+                                        <img src="resources/img/icons/calwhite.png">
+                                    </div>
+                                </div>    
+                            </div>
+                        </div>
                     </div>
 
                     <div class="row m0"><div class="col-xs-12"><hr class="bykrHr"></div></div>
@@ -229,11 +248,21 @@
 
                 <div class="bS1 p30 mb30 bAzulL">
                     <div class="row">
-                        <div class="col-xs-4 col-xs-offset-2 vcenter">
+                        <div class="col-xs-4 col-xs-offset-1 vcenter">
                             <div class="color666 ff2">¿Cuando finaliza esta licitación?</div>
                         </div><!--
-                    --><div class="col-xs-2 vcenter p0"><input id="" class="form-control input-bykrF" type="text" name="" placeholder="03 Mayo 2016"></div><!--
-                    --><div class="col-xs-2 vcenter">
+                    --><div class="col-xs-3 vcenter p0">
+                            <div class="input-group date" data-provide="datepicker">
+                                <input id="" class="form-control input-bykrF" type="text" name="" value="03 Mayo 2016" style="border-right: 0px solid white !important;">
+                                <div class="input-group-addon cP" style="padding: 2px; background-color: white">
+                                    <div class="dIB bGray5" style="width: 26px; padding: 5px 2px; border-radius: 3px">
+                                        <img src="resources/img/icons/calwhite.png">
+                                    </div>
+                                </div>    
+                            </div>
+
+                        </div><!--
+                    --><div class="col-xs-3 vcenter">
                             <select class="selStd5 rr5" style="background-color: white">
                                 <option value="enero">0:00 am</option>
                                 <option value="febrero">1:00 am</option>
