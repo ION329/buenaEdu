@@ -1,27 +1,27 @@
 <div class="ionix">
     <div class="row m0">
-        <div class="col-xs-4 p0">
-            <div class="contEstandar bGray3 hIzquierda">
+        <div class="col-xs-4 p0" style="position: relative;">
+            <div class="bGray3 menuRuta" style="border-left: 1px solid #ccc; border-right: 1px solid #ccc;">
                 <div>
                     <ul class="nav ff2 t16 menuAzul2" style="width: 100%;">
                         <li class="active">
-                            <a class="color666 taC tU buttonH" style="padding-top: 11px; padding-bottom: 11px;" target="_self" href="#resumen" data-toggle="tab"><div class="dIB iconruta4 vcenter"></div></a>
+                            <a class="color666 taC tU" style="padding-top: 11px; padding-bottom: 11px;" target="_self" href="#resumen" data-toggle="tab"><div class="dIB iconruta4 vcenter"></div></a>
                         </li>
                         <li>
-                            <a class="color666 taC tU buttonH" style="padding-top: 11px; padding-bottom: 11px;" target="_self" href="#rutas" data-toggle="tab"><div class="dIB iconruta1 vcenter"></div></a>
+                            <a class="color666 taC tU" style="padding-top: 11px; padding-bottom: 11px;" target="_self" href="#rutas" data-toggle="tab"><div class="dIB iconruta1 vcenter"></div></a>
                         </li>
                         <li>
-                            <a class="color666 taC tU buttonH" style="padding-top: 11px; padding-bottom: 11px;" target="_self" href="#notificaciones" data-toggle="tab"><div class="dIB iconruta5 vcenter"></div></a>
+                            <a class="color666 taC tU" style="padding-top: 11px; padding-bottom: 11px;" target="_self" href="#notificaciones" data-toggle="tab"><div class="dIB iconruta5 vcenter"></div></a>
                         </li>
                     </ul>
                 </div>
                 <div class="tab-content">
                     <div id="resumen" class="tab-pane fade in active">
-                        <div class="p30">
+                        <div class="p30" style="padding-bottom: 10px">
 
                             <div class="mb20">
                                 <div class="input-group">
-                                    <input id="" class="form-control input-bykrF" type="text" placeholder="Ingrese un parametro de busqueda" style="height: 45px">
+                                    <input id="" class="form-control input-bykrF" type="text" placeholder="Ingrese un parametro de busqueda" style="">
                                     <div class="input-group-addon cP">Buscar</div>
                                 </div>
                             </div>
@@ -54,15 +54,14 @@
                                 </div>
                             </div>
 
-                            <div class="mb30">
+                            <div class="mb20">
                                 <div class="color999 ff2 mb10">Grupo</div>
                                 <select class="selStd5" style="background-color: #fff">
                                     <option value="">Seleccione...</option>
                                 </select>
                             </div>
 
-                            <div class="taC mb30"><a class="bBasic4 rr40 bVerde5 taC colorfff" href="" style="margin: 0px 5px; padding: 18px 50px"><b class="">Ingresar a Ruta</b></a></div>
-                            <br><br><br><br><br><br>
+                            <div class="taC mb20"><a class="bBasic4 rr40 bVerde5 taC colorfff" href="" style="margin: 0px 5px; padding: 18px 50px"><b class="">Ingresar a Ruta</b></a></div>
 
                             <div class="row m0 bS1">
                                 <a href="">
@@ -128,7 +127,30 @@
                         
             </div>
         </div>
-        <div class="col-xs-8 p0 fondomapa hDerecha"></div>
+        <div class="col-xs-8 p0" style="position: relative;">
+            <div class="bGray2 mapRuta">    
+                <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d7965.402005723795!2d-76.55031239238298!3d3.4228181093305126!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1ses!2sit!4v1462985452212" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+            </div>
+
+            <div class="conteRuta4" style="">
+                <div class="p20">
+                    <div class="dIB"><img src="resources/img/icons/logoruta.png" width="40"></div>&nbsp;&nbsp;&nbsp;
+                    <div class="dIB vcenter t16" style="color: #ddd;"><b>Ruta 14: </b> Juan Jose ya esta en la ruta... <b>6:15 am</b></div>
+                </div>
+            </div>
+
+            <div class="paradasRuta" style="top: 50px; right: 400px;">
+                <div class="dIB"><img src="resources/img/icons/logoruta.png" width="40"></div>
+            </div>
+
+            <div class="paradasRuta" style="top: 180px; left: 100px;">
+                <div class="dIB"><img src="resources/img/icons/logoruta.png" width="40"></div>
+            </div>
+
+            <div class="paradasRuta" style="top: 280px; right: 478px;">
+                <div class="dIB"><img src="resources/img/icons/logoruta.png" width="40"></div>
+            </div>
+        </div>
     </div>
 </div>
 

@@ -1,117 +1,160 @@
-
-<div class="p30">
-    <div class="t30 mb20">Historial de Recorridos</div>
-
-    <div class="row mb20">
-
-        <div class="col-xs-6 col-sm-6">
-            <div class="contEstandar p10 ff2 bWhite">
-                DISTANCIA RECORRIDA
-            </div>
-            <div class="contEstandar p20 bWhite" style="margin-top: -1px">
-                <div class="tab">
-                    <div class="tabIn">
-                        <img src="resources/img/icons/r-distanciab.png" />
-                    </div>
-                    <div class="tabIn taR">
-                        <span class="ff2 t50 colorAzul">45,3 Km</span> 
-                    </div>
-                </div>
-            </div>
-            <div class="contEstandar p10 bWhite" style="margin-top: -1px">
-                
-                <div class="tab">
-                    <div class="tabIn color999">
-                        <img src="resources/img/icons/r-tiempo.png" /> <span class="vcenter">Ultimo Registro</span>
-                    </div>
-                    <div class="tabIn taR ff2 t20">8,23 Km</div>
-                </div>
-
-            </div>
-        </div>
-        
-        <div class="col-xs-6 col-sm-6">
-            <div class="contEstandar p10 ff2 bWhite">
-                DURACIÓN RECORRIDOS
-            </div>
-            <div class="contEstandar p20 bWhite" style="margin-top: -1px">
-                <div class="tab">
-                    <div class="tabIn">
-                        <img src="resources/img/icons/r-tiempob.png" />
-                    </div>
-                    <div class="tabIn taR">
-                        <span class="ff2 t50 colorVerde2">08:36:19</span> 
-                    </div>
-                </div>
-            </div>
-            <div class="contEstandar p10 bWhite" style="margin-top: -1px">
-                <div class="tab">
-                    <div class="tabIn color999">
-                        <img src="resources/img/icons/r-tiempo.png" /> <span class="vcenter">Último registro</span>
-                    </div>
-                    <div class="tabIn taR ff2 t20">02:15:28</div>
-                </div>
-            </div>
-        </div>
-
-    </div>
-
-    <div class="row">
-        <div class="col-xs-12 col-sm-12">
-            <div class="table-responsive">
-                <table class="table">
-                    <thead class="pTable">
-                        <tr style="border: 0px; background-color: transparent">
-                            <th style="background-color: transparent; border: 0px; vertical-align: top;">
-                                <div class="vcenter"><img src="resources/img/icons/adm3.png"></div>
-                                <div class="vcenter">
-                                    <div class="btn-group" style="width:100px;">
-                                        <button class="btn btn-primary bGray btn-bykr rr20" style="border-color:#ccc;" type="button"><img width="10" src="resources/img/icons/arR.png"></button>
-                                        <button class="btn btn-primary bGray btn-bykr rr20" style="border-color:#ccc;" type="button"><img width="10" src="resources/img/icons/arL.png"></button>
-                                    </div>
-                                </div>
-                                <div class="vcenter">
-                                    <span class="t24 colorVirde ff2">Febrero</span>
-                                    <span class="t24 color666 ff0">2016</span>
-                                </div>
-                            </th>
-                            <th style="background-color: transparent; border: 0px; vertical-align: top;" class="taC">
-                                <div class="color999">RECORRIDOS<br>REALIZADOS</div>
-                            </th>
-                            <th style="background-color: transparent; border: 0px; vertical-align: top;" class="taC">
-                                <div class="color999">DISTANCIA<br>RECORRIDA</div>
-                            </th>
-                            <th style="background-color: transparent; border: 0px; vertical-align: middle;" class="taC">
-                                <div class="color999">TIEMPO</div>
-                            </th>
-                            <th style="background-color: transparent; border: 0px; vertical-align: middle;" class="taC">
-                                <div class="color999">OBSERVACIONES <img src="resources/img/icons/mE4.png"></div>
-                            </th>
-                        </tr>
-                    </thead>
-                    <tbody class="pTable">
-
-                        <?php for($tt=0; $tt<7; $tt++){ ?>
-                        <tr style="background-color: #ddd" class="tableHover cP">
-                            <td class="colorAzul ff2">Lunes, 1 de Febrero</td>
-                            <td class="ff2 taC">2</td>
-                            <td class="ff2 taC">23 Km</td>
-                            <td class="ff2 taC">02:30:17</td>
-                            <td class="taC"></td>
-                        </tr>
-                        <tr style="background-color: #fff" class="tableHover cP">
-                            <td class="colorAzul ff2">Viernes, 28 de Febrero</td>
-                            <td class="ff2 taC">2</td>
-                            <td class="ff2 taC">25 Km</td>
-                            <td class="ff2 taC">02:30:17</td>
-                            <td class="taC"></td>
-                        </tr>
-                        <?php } ?>
-                    </tbody>
-                </table>
-            </div>    
-        </div>
-    </div>
-
+<div class="bGray2 mapRuta">    
+    <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d7965.402005723795!2d-76.55031239238298!3d3.4228181093305126!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1ses!2sit!4v1462985452212" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 </div>
 
+<div class="paradasRuta" style="top: 190px; left: 270px;">
+    <div class="dIB iconNotificacion2">
+        <span class="colorfff ff2 t16 vcenter" style="margin-top: 20%; margin-left: 28%;">5</span>
+    </div>
+</div>
+
+<div class="paradasRuta" style="top: 280px; left: 230px;">
+    <div class="dIB iconNotificacion2">
+        <span class="colorfff ff2 t16 vcenter" style="margin-top: 20%; margin-left: 28%;">5</span>
+    </div>
+</div>
+
+<div class="paradasRuta" style="top: 360px; left: 290px;">
+    <div class="dIB iconNotificacion2">
+        <span class="colorfff ff2 t16 vcenter" style="margin-top: 20%; margin-left: 28%;">5</span>
+    </div>
+</div>
+
+<div class="paradasRuta" style="top: 430px; left: 245px;">
+    <div class="dIB">
+        <img src="resources/img/icons/mapok.png">
+    </div>
+</div>
+
+<div class="bGray3 conteRuta3 bS1">
+    <div class="p20 ff2 t16" style="background-color: #f1cf00">Martes, 23 de Marzo de 2016</div>
+
+    <div>
+        <ul class="nav menuAzul3" style="width: 100%; background-color: #f5f5f5">
+            <li class="active">
+                <a class="color999 taC tU bS1" style="padding-top: 12px; padding-bottom: 12px; margin-left: -1px" target="_self" href="#recorrido" data-toggle="tab"><center><div class="iconrecorrido3 mb5"></div><div class="">DETALLE DE RECORRIDO</div></center></a>
+            </li>
+            <li>
+                <a class="color999 taC tU bS1" style="padding-top: 12px; padding-bottom: 12px; margin-left: -1px" target="_self" href="#paradas" data-toggle="tab"><center><div class="iconrecorrido4 mb5"></div><div class="">PARADAS REALIZADAS</div></center></a>
+            </li>
+            <li>
+                <a class="color999 taC tU bS1" style="padding-top: 12px; padding-bottom: 12px; margin-left: -1px; border-right: 0px;" target="_self" href="#notificaciones" data-toggle="tab"><center><div class="iconrecorrido1 mb5"></div><div class="">NOTIFICACIONES REALIZADAS</div></center></a>
+            </li>
+        </ul>
+    </div>
+
+    <div class="tab-content">
+        <div id="recorrido" class="tab-pane fade in active">
+            <div class="maxSizeCR2">
+                <div class="p20">
+                    <div class="bS1 bWhite mb10">
+                        <div class="p10" style="border-bottom: 1px solid #ccc">
+                            <div class="row mb10">
+                                <div class="col-xs-4 col-sm-4 vcenter pR0">
+                                    <img src="resources/img/icons/vinetaverde.png">&nbsp;<span class="colorAzul t18 ff2 vcenter">5:53 am</span>
+                                </div><!--
+                            --><div class="col-xs-8 col-sm-8 vcenter">
+                                    <span class="ff2">Salida</span>&nbsp;<span class="color999">Colegio Claret</span>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-xs-4 col-sm-4 vcenter pR0">
+                                    <img src="resources/img/icons/vinetaverde.png">&nbsp;<span class="colorAzul t18 ff2 vcenter">7:10 am</span>
+                                </div><!--
+                            --><div class="col-xs-8 col-sm-8 vcenter">
+                                    <span class="ff2">Llegada</span>&nbsp;<span class="color999">Cra. 17G # 28-90</span>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="p10"><img src="resources/img/icons/r-distancia.png">&nbsp;<span class="color999 vcenter">02:35:12</span></div>
+                    </div>
+
+                    <div class="bS1 bWhite mb10">
+                        <div class="p10" style="border-bottom: 1px solid #ccc">
+                            <div class="row mb10">
+                                <div class="col-xs-4 col-sm-4 vcenter pR0">
+                                    <img src="resources/img/icons/vinetaverde.png">&nbsp;<span class="colorAzul t18 ff2 vcenter">2:06 am</span>
+                                </div><!--
+                            --><div class="col-xs-8 col-sm-8 vcenter">
+                                    <span class="ff2">Salida</span>&nbsp;<span class="color999">Colegio Claret</span>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-xs-4 col-sm-4 vcenter pR0">
+                                    <img src="resources/img/icons/vinetaverde.png">&nbsp;<span class="colorAzul t18 ff2 vcenter">2:48 am</span>
+                                </div><!--
+                            --><div class="col-xs-8 col-sm-8 vcenter">
+                                    <span class="ff2">Llegada</span>&nbsp;<span class="color999">Cra. 17G # 28-90</span>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="p10"><img src="resources/img/icons/r-distancia.png">&nbsp;<span class="color999 vcenter">02:35:12</span></div>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+        <div id="paradas" class="tab-pane fade">
+            <div class="maxSizeCR2">
+                <div class="tab" style="padding: 10px 20px;">
+                    <div class="tabIn ff2">Paradas Realizadas</div>
+                    <div class="tabIn taR">
+                        <div class="dIB bVerde5 rr50" style="padding: 8px;">
+                            <span class="colorfff t18">12</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="row m0 bWhite p20" style="border-bottom: 1px solid #ccc">
+                    <div class="col-xs-2 col-sm-2 p0">
+                        <div class="dIB iconNotificacion taC">
+                            <span class="ff2 colorfff vcenter" style="margin-top: 20%">18</span>
+                        </div>
+                        <div class="dIB rr50" style="background-color: #FF8000; padding: 3px 4px; position: absolute; top: -5px; right: 13px;"><img src="resources/img/icons/iconnotificacion.png"></div>
+                    </div>
+                    <div class="col-xs-10 col-sm-10 p0">
+                        <div class="t18 ff2 mb5">7:15 a.m.</div>
+                        <div>Juanito Perez Restrepo</div>
+                    </div>
+                </div>
+                <?php for($dd=0; $dd<5; $dd++){ ?>
+                <div class="row m0 bWhite p20" style="border-bottom: 1px solid #ccc">
+                    <div class="col-xs-2 col-sm-2 p0">
+                        <div class="dIB iconNotificacion taC">
+                            <span class="ff2 colorfff vcenter" style="margin-top: 20%">17</span>
+                        </div>
+                        <!--<div class="dIB rr50" style="background-color: #FF8000; padding: 3px 4px; position: absolute; top: -5px; right: 13px;"><img src="resources/img/icons/iconnotificacion.png"></div>-->
+                    </div>
+                    <div class="col-xs-10 col-sm-10 p0">
+                        <div class="t18 ff2 mb5">7:07 a.m.</div>
+                        <div>Nombre estudiante o dirección</div>
+                    </div>
+                </div>
+                <?php } ?>
+            </div>
+        </div>
+
+        <div id="notificaciones" class="tab-pane fade">
+            <div class="maxSizeCR2">
+                <div class="p20">
+                    <div class="p20 bAzulComida mb10">
+                        <div class="mb10 color999"><b>Ruta 18</b> 6:25 A.M</div>
+                        <div>La Autopista sur con 44 ak frente del rancho de Jonas hay un accidente de transito y llevo 15 minutos en el trancon.</div>
+                    </div>
+                    <div class="p20 bAzulComida mb10">
+                        <div class="mb10 color999"><b>Ruta 18</b> 6:25 A.M</div>
+                        <div class="row">
+                            <div class="col-xs-2 vcenter"><img src="resources/img/icons/play.png" class="cP"></div><!--
+                        --><div class="col-xs-6 vcenter p0"><hr style="border-color: green !important; border: 4px solid; border-radius: 3px; margin: 0;"></div><!--
+                        --><div class="col-xs-4 color999 vcenter">0:03</div>
+                        </div>
+                    </div>
+                    <div class="p20 bAzulComida mb10">
+                        <div class="mb10 color999"><b>Ruta 18</b> 6:25 A.M</div>
+                        <div>La Autopista sur con 44 ak frente del rancho de Jonas hay un accidente de transito y llevo 15 minutos en el trancon.</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

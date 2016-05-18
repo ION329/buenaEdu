@@ -310,11 +310,23 @@ var Ion = {
 
 		$(".allion").height(alto);
 
+		$(".mapRuta").height(alto - 100);
+		$(".mapRuta iframe").height(alto - 100);
+		$(".mapRuta iframe").width("100%");
+
+		$(".menuRuta").height(alto - 100);
+
+		$(".conteRuta").height(alto - 200);
+
 		$(".bodBuddy").height(alto-100);
 		$(".menuMunu").height(alto-100);
 
 		$(".menuLateral").css('min-height', alto-100);
 		$(".contSingular").css('min-height', alto-100);
+		$(".maxSize").css('max-height', alto-100);
+		$(".maxSizeCR").css('max-height', alto-260);
+		$(".maxSizeCR2").css('max-height', alto-350);
+		$(".maxSizeCR3").css('max-height', alto-280);
 
 
 

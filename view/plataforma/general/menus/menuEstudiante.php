@@ -91,6 +91,20 @@
     </div>
 </a>
 
+<!-- Falta el mapa y el icono -->
+<a href="">
+    <div class="optMenLat">
+        <div class="tabAll">
+            <div class="tabIn w60" >
+                <div class="bTipo9 bTipoB"></div>
+            </div>
+            <div class="tabIn ff2 t16">
+                Ruta Escolar
+            </div>
+        </div>
+    </div>
+</a>
+
 <a href="#/plataforma/estudiante/pae">
 	<div class="optMenLat">
         <div class="tabAll">

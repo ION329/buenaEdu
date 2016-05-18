@@ -93,8 +93,16 @@
                                                 <div class="bS1 p10 bWhite">
                                                     <div class="tab">
                                                         <div class="tabIn">
+                                                            <!--
                                                             <a href=""><div class="dIB p510 color333 bGray3 bS1 cP rr10">Seleccionar archivo</div></a> &nbsp;
                                                             <span class="color999">Ningun archivo seleccionado</span>
+                                                            -->
+                                                            <div class="fileUpload dIB p510 color333 bGray3 bS1 cP rr10 vcenter">
+                                                                <span>Seleccionar Archivo</span>
+                                                                <input id="uploadBtn" type="file" class="upload" />
+                                                            </div> &nbsp;
+                                                            <span class="color999 vcenter">Ningun archivo seleccionado</span>
+                                                            <!-- Por favor crear un script que cambie el span de Ningun archivo seleccionado por el archivo que seleccione el usuario http://geniuscarrier.com/how-to-style-a-html-file-upload-button-in-pure-css/ -->
                                                         </div>
                                                         <div class="tabIn taR">
                                                             <!--<a class="bBasic1 rr5 bAzulBE taC p1020 cP" style="border: 1px solid;"><b class="colorfff">Subir firma</b></a>-->
@@ -210,8 +218,13 @@
                                                 <div class="bS1 p10 bWhite">
                                                     <div class="tab">
                                                         <div class="tabIn">
-                                                            <a href=""><div class="dIB p510 color333 bGray3 bS1 cP rr10">Seleccionar archivo</div></a> &nbsp;
-                                                            <span class="color999">Ningun archivo seleccionado</span>
+                                                            <div class="fileUpload dIB p510 color333 bGray3 bS1 cP rr10 vcenter">
+                                                                <span>Seleccionar Archivo</span>
+                                                                <input id="uploadBtn" type="file" class="upload" />
+                                                            </div> &nbsp;
+                                                            <span class="color999 vcenter">Ningun archivo seleccionado</span>
+                                                            <!--<a href=""><div class="dIB p510 color333 bGray3 bS1 cP rr10">Seleccionar archivo</div></a> &nbsp;
+                                                            <span class="color999">Ningun archivo seleccionado</span>-->
                                                         </div>
                                                         <div class="tabIn taR">
                                                             <!--<a class="bBasic1 rr5 bAzulBE taC p1020 cP" style="border: 1px solid;"><b class="colorfff">Subir firma</b></a>-->
@@ -233,7 +246,7 @@
                                             <div class="tab">
                                                 <div class="tabIn t16">Estudiantes Asignados a la ruta <b>(28)</b> </div>
                                                 <div class="tabIn taR">
-                                                    <a href=""><div class="dIB bS1 bGray colorVerde2" style="padding: 5px 10px"><span class="vcenter">Agregar pasajeros</span> &nbsp;<img src="resources/img/icons/add+.png"></div></a>
+                                                    <a href=""><div class="dIB bS1 bGray colorVerde2 bBasic3" style="padding: 5px 10px"><span class="vcenter">Agregar pasajeros</span> &nbsp;<img src="resources/img/icons/add+.png"></div></a>
                                                 </div>
                                             </div>
                                         </div>

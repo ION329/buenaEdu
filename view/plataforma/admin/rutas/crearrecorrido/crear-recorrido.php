@@ -1,7 +1,7 @@
 <div class="ionix">
     <div class="row m0">
-        <div class="col-xs-4 p0">
-            <div class="contEstandar bGray3" style="min-height: 557px">
+        <div class="col-xs-4 col-sm-4 p0">
+            <div class="bGray3 menuRuta" style="border-left: 1px solid #ccc; border-right: 1px solid #ccc;">
 
                 <div class="" style="padding: 10px 30px"><img src="resources/img/icons/adm3.png" width="40">&nbsp;<span class="ff2 t16 vcenter">Lunes, Marzo 4 de 2016</span></div>
 
@@ -118,8 +118,24 @@
                         
             </div>
         </div>
-        <div class="col-xs-8 p0">
-            <div class="fondomapa4"></div>
+        <div class="col-xs-8 col-sm-8 p0" style="position: relative;">
+            <div class="bGray2 mapRuta">    
+                <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d7965.402005723795!2d-76.55031239238298!3d3.4228181093305126!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1ses!2sit!4v1462985452212" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+            </div>
+
+            <div class="paradasRuta" style="top: 50px; left: 400px;">
+                <div class="dIB"><img src="resources/img/icons/logoruta.png" width="40"></div>
+            </div>
+
+            <div class="paradasRuta" style="top: 180px; left: 100px;">
+                <div class="dIB"><img src="resources/img/icons/logoruta.png" width="40"></div>
+            </div>
+
+            <div class="paradasRuta" style="top: 280px; left: 230px;">
+                <div class="dIB iconNotificacion2">
+                    <span class="colorfff ff2 t16 vcenter" style="margin-top: 20%; margin-left: 28%;">1</span>
+                </div>
+            </div>
         </div>
     </div>
 </div>

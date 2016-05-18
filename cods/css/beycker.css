@@ -61,6 +61,30 @@ a.acordion-bykr {
     padding: 10px 30px 10px 10px !important;
 }
 
+a.acordion-ruta {
+  padding: 10px 28px 10px 10px !important;
+}
+
+.mFuq2 .panel-heading .panel-title a.acordion-ruta {
+    background: #eee url("../../resources/img/icons/minus.png") no-repeat scroll right center !important;
+}
+
+.mFuq2 .panel-heading .panel-title a.acordion-ruta.collapsed {
+    background: #eee url("../../resources/img/icons/more.png") no-repeat scroll right center !important;
+}
+
+a.acordion-ruta2 {
+  padding: 10px 28px 10px 10px !important;
+}
+
+.mFuq2 .panel-heading .panel-title a.acordion-ruta2 {
+    background: #eee url("../../resources/img/icons/minus2.png") no-repeat scroll right center !important;
+}
+
+.mFuq2 .panel-heading .panel-title a.acordion-ruta2.collapsed {
+    background: #eee url("../../resources/img/icons/more2.png") no-repeat scroll right center !important;
+}
+
 a.acordion-bykr2 {
     padding: 17px 40px 17px 20px !important;
 }
@@ -189,7 +213,7 @@ tr.bBeycker:hover{
 }
 
 .menuVisorH:hover                           { background-color: #ebebeb; color: #000; font-family: "Open Sans",sans-serif; font-weight: 700; }
-.menuDetalle span:hover                     { color: #000; font-family: "Open Sans",sans-serif; font-weight: 700; }
+.menuDetalle span:hover                     { color: #333; font-family: "Open Sans",sans-serif; font-weight: 700; }
 
 .bykrHober3                                 { border: 1px solid transparent; }
 .bykrHober3:hover                           { background-color: #E0ECF8; border: 1px solid #25b76c; }
@@ -261,10 +285,14 @@ li.active .iconencuesta3                { width: 31px; height: 20px; background-
 .iconrecorrido1                         { width: 28px; height: 30px; background-image: url("../../resources/img/icons/iconrecorrido11.png"); background-repeat: no-repeat; }
 .iconrecorrido2                         { width: 27px; height: 30px; background-image: url("../../resources/img/icons/iconrecorrido22.png"); background-repeat: no-repeat; }
 .iconrecorrido3                         { width: 42px; height: 30px; background-image: url("../../resources/img/icons/iconrecorrido33.png"); background-repeat: no-repeat; }
+.iconrecorrido4                         { width: 52px; height: 30px; background-image: url("../../resources/img/icons/iconrecorrido44.png"); background-repeat: no-repeat; }
+.iconrecorrido5                         { width: 30px; height: 30px; background-image: url("../../resources/img/icons/iconrecorrido55.png"); background-repeat: no-repeat; }
 
 li.active .iconrecorrido1               { width: 28px; height: 30px; background-image: url("../../resources/img/icons/iconrecorrido1.png"); background-repeat: no-repeat; }
 li.active .iconrecorrido2               { width: 27px; height: 30px; background-image: url("../../resources/img/icons/iconrecorrido2.png"); background-repeat: no-repeat; }
 li.active .iconrecorrido3               { width: 42px; height: 30px; background-image: url("../../resources/img/icons/iconrecorrido3.png"); background-repeat: no-repeat; }
+li.active .iconrecorrido4               { width: 52px; height: 30px; background-image: url("../../resources/img/icons/iconrecorrido4.png"); background-repeat: no-repeat; }
+li.active .iconrecorrido5               { width: 30px; height: 30px; background-image: url("../../resources/img/icons/iconrecorrido5.png"); background-repeat: no-repeat; }
 
 .menuAzulC li.active a                  { color: #48a8b8 !important; background-color: #fff !important; }
 .menuAzul3 li.active a                  { color: #4d90fe !important; background-color: #fff !important; }
@@ -519,3 +547,95 @@ input[type=radio].stramboticCheck:not(old):checked +  label > span > span{
   background-image :         linear-gradient(rgb(179,217,140),rgb(153,204,102));
 }
 
+.fileUpload {
+    position: relative;
+    overflow: hidden;
+    /*margin: 10px;*/
+}
+.fileUpload input.upload {
+    position: absolute;
+    top: 0;
+    right: 0;
+    margin: 0;
+    padding: 0;
+    font-size: 20px;
+    cursor: pointer;
+    opacity: 0;
+    filter: alpha(opacity=0);
+}
+
+.mapRuta {
+  position: absolute;
+  z-index: 10;
+  width: 100% !important;
+  height: auto;
+}
+
+.menuRuta {
+  position: absolute;
+  z-index: 10;
+  width: 100% !important;
+  height: auto;
+}
+
+.mapRuta iframe {
+  margin: 0 !important;
+  border: 0 !important;
+  padding: 0 !important;
+}
+
+.conteRuta {
+  position: absolute;
+  z-index: 20;
+  width: 350px;
+  height: auto;
+  top: 50px;
+  overflow: auto;
+  right: 20px;
+}
+
+.conteRuta2 {
+  position: absolute;
+  z-index: 20;
+  width: 350px;
+  height: auto;
+  top: 150px;
+  overflow: auto;
+  left: 150px;
+}
+
+.conteRuta3 {
+  position: absolute;
+  z-index: 20;
+  width: 400px;
+  height: auto;
+  top: 50px;
+  overflow: auto;
+  right: 20px;
+}
+
+.conteRuta4 {
+  position: absolute;
+  z-index: 20;
+  width: 100%;
+  height: auto;
+  top: 400px;
+  overflow: auto;
+  left: 0px;
+  background-color: rgba(150, 150, 150, 0.8);
+}
+
+.paradasRuta {
+  position: absolute;
+  z-index: 20;
+  width: auto;
+  height: auto;
+  overflow: auto;
+}
+
+.maxSize, .maxSizeCR, .maxSizeCR2, .maxSizeCR3 {
+  overflow: scroll;
+}
+
+.iconNotificacion         { width: 30px; height: 31px; background-image: url("../../resources/img/icons/globonotificacion.png"); background-repeat: no-repeat; }
+.iconNotificacion2         { width: 51px; height: 47px; background-image: url("../../resources/img/icons/globonotificacion2.png"); background-repeat: no-repeat; }

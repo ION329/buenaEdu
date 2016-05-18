@@ -99,6 +99,9 @@ var Banco = {
 			}).when('/plataforma/acudiente/pae', {
 			templateUrl: 'view/plataforma/acudiente/pae/index.php',
 			controller: 'control_init'
+			}).when('/plataforma/acudiente/ruta-escolar', {
+			templateUrl: 'view/plataforma/acudiente/ruta/index.php',
+			controller: 'control_init'
 			
 			
 //////// ESTUDIANTE

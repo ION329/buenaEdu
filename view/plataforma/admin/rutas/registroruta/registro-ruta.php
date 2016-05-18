@@ -98,7 +98,7 @@
                         </div>
                         <div class="col-xs-7">
                             <div class="ff2 t24 mb20">Bienvenido, Andrés Ospina</div>
-                            <div class="color666 t16 mb20">Para comenzar con la Gestión y monitoreo del transporte escolar, debes ingresar los datos de los vehículos, los datos de los condictores y asignar los estudiantes por edad.</div>
+                            <div class="color666 t16 mb20">Para comenzar con la Gestión y monitoreo del transporte escolar, debes ingresar los datos de los vehículos, los datos de los conductores y asignar los estudiantes por edad.</div>
                             <div><a class="bBasic4 rr40 bVerde5 taC bBeycker colorfff" style="margin: 0px 5px" href=""><b class="">Crear Rutas</b></a></div>
                         </div>
                         <div class="col-xs-3 taR">
@@ -110,7 +110,7 @@
 
             <div class="dBeycker2 dN">
                 <div class="limite1000">
-                    <div class="t24 mb10">Cree las rutas, agrege el condictor y asigne los estudiantes</div>
+                    <div class="t24 mb10">Cree las rutas, agrege el conductor y asigne los estudiantes</div>
                     <div class="t18 mb20 color666">Ingresa todos los datos del vehículo, junto con los datos <br> del conductor y lleva el control de todo el transporte escolar</div>
                     <div class="contEstandar taL bWhite p20 mb20">
                         <div class="tab mb20">
@@ -143,8 +143,8 @@
                                                 <div class="tab">
                                                     <div class="tabIn">Menores de 6 años</div>
                                                     <div class="tabIn taR">
-                                                        <img src="resources/img/icons/lapiz2.png"/>
-                                                        <img src="resources/img/icons/cerrar.png"/>
+                                                        <a href=""><img src="resources/img/icons/lapiz2.png"/></a>
+                                                        <a href=""><img src="resources/img/icons/cerrar.png"/></a>
                                                     </div>
                                                 </div>
                                             </td>
